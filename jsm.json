@@ -3717,7 +3717,10 @@
       "name": "单┃瓜子┃App",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "./jar/瓜子.jar"
+      "jar": "./jar/瓜子.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 
     {
