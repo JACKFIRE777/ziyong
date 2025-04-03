@@ -1692,6 +1692,15 @@
       "filterable": 0
     },
     {
+      "key": "采集┃39采集",
+      "name": "采集┃39采集",
+      "type": 1,
+      "api": "https://www.394tv.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0
+    },
+
+    {
       "key": "csp_sp_龙门短剧",
       "name": "采集┃龙门短剧",
       "type": 1,
@@ -2770,7 +2779,7 @@
     },
     {
       "key": "花香采集资源",
-      "name": "花香 | 采集",
+      "name": "🔞花香┃采集",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/",
       "playerType": 1,

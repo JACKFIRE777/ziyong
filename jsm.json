@@ -3713,6 +3713,14 @@
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
     {
+      "key": "单┃瓜子",
+      "name": "单┃瓜子┃App",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "./jar/瓜子.jar"
+    },
+
+    {
       "key": "单┃移动云盘",
       "name": "单┃移动┃免扫",
       "type": 3,
