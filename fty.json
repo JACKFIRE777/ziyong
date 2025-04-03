@@ -1,0 +1,957 @@
+{
+  "spider": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "sites": [
+    {
+      "key": "饭┃AList",
+      "name": "饭┃网盘|Alist",
+      "type": 3,
+      "api": "csp_AList",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
+        "drives": [
+          {
+            "name": "🤟托盘",
+            "server": "https://pan.mediy.cn/"
+          },
+          {
+            "name": "🔞ASMR语音",
+            "server": "https://www.asmrgay.com/"
+          },
+          {
+            "name": "🔞A大杂物库",
+            "server": "https://alist.qyide.com/"
+          },
+          {
+            "name": "🔞诸神小盘",
+            "server": "https://pan.zsxg.top/"
+          },
+          {
+            "name": "🔞福利盘",
+            "server": "http://69.161.221.160:5244/"
+          },
+          {
+            "name": "🔞罗汉果",
+            "server": "https://lala-ofbip.run.goorm.site/"
+          },
+          {
+            "name": "小雅云1",
+            "server": "http://123.60.191.158:5678/"
+          },
+          {
+            "name": "小雅云2",
+            "server": "https://xiaoya.whp.lat/"
+          },
+          {
+            "name": "小雅分类1",
+            "server": "http://www.jczyl.top:5344/"
+          },
+          {
+            "name": "小雅分类2",
+            "server": "http://www.214728327.xyz:5207/"
+          },
+          {
+            "name": "小雅分类3",
+            "server": "http://112.83.91.157:9999/"
+          },
+          {
+            "name": "小鸭",
+            "server": "http://www.214728327.xyz:5201/"
+          },
+          {
+            "name": "小雅备用1",
+            "server": "http://60.211.206.83:7006/"
+          },
+          {
+            "name": "小雅备用2",
+            "server": "http://119.91.79.148:5678/🈴我的阿里分享"
+          },
+          {
+            "name": "小雅备用3",
+            "server": "http://123.60.188.109:5678/"
+          },
+          {
+            "name": "小雅搜1",
+            "server": "http://198.211.29.109:5678/"
+          },
+          {
+            "name": "小雅搜2",
+            "server": "http://116.204.127.178:5678/"
+          },
+          {
+            "name": "小雅搜3",
+            "server": "http://49.233.159.168:5678/"
+          },
+          {
+            "name": "小丫分类备用",
+            "server": "http://123.60.191.158:5678/"
+          },
+          {
+            "name": "小丫搜1",
+            "server": "http://121.36.255.202:5678/"
+          },
+          {
+            "name": "小丫搜2",
+            "server": "http://3.37.123.38:5678/"
+          },
+          {
+            "name": "小丫",
+            "server": "http://alist.xiaoya.pro/"
+          },
+          {
+            "name": "小丫云",
+            "server": "http://1.14.19.228:5678/"
+          },
+          {
+            "name": "东哥1",
+            "server": "http://101.73.163.154:30008/"
+          },
+          {
+            "name": "东哥2",
+            "server": "http://101.34.67.237:5244/"
+          },
+          {
+            "name": "美云1",
+            "server": "http://xiaoya.nebula-nas.space:5678/"
+          },
+          {
+            "name": "美云2",
+            "server": "https://h.dfjx.ltd/"
+          },
+          {
+            "name": "TA盘",
+            "server": "https://tapan.top"
+          },
+          {
+            "name": "托盘",
+            "server": "https://pan.mediy.cn"
+          },
+          {
+            "name": "无心影视",
+            "server": "http://www.57mv.cn"
+          },
+          {
+            "name": "小新盘",
+            "server": "https://pan.cdnxin.top/"
+          },
+          {
+            "name": "喵喵盘",
+            "server": "https://pan.appmiu.com"
+          },
+          {
+            "name": "姬路白雪",
+            "server": "https://pan.jlbx.xyz/"
+          },
+          {
+            "name": "顾里酱的小屋",
+            "server": "https://gotsmoke.top"
+          },
+          {
+            "name": "七米蓝的仓库",
+            "server": "https://al.chirmyram.com/"
+          },
+          {
+            "name": "枭木资源盘",
+            "server": "https://pan.tmxios.top/"
+          },
+          {
+            "name": "星梦",
+            "server": "https://pan.bashroot.top/"
+          },
+          {
+            "name": "槿南盘",
+            "server": "https://68m72g5779.imdo.co"
+          },
+          {
+            "name": "dpan",
+            "server": "https://dpan.com.cn"
+          },
+          {
+            "name": "pan_ylmty",
+            "server": "https://pan.ylmty.cc"
+          },
+          {
+            "name": "Xiwangly的网盘",
+            "server": "https://pan.xiwangly.top"
+          },
+          {
+            "name": "白云",
+            "server": "http://breadmyth.asuscomm.com:22222/"
+          },
+          {
+            "name": "登拜科技",
+            "server": "https://wp.ioshh.com"
+          },
+          {
+            "name": "瑶瑶1",
+            "server": "http://123.60.78.63:1000/"
+          },
+          {
+            "name": "瑶瑶2",
+            "server": "https://lyly.run.goorm.io/"
+          },
+          {
+            "name": "木木网盘",
+            "server": "https://pan.jweiy.cn/MuMu"
+          },
+          {
+            "name": "潇洒",
+            "server": "https://alist.azad.asia/"
+          },
+          {
+            "name": "潇洒备用",
+            "server": "http://www.azad.asia:5244/"
+          },
+          {
+            "name": "鹏程",
+            "server": "https://pan.pengcheng.team/"
+          },
+          {
+            "name": "触光",
+            "server": "https://pan.ichuguang.com"
+          },
+          {
+            "name": "星梦",
+            "server": "https://pan.bashroot.top"
+          },
+          {
+            "name": "弱水",
+            "server": "http://shicheng.wang:555/"
+          },
+          {
+            "name": "神器",
+            "server": "https://alist.ygxz.xyz/"
+          },
+          {
+            "name": "ECVE资源小站",
+            "server": "https://pan.ecve.cn/"
+          },
+          {
+            "name": "雨呢",
+            "server": "https://pan.clun.top/"
+          },
+          {
+            "name": "酷呵盘",
+            "server": "https://pan.kuhehe.top/"
+          },
+          {
+            "name": "分享者1",
+            "server": "http://223.166.103.170:5244/"
+          },
+          {
+            "name": "分享者2",
+            "server": "https://melist.me/"
+          },
+          {
+            "name": "分享",
+            "server": "https://ofoo.ml/"
+          },
+          {
+            "name": "Acreson Pan 丨嘻哈有个网盘",
+            "server": "https://share.acreson.cn"
+          },
+          {
+            "name": "目瞪口呆",
+            "server": "https://pan.mdgd.cc/"
+          },
+          {
+            "name": "小陈1",
+            "server": "https://pan.oldming.top/"
+          },
+          {
+            "name": "小陈2",
+            "server": "https://ypan.cc/"
+          },
+          {
+            "name": "动漫盘",
+            "server": "http://pan.smjc.cc"
+          },
+          {
+            "name": "神秘小盘",
+            "server": "https://yun.llzz.top/"
+          },
+          {
+            "name": "91影视",
+            "server": "https://alist.91ios.fun/"
+          },
+          {
+            "name": "柠木",
+            "server": "http://pan.ipafree.top/"
+          },
+          {
+            "name": "科技",
+            "server": "https://pan.kejicode.cn/"
+          },
+          {
+            "name": "清烟",
+            "server": "https://pan.qlam.cc/"
+          },
+          {
+            "name": "捷径",
+            "server": "https://alist.jiejingfan.vip/"
+          },
+          {
+            "name": "姬路",
+            "server": "https://pan.jlbx.xyz"
+          },
+          {
+            "name": "repl",
+            "server": "https://ali.liucn.repl.co"
+          },
+          {
+            "name": "讯维",
+            "server": "https://pan.xwbeta.com"
+          },
+          {
+            "name": "合集",
+            "server": "http://www.jczyl.top:5244/"
+          },
+          {
+            "name": "正奕合集",
+            "server": "http://www.jczyl.top:2115/"
+          },
+          {
+            "name": "轻弹",
+            "server": "http://vtok.pp.ua/"
+          },
+          {
+            "name": "AList (6bohe.com)",
+            "server": "https://alist.6bohe.com/"
+          },
+          {
+            "name": "OEIO",
+            "server": "https://o.oeio.repl.co/"
+          },
+          {
+            "name": "悦享",
+            "server": "https://nics.eu.org/"
+          },
+          {
+            "name": "星星的云盘",
+            "server": "http://vip.syzkgg.com:2070/"
+          },
+          {
+            "name": "PRO",
+            "server": "https://alist.prpr.run/"
+          },
+          {
+            "name": "X影院",
+            "server": "http://124.70.202.159:5678/"
+          },
+          {
+            "name": "个人站1",
+            "server": "https://ali.cacifer.repl.co/"
+          },
+          {
+            "name": "个人站2",
+            "server": "http://tv202111.hgys.cc:5678/"
+          },
+          {
+            "name": "个人站3",
+            "server": "http://60.204.134.12:5678/"
+          },
+          {
+            "name": "个人站4",
+            "server": "http://223.166.240.80:5244/"
+          },
+          {
+            "name": "个人站5",
+            "server": "http://223.166.240.214:5244/"
+          },
+          {
+            "name": "个人站6",
+            "server": "http://223.166.201.129:5244/"
+          },
+          {
+            "name": "个人站7",
+            "server": "http://223.166.245.122:5244/"
+          },
+          {
+            "name": "个人站8",
+            "server": "http://223.166.31.107:5244/"
+          },
+          {
+            "name": "SODAZ1",
+            "server": "https://pan.sodaz.xyz/"
+          },
+          {
+            "name": "小鳥遊曉の幻想鄉",
+            "server": "https://pan.t-satoru.top/"
+          },
+          {
+            "name": "南柯盘",
+            "server": "https://alist.523.monster/"
+          },
+          {
+            "name": "姹莱坞1",
+            "server": "http://45.85.77.23:5244/"
+          },
+          {
+            "name": "姹莱坞2",
+            "server": "https://alist.agczsz.top/",
+            "passwd": "agree"
+          },
+          {
+            "name": "杜比",
+            "server": "https://dubi.tk"
+          },
+          {
+            "name": "乌云盘",
+            "server": "http://124.70.137.72:5678/"
+          },
+          {
+            "name": "老谭",
+            "server": "https://pan.cqtjy.cn/"
+          },
+          {
+            "name": "皓星繁天",
+            "server": "https://pan.hxft.xyz/"
+          },
+          {
+            "name": "梓澪の妙妙屋",
+            "server": "https://zi0.cc/"
+          },
+          {
+            "name": "Applehub心动",
+            "server": "https://app.applehub.cn"
+          },
+          {
+            "name": "微资·随意盘",
+            "server": "https://apps.weixinqqq.com/"
+          },
+          {
+            "name": "娱乐盘",
+            "server": "http://129.146.173.154:5678/"
+          },
+          {
+            "name": "一只鱼",
+            "server": "https://alist.youte.ml"
+          },
+          {
+            "name": "肥灿",
+            "server": "http://43.200.153.107:55609/"
+          },
+          {
+            "name": "悦享盘",
+            "server": "https://pity.eu.org/"
+          },
+          {
+            "name": "🤍小雅网盘",
+            "server": "https://alist.891218.xyz/💃小雅"
+          },
+          {
+            "name": "🤍环宇轩",
+            "server": "https://alist.891218.xyz/🌏环宇轩"
+          },
+          {
+            "name": "💢repl",
+            "server": "https://ali.liucn.repl.co"
+          }
+        ]
+      }
+    },
+    {
+      "key": "饭┃alllive",
+      "name": "饭┃一直播┃直播",
+      "type": 3,
+      "api": "csp_Alllive",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "饭┃Anime1",
+      "name": "饭┃日本┃动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃木星",
+      "name": "饭┃木星┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
+    },
+    {
+      "key": "饭┃热播",
+      "name": "饭┃热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "饭┃萌米",
+      "name": "饭┃萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "饭┃欢视",
+      "name": "饭┃欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+    },
+    {
+      "key": "饭┃Auete",
+      "name": "饭┃奥特┃无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.com/"
+    },
+    {
+      "key": "饭┃bili",
+      "name": "饭┃B站",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "type": "小灯塔百科#小灯塔地理#小灯塔国学#小灯塔科学#小灯塔人文#儿童口才#儿童拼音#儿童英语#儿童思维#儿童识字#小灯塔百科#彩调#京剧#少儿教育#美女#小姐姐#小学课堂#初中课堂#高中课堂#搭讪#搭配#外语#MTV#美食#演唱会#幼儿乐园#幼儿启蒙#幼小衔接#中华命理#中华文化#中华文化#中华武术#中华医学#歌舞#短剧#猫影视#tvbox#吞噬星空#全民转职#全民觉醒#全球进化#SSS级天赋#汪汪队#动画片#声律启蒙#动漫#日本动漫#动漫合集#动漫合辑#解说合集#综艺#鬼畜#解说#说案#儿童#戏曲#相声#小品#国产动漫#演唱会#电影#电视剧#科幻片#广场舞#纪录片#综艺#音乐#影视#户外#4K#8K",
+        "cookie": "i-wanna-go-back=-1; buvid_fp_plain=undefined; DedeUserID=478180530; DedeUserID__ckMd5=5a17664f2928ee52; CURRENT_PID=c4058970-cd48-11ed-aced-73b3be32a7d1; FEED_LIVE_VERSION=V8; LIVE_BUVID=AUTO2416818085516679; hit-new-style-dyn=1; buvid3=8844974D-7607-AB71-D7CB-D6E2348D76F386916infoc; b_nut=1691283886; _uuid=6F312895-AC8B-C29C-BA57-414B10CA1DE8362943infoc; b_ut=5; buvid4=DB73880F-3A34-BBA2-378A-2E4A2AF5DE1A57570-022080609-cABoSJjJ1wOrHk0uSjaqIN6xh09U8%2F1PixLX7T8Ps8WYIbYWdgNygA%3D%3D; enable_web_push=DISABLE; header_theme_version=CLOSE; is-2022-channel=1; CURRENT_QUALITY=80; rpdid=0zbfvRWVXD|14p7j3lyk|2N|3w1RhEJN; fingerprint=4345b53c4198e545925156bacc2a6551; buvid_fp=4345b53c4198e545925156bacc2a6551; CURRENT_FNVAL=4048; PVID=2; SESSDATA=482eb259%2C1726126475%2Cdede1%2A31CjCd2urT2b_iWY19GhWIcBH8RzjNoIPT-mrZK7vUuw4tTPjaUV9sMl3I2h3Q7HXIEQMSVmtYMlpQM2padHlwX2dxZzAzeEpGUzY3V2VSSFh0cTZsYjFwbFFmRVo5ZHVsdFlQNXhnY2t6TWphQjQyZEFkVWNWX1RDd2VsM2lMZ2ZHMklqc2JBaENnIIEC; bili_jct=5274f857b71ea036cb1c018bd25b9e19; b_lsid=B9CE10CA9_18E4A14E74E; bp_video_offset_478180530=909660681607839745; home_feed_column=5; browser_resolution=1872-932; sid=4umjjnj6; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTA4OTkyNzQsImlhdCI6MTcxMDY0MDAxNCwicGx0IjotMX0.q5af7Y2NPG7Oq4JedXOjJxtfxPD9cmV7lTcmE6PyimQ; bili_ticket_expires=1710899214; buvid_fp=94a4e8bd362a778053e35b54ef57f288; SESSDATA=bb88cd4e%2C1728486293%2C46d70%2A41CjCW64w0Sz3"
+      }
+    },
+    {
+      "key": "饭┃csp_Bttoo",
+      "name": "饭┃比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃低端",
+      "name": "饭┃低端┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃Dm84",
+      "name": "饭┃巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃豆豆豆",
+      "name": "饭┃豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "饭┃Aid",
+      "name": "饭┃急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "饭┃贱贱",
+      "name": "饭┃贱贱┃P2P",
+      "type": 3,
+      "api": "csp_JPJ",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+
+    {
+      "key": "饭┃文采",
+      "name": "饭┃文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃926看球",
+      "name": "饭┃926┃看球",
+      "type": 3,
+      "api": "csp_kanqiu926",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "饭┃可可",
+      "name": "饭┃可可┃多线",
+      "type": 3,
+      "api": "csp_Kekys",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃抠搜",
+      "name": "饭┃抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃Lib",
+      "name": "饭┃立播┃秒播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃苹果",
+      "name": "饭┃苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃米搜",
+      "name": "饭┃米搜┃夸父",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃厂长",
+      "name": "饭┃厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzyvideo.com/"
+    },
+    {
+      "key": "饭┃糯米",
+      "name": "饭┃糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃夸搜",
+      "name": "饭┃夸搜┃夸父",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃Aliso",
+      "name": "饭┃盘搜┃阿狸",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃PanSso",
+      "name": "饭┃盘他┃三盘",
+      "type": 3,
+      "api": "csp_PanSso",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃白白",
+      "name": "饭┃白白┃秒播",
+      "type": 3,
+      "api": "csp_Sbaibai",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃88看球",
+      "name": "饭┃88┃看球",
+      "type": 3,
+      "api": "csp_Sir88",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "饭┃新6V",
+      "name": "饭┃新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+    {
+      "key": "饭┃UC",
+      "name": "饭┃优汐┃搜搜",
+      "type": 3,
+      "api": "csp_UuSs",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃玩偶",
+      "name": "饭┃玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
+    {
+      "key": "饭┃xzso",
+      "name": "饭┃盘它┃三盘",
+      "type": 3,
+      "api": "csp_xzso",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃原创",
+      "name": "饭┃原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃YGP",
+      "name": "饭┃叨观荐影┃预告片",
+      "type": 3,
+      "api": "csp_YGP",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "饭┃饭┃YiSo",
+      "name": "饭┃易搜┃阿狸",
+      "type": 3,
+      "api": "csp_YiSo",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃YpanSo",
+      "name": "饭┃盘她┃三盘",
+      "type": 3,
+      "api": "csp_YpanSo",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "饭┃Ysj",
+      "name": "饭┃异界┃动漫",
+      "type": 3,
+      "api": "csp_Ysj",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "饭┃zxzj",
+      "name": "饭┃在线┃秒播",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "jar": "./jar/fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "饭┃push_agent",
+      "name": "饭┃手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    }
+  ],
+  "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
+  "lives": [
+    {
+      "name": "牛播一（仅新版影视仓/ok影视）",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
+    },
+    {
+      "name": "范明明",
+      "type": 0,
+      "url": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "playerType": 2
+    }
+  ]
+}

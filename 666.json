@@ -1,0 +1,876 @@
+{
+    "spider": "http://152.136.161.109:8989/custom_spider.jar?token=fc03809502e8d566;md5;cc3b3d2ddf389338b62eccd4a938b610",
+    "sites": [
+        {
+            "key": "芒芒4k1",
+            "name": "👑芒芒4K",
+            "type": 3,
+            "api": "http://wyys.qcy168.top/json/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://wyys.qcy168.top/json/芒果视频.js"
+        },
+        {
+            "key": "腾腾4k",
+            "name": "👑腾腾4K",
+            "type": 3,
+            "api": "http://wyys.qcy168.top/json/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://wyys.qcy168.top/json/腾讯视频.js"
+        },
+        {
+            "key": "哔哩4k1",
+            "name": "👑哔哔4K️️",
+            "type": 3,
+            "api": "http://wyys.qcy168.top/json/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://wyys.qcy168.top/tvbox/JS/哔哩视频.js"
+        },
+        {
+            "key": "奇奇4k1",
+            "name": "👑奇奇蓝光",
+            "type": 3,
+            "api": "http://wyys.qcy168.top/json/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://wyys.qcy168.top/json/奇艺.js"
+        },
+        {
+            "key": "酷酷4k1",
+            "name": "👑酷酷高清",
+            "type": 3,
+            "api": "http://wyys.qcy168.top/json/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://wyys.qcy168.top/json/优酷.js"
+        },
+        {
+            "key": "csp_appys_影盒",
+            "name": "👑探探4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cmsyt114.lyyytv.cn/api.php/app/",
+            "jar": "http://wyys.qcy168.top/lib/yt.jar"
+        },
+        {
+            "key": "douban",
+            "name": "🔎豆瓣搜索",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/douban",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 1,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "wogg",
+            "name": "📂玩偶|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "baijia",
+            "name": "📂百家|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/baijia",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "labi",
+            "name": "📂蜡笔|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/labi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "mogg",
+            "name": "📂木偶|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "erxiao",
+            "name": "📂二小|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/erxiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "shandian",
+            "name": "📂闪电|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/shandian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "zhizhen",
+            "name": "📂至臻|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/zhizhen",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "xiaomi",
+            "name": "📂小米|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/xiaomi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "duoduo",
+            "name": "📂多多|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/duoduo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "ouge",
+            "name": "📂讴歌|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/ouge",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "huban",
+            "name": "📂虎斑|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/huban",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "xiafan",
+            "name": "📂下饭|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/xiafan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "libo",
+            "name": "📂立播|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/libo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "zxzj",
+            "name": "📂在线|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "leoziyuan",
+            "name": "📂LEO网盘|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/leoziyuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "leopansou",
+            "name": "📂LEO盘搜|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/leopansou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "tgsearchers",
+            "name": "📂宇宙资源|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/tgsearchers",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "yunpanall",
+            "name": "📂网盘综合|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/yunpanall",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "yydf_hzl",
+            "name": "📂网盘合集2|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/yydf_hzl",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "kuakeyun",
+            "name": "📂夸克Ⅱ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/kuakeyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "yunpanshare",
+            "name": "📂夸克Ⅲ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/yunpanshare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "Quark_Movies",
+            "name": "📂夸克Ⅳ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/Quark_Movies",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "kuakezyfb",
+            "name": "📂夸克Ⅴ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/kuakezyfb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "vip115hot",
+            "name": "📂夸克ⅤⅠ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/vip115hot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "MCPH01",
+            "name": "📂夸克ⅤⅡ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/MCPH01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "MCPH860",
+            "name": "📂夸克ⅤⅢ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/MCPH860",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "MCPH608",
+            "name": "📂夸克Ⅴ10|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/MCPH608",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "yunpanpan",
+            "name": "📂夸克Ⅴ11|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/yunpanpan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "zaihuayun",
+            "name": "📂夸克Ⅴ12|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/zaihuayun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "NewQuark",
+            "name": "📂夸克Ⅴ13|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/NewQuark",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "longzbija",
+            "name": "📂夸克短剧|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/longzbija",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "ucpanpan",
+            "name": "📂UCⅠ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/ucpanpan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "ucwpzy",
+            "name": "📂UCⅡ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/ucwpzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "ucquark",
+            "name": "📂UC夸克|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/ucquark",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "cloudtianyi",
+            "name": "📂天意Ⅰ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/cloudtianyi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "tianyirigeng",
+            "name": "📂天意Ⅲ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/tianyirigeng",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "tyypzhpd",
+            "name": "📂天意Ⅳ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/tyypzhpd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "ydypzyfx",
+            "name": "📂异动|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/ydypzyfx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "zyzhpd123",
+            "name": "📂123Ⅰ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/zyzhpd123",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "zyfb123",
+            "name": "📂123Ⅱ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/zyfb123",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "pan123_share",
+            "name": "📂123Ⅲ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/pan123_share",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "shareAliyun",
+            "name": "📂阿里云盘分享|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/shareAliyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "ikiviyyp",
+            "name": "📂阿里云盘整合|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/ikiviyyp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "alyp_4K_Movies",
+            "name": "📂网盘资源(电影)|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/alyp_4K_Movies",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "alyp_TV",
+            "name": "📂网盘(电视剧)|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/alyp_TV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "alyp_Animation",
+            "name": "📂网盘(动漫)|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/alyp_Animation",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "alyp_1",
+            "name": "📂网盘(高品质)|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/alyp_1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "alyp_JLP",
+            "name": "📂网盘(纪录片)|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/alyp_JLP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "xunleizyfb",
+            "name": "📂迅雷云盘Ⅰ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/xunleizyfb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "xunleibl",
+            "name": "📂迅雷云盘Ⅱ|4K",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/xunleibl",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "drpyS_小米[盘]",
+            "name": "🔴小米┃[优汐]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/小米[盘]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_校长[盘]",
+            "name": "🟣校长┃[夸克]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/校长[盘]",
+            "searchable": 2,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_夸克盘搜[盘]",
+            "name": "🟣盘搜┃[夸克]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/夸克盘搜[盘]",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_下饭[盘]",
+            "name": "🔵下饭┃[云盘]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/下饭[盘]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_二小[盘]",
+            "name": "🔵二小┃[云盘]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/二小[盘]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_六趣[盘]",
+            "name": "🔵六趣┃[云盘]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/六趣[盘]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_木偶[盘]",
+            "name": "🔵木偶┃[云盘]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/木偶[盘]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_至臻[盘]",
+            "name": "🔵至臻┃[云盘]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/至臻[盘]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_蜡笔[盘]",
+            "name": "🔵蜡笔┃[云盘]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/蜡笔[盘]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_雷鲸小站[盘]",
+            "name": "🟠雷鲸┃[天翼]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/雷鲸小站[盘]",
+            "searchable": 2,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_盘它[盘]",
+            "name": "🟡盘它┃[移动]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/盘它[盘]",
+            "searchable": 2,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_瓜子[APP]",
+            "name": "🔎瓜子┃[优质]",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/瓜子[APP]",
+            "searchable": 2,
+            "filterable": 1,
+            "quickSearch": 1,
+            "ext": ""
+        },
+        {
+            "key": "drjs_金牌",
+            "name": "🔎金牌┃[优质]",
+            "type": 3,
+            "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_js/金牌[优].js"
+        },
+        {
+            "key": "低端",
+            "name": "🔎低端┃[优质]",
+            "type": 3,
+            "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/ddys.js"
+        },
+        {
+            "key": "ikanbot",
+            "name": "🔎ikanbot┃[优质]",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "lmdj",
+            "name": "蓝莓短剧",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/lmdj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        },
+        {
+            "key": "xydj",
+            "name": "星芽短剧",
+            "type": 4,
+            "api": "http://152.136.161.109:8989/video/xydj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "fc03809502e8d566"
+            }
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "playerType": 1,
+            "url": "http://rihou.cc:555/gggg.nzk",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }
+    ]
+}

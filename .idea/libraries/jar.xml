@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/配置中心.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/fty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/moyu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/Yoursmile.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/fix241213.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/xiaomi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/XBPQ.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/xiang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/spider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/zb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/wex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/custom_spider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
