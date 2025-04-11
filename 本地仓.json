@@ -1,8 +1,12 @@
 {
   "urls": [
     {
-      "url": "http://103.110.80.238:5757/config/1?sub=green",
+      "url": "http://103.110.80.238:5757/config/1",
       "name": "道长greenT4"
+    },
+    {
+      "url": "http://drpy.mxlgsl.cn/config/1",
+      "name": "道长T4"
     },
     {
       "url": "https://9877.kstore.space/AnotherD/api.json",
@@ -26,7 +30,11 @@
     },
     {
       "url": "https://hb.xyyh.online/tvbox/",
-      "name": "在线【虎斑线路】"
+      "name": "在线【虎斑线路1】"
+    },
+    {
+      "url": "http://60.211.124.23:10101/hbanbox/?password=",
+      "name": "在线【虎斑线路2】"
     },
     {
       "url": "http://我不是.摸鱼儿.xyz",
@@ -46,7 +54,7 @@
     },
     {
       "name": "在线【心魔线路】",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
     },
     {
       "url": "http://ok321.top/ok",
@@ -57,7 +65,7 @@
       "name": "在线【欧歌线路1】"
     },
     {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+      "url": "http://tv.nxog.top/m",
       "name": "在线【欧歌线路2】"
     },
     {
@@ -117,11 +125,11 @@
       "url": "https://chuanshuo.77blog.cn/tv.json"
     },
     {
-      "name": "枫斗5468",
+      "name": "枫斗7758",
       "url": "https://gitee.com/fengdoudev/tv/raw/master/index.json"
     },
     {
-      "name": "枫斗5468",
+      "name": "枫斗7758",
       "url": "http://枫斗.top/tv"
     },
     {
@@ -129,21 +137,40 @@
       "url": "https://api.hgyx.vip/hgyx.json"
     },
     {
+      "name": "拾光",
+      "url": "https://4708.kstore.space/svip/svip.json"
+    },
+    {
+      "name": "公子📚在线",
+      "url": "http://xn--b9w.l5.ca/"
+    },
+    {
+      "name": "短剧📚在线",
+      "url": "https://电.影.top"
+    },
+    {
+      "name": "蜂蜜📚在线",
+      "url": "https://qu.ax/uanw.json"
+    },
+    {
       "name": "胜寒",
       "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json"
     },
-{"name": "蓝天白云 ","url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"},
     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
+      "name": "蓝天白云 ",
+      "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
       "name": "星云线路"
     },
     {
-      "name": "拾光仓库",
-      "url": "https://9071.kstore.vip/fhzx.txt"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+      "name": "在线【雷蒙线路1】"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/lem.json",
-      "name": "在线【雷蒙线路】"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/lem.json",
+      "name": "在线【雷蒙线路2】"
     }
   ]
 }
