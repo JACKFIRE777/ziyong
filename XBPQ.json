@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣采集",
-      "name": "豆瓣",
+      "name": "采集┃豆瓣",
       "type": 1,
       "api": "https://caiji.dbzy.tv/api.php/provide/vod/"
     },
@@ -593,6 +593,16 @@
       "ext": "https://9877.kstore.space/Market/market.json"
     },
     {
+      "key": "小虎斑检查更新",
+      "name": "小虎斑｜更新",
+      "type": 3,
+      "api": "csp_Market",
+      "jar": "./jar/market.jar;md5;29972e50f5902a6409fce58e6e4c7473",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://8924.kstore.space/huban/mark.json"
+    },
+    {
       "key": "潇┃Market1",
       "name": "潇┃應用商店-代理链",
       "type": 3,
@@ -697,28 +707,28 @@
       "api": "./js/zbzdb.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/yylx/main/123/lib/优质资源.json"
     },
-{
-"key": "APP┃超前全网",
-"name": "APP┃全网采集4K",
-"type": 3,
-"api": "csp_AppYsV2",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"playerType":2,
-"ext": "http://zhangbokeji.top:290/api.php/app/"
-},
-{
-"key": "APP┃超前全片源",
- "name": "APP┃超前全网资源",
- "type": 3,
- "api": "csp_AppYsV2",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 1,
- "playerType":2,
- "ext": "http://zhangbokeji.top:291/api.php/app/"
- },
+    {
+      "key": "APP┃超前全网",
+      "name": "APP┃全网采集4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "http://zhangbokeji.top:290/api.php/app/"
+    },
+    {
+      "key": "APP┃超前全片源",
+      "name": "APP┃超前全网资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "http://zhangbokeji.top:291/api.php/app/"
+    },
     {
       "key": "APP┃教育",
       "name": "APP┃同步教育",
@@ -1928,6 +1938,194 @@
       "ext": ""
     },
     {
+      "key": "采集┃无限资源",
+      "name": "采集┃无限资源",
+      "type": 1,
+      "api": "https://api.wuxianzy.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃鸭鸭资源",
+      "name": "采集┃鸭鸭资源",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃黑木耳资源",
+      "name": "采集┃黑木耳资源",
+      "type": 1,
+      "api": "https://json.heimuer.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃360资源",
+      "name": "采集┃360资源",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃虾米资源",
+      "name": "采集┃虾米资源",
+      "type": 1,
+      "api": "https://zy.hls.one/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃小猫咪资源",
+      "name": "采集┃小猫咪资源",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃优质资源库",
+      "name": "采集┃优质资源库",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃天涯资源",
+      "name": "采集┃天涯资源",
+      "type": 1,
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃蜂巢片库",
+      "name": "采集┃蜂巢片库",
+      "type": 1,
+      "api": "https://api.fczy888.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃爱奇艺资源",
+      "name": "采集┃爱奇艺资源",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃小熊影视",
+      "name": "采集┃小熊影视",
+      "type": 1,
+      "api": "http://47.94.99.16:3074/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃闪电资源",
+      "name": "采集┃闪电资源",
+      "type": 1,
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃快车资源",
+      "name": "采集┃快车资源",
+      "type": 1,
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃最大资源",
+      "name": "采集┃最大资源",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃采集资源集",
+      "name": "采集┃真4K",
+      "type": 1,
+      "api": "https://www.caiji.cyou/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "剧情片",
+        "战争片",
+        "犯罪片",
+        "国产剧",
+        "欧美剧",
+        "日韩剧",
+        "惊悚片",
+        "冒险片",
+        "悬疑片",
+        "奇幻片",
+        "记录片",
+        "其它片",
+        "其它剧",
+        "bilibili番剧",
+        "bilibili国创",
+        "bilibili电影",
+        "bilibili电视剧",
+        "动画片"
+      ]
+    },
+    {
+      "key": "采集┃csp_xml_木子看剧",
+      "name": "采集┃木子看剧",
+      "type": 1,
+      "api": "https://vs.xiaomianyang.top/api.php/provide/vod/",
+      "searchable": 1,
+      "playUrl": "https://api.huohua.live/bfq/?key=ieGhbvUDMAqsOg3cuf&url=",
+      "quickSearch": 1
+    },
+    {
+      "key": "采集┃xml_魔爪",
+      "name": "采集┃魔爪☆资源",
+      "type": 0,
+      "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃xml_电影天堂",
+      "name": "采集┃电影天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "采集┃丫丫",
       "name": "采集┃丫丫采集",
       "type": 1,
@@ -2122,7 +2320,7 @@
       "key": "天翼☪资源",
       "name": "采集┃天翼",
       "type": 1,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/?",
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
@@ -2182,7 +2380,7 @@
       "key": "牛牛资源",
       "name": "采集┃牛牛资源",
       "type": 1,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/?wd="
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
     },
     {
       "key": "墨白影视",
@@ -3312,15 +3510,6 @@
       "filterable": 1
     },
     {
-      "key": "处女控",
-      "name": "采集┃🔞处女控采集",
-      "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "易看",
       "name": "采集┃🔞易看",
       "type": 1,
@@ -3629,6 +3818,114 @@
       "changeable": 1
     },
     {
+      "key": "采集┃奶香香资源",
+      "name": "采集┃🔞奶香香资源",
+      "type": 1,
+      "api": "https://naixxzy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃百万资源",
+      "name": "采集┃🔞百万资源",
+      "type": 1,
+      "api": "https://api.bwzym3u8.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃香奶儿资源",
+      "name": "采集┃🔞香奶儿资源",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃淫水机资源",
+      "name": "采集┃🔞淫水机资源",
+      "type": 1,
+      "api": "https://www.xrbsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃美少女资源",
+      "name": "采集┃🔞美少女资源",
+      "type": 1,
+      "api": "https://www.msnii.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃GAY资源",
+      "name": "采集┃🔞GAY资源",
+      "type": 1,
+      "api": "https://gayapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃黄色仓库资源",
+      "name": "采集┃🔞黄色仓库资源",
+      "type": 1,
+      "api": "https://hsckzy.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃番茄资源",
+      "name": "采集┃🔞番茄资源",
+      "type": 1,
+      "api": "https://fqzy4.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃YES资源",
+      "name": "采集┃🔞YES资源",
+      "type": 1,
+      "api": "https://www.yeszy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃杏吧资源",
+      "name": "采集┃🔞杏吧资源",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃搜AV资源",
+      "name": "采集┃🔞搜AV资源",
+      "type": 1,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集┃X细胞资源",
+      "name": "采集┃🔞X细胞资源",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "cps_xp_奇优影院",
       "name": "XBiu┃奇优影院┃1920",
       "type": 3,
@@ -3797,10 +4094,79 @@
       }
     },
     {
+      "key": "XBPQ┃文才采集",
+      "name": "XBPQ┃文才",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
+      "ext": {
+        "作者": "小可乐/2408/第三版",
+        "站名": "文才采集",
+        "请求头": "User-Agent$PC_UA",
+        "编码": "UTF-8",
+        "图片代理": "0",
+        "直接播放": "0",
+        "播放请求头": "",
+        "嗅探词": ".mp4#.m3u8",
+        "过滤词": "",
+        "主页url": "https://m.hhduc.com",
+        "首页": "120",
+        "起始页": "1",
+        "分类url": "/vod/show/id/{cateId}/page/{catePg}/class/{class}/area/{area}/year/{year}/lang/{lang}/sortType/{by};;mrcWR",
+        "分类": "电影&剧集&综艺&动漫",
+        "分类值": "1&2&3&4",
+        "二次截取": "默认--list\":\\[&&\\]||首页--data\":{\"home&&newestShortTvPageData",
+        "数组": "{&&}",
+        "标题": "vodName\":\"&&\"",
+        "图片": "https://obs.gduamoe.com+obs.gduamoe.com&&\"",
+        "副标题": "vodRemarks\":\"&&\"++vodScore\":&&,",
+        "链接": "/detail/+vodId\":&&,",
+        "影片年代": "vodWeekday*vodYear\":\"&&\"",
+        "影片地区": "vodWeekday*vodArea\":\"&&\"",
+        "影片类型": "vodTag*vodClass\":\"&&\"",
+        "状态": "vodTag*vodRemarks\":\"&&\"",
+        "导演": "vodTag*vodDirector\":\"&&\"",
+        "主演": "vodTag*vodActor\":\"&&\"",
+        "简介": "vodContent\":\"&&\"",
+        "线路二次截取": "episodeList\":&&</",
+        "线路数组": "\\[&&\\]",
+        "线路标题": "文才线路",
+        "播放二次截取": "episodeList\":&&</[替换:nid\":>>nid\":/1/]",
+        "播放数组": "\\[&&\\]",
+        "倒序": "0",
+        "播放列表": "{&&}",
+        "播放标题": "name\":\"&&\"",
+        "播放链接": "nid\":&&,",
+        "播放链接前缀": "https://m.hhduc.com/vod/play/+data\":{\"vodId\":&&,",
+        "搜索请求头": "User-Agent$PC_UA",
+        "搜索url": "/vod/search/{wd}",
+        "搜索模式": "1",
+        "搜索二次截取": "result*list\":\\[&&\\]",
+        "搜索数组": "{&&}",
+        "搜索标题": "vodName\":\"&&\"",
+        "搜索图片": "vodPic\":\"&&\"",
+        "搜索副标题": "vodRemarks\":\"&&\"+_+vodScore\":&&,",
+        "搜索链接": "/detail/+vodId\":&&,",
+        "筛选": "1",
+        "类型": "喜剧片$1/type/22#动作片$1/type/23#科幻片$1/type/30#爱情片$1/type/26#悬疑片$1/type/27#奇幻片$1/type/87#剧情片$1/type/37#恐怖片$1/type/36#犯罪片$1/type/35#动画片$1/type/33#惊悚片$1/type/34#战争片$1/type/25#冒险片$1/type/31#灾难片$1/type/81#理论片$1/type/83#其他片$1/type/43||国产剧$2/type/14#欧美剧$2/type/15#港台剧$2/type/16#日韩剧$2/type/62#其他剧$2/type/68||国产综艺$3/type/69#港台综艺$3/type/70#日韩综艺$3/type/72#欧美综艺$3/type/73#其他综艺$3/type/74||国产动漫$4/type/75#日韩动漫$4/type/76#欧美动漫$4/type/77",
+        "剧情": "空||古装&战争&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&短片||真人秀&音乐&脱口秀||喜剧&科幻&热血&冒险&动作&运动&战争&儿童",
+        "剧情值": "*",
+        "地区": "中国大陆&中国香港&中国台湾&美国&日本&韩国&印度&泰国&其他||中国大陆&中国香港&中国台湾&日本&韩国&美国&泰国&其他||中国大陆&中国香港&中国台湾&日本&韩国&美国&其他||中国大陆&日本&美国&其他",
+        "地区值": "*",
+        "年份": "2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010&2009~2000||2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010||2024&2023&2022&2021&2020||2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010",
+        "年份值": "*",
+        "语言": "国语&英语&粤语&韩语&日语&其他||普通话&英语&粤语&韩语&日语&泰语&其他||国语&英语&粤语&韩语&日语&其他||国语&英语&日语&其他",
+        "语言值": "*",
+        "排序": "最近更新&添加时间&人气高低&评分高低",
+        "排序值": "1/sortOrder/0&2/sortOrder/0&3/sortOrder/0&4/sortOrder/0"
+      }
+    },
+    {
       "key": "XBPQ┃麻花观影",
       "name": "XBPQ┃麻花观影",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
       "ext": {
         "简介": "white-space: initial;\">&&</p></div>",
         "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
@@ -13431,6 +13797,7 @@
       "name": "XPath┃奇优影院(XP)",
       "type": 3,
       "api": "csp_XPathMac",
+      "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -13506,6 +13873,7 @@
       "name": "XPath┃在线电影(XP)",
       "type": 3,
       "api": "csp_XPath",
+      "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -13743,1354 +14111,1353 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-  "author": "guozi",
-  "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
-  "homeUrl": "https://www.haituu.tv/",
-  "dcVipFlag": "true",
-  "pCfgJs": "https://www.haituu.tv/static/js/playerconfig.js",
-  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
-  "dcShow2Vip": {},
-  "dcPlayUrl": "true",
-  "cateNode": "//ul[contains(@class, 'myui-header__menu nav-menu')]/li[@class='dropdown-hover']//div/ul/li/a[contains(@href, 'type') and not(contains(@href,'label'))]",
-  "cateName": "/text()",
-  "cateId": "/@href",
-  "cateIdR": "/type/(\\w+).html",
-  "cateManual": {
-    "电影": "1",
-    "剧集": "2",
-    "动漫": "4",
-    "综艺": "3"
-  },
-  "homeVodNode": "//div[contains(@class, 'module-item-pic')]",
-  "homeVodName": "/img/@alt",
-  "homeVodId": "/a/@href",
-  "homeVodIdR": "/voddetail/(\\w+).html",
-  "homeVodImg": "/img/@data-src",
-  "homeVodImgR": "\\S+(http\\S+).jpg",
-  "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-  "cateVodNode": "//div[contains(@class,'module-item-pic')]",
-  "cateVodName": "/a/@title",
-  "cateVodId": "/a/@href",
-  "cateVodIdR": "/voddetail/(\\w+).html",
-  "cateVodImg": "/img/@data-src",
-  "cateVodImgR": "\\S+(http\\S+)+.jpg",
-  "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "dtUrl": "https://www.haituu.tv/voddetail/{vid}",
-  "dtNode": "//body",
-  "dtName": "//div[contains(@class,'video-info')]/h1/text()",
-  "dtNameR": "",
-  "dtImg": "//div[@class='video-cover']/div/div/img/@data-src",
-  "dtImgR": "\\S+(http\\S+)",
-  "dtCate": "//head/meta[@property='og:video:class']/@content",
-  "dtCateR": "",
-  "dtYear": "//head/meta[@property='og:video:release_date']/@content",
-  "dtYearR": "",
-  "dtArea": "//head/meta[@property='og:video:area']/@content",
-  "dtAreaR": "",
-  "dtMark": "//div[@class='video-info-items']//span[contains(text(), '更新：')]/following-sibling::div/text()",
-  "dtMarkR": "",
-  "dtActor": "//div[@class='video-info-items']//span[contains(text(), '主演')]/following-sibling::div/a/text()",
-  "dtActorR": "",
-  "dtDirector": "//div[@class='video-info-items']//span[contains(text(), '导演')]/following-sibling::div/a/text()",
-  "dtDirectorR": "",
-  "dtDesc": "//div[@class='video-info-items']//span[contains(text(), '剧情')]/following-sibling::div//text()",
-  "dtDescR": "",
-  "dtFromNode": "//div[contains(@class,'module-tab-item tab-item')]",
-  "dtFromName": "/@data-dropdown-value",
-  "dtFromNameR": "",
-  "dtUrlNode": "//div[contains(@class,'module-blocklist')]",
-  "dtUrlSubNode": "/div/a",
-  "dtUrlId": "/@href",
-  "dtUrlIdR": "/vodplay/(\\S+).html",
-  "dtUrlName": "//a/span/text()",
-  "dtUrlNameR": "",
-  "playUrl": "https://www.haituu.tv/vodplay/{playUrl}.html",
-  "playUa": "",
-  "searchUrl": "https://www.haituu.tv/vodsearch/-------------.html?wd={wd}",
-  "scVodNode": "//div[contains(@class,'module-item-pic')]",
-  "scVodName": "//img/@alt",
-  "scVodId": "/a/@href",
-  "scVodIdR": "/voddetail/(\\w+).html",
-  "scVodImg": "//img/@data-src",
-  "scVodMark": "\\S+(http\\S+)",
-  "filter": {
-    "1": [
-      {
-        "key": "cateId",
-        "name": "类型",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "动作片",
-            "v": "6"
-          },
-          {
-            "n": "喜剧片",
-            "v": "7"
-          },
-          {
-            "n": "爱情片",
-            "v": "8"
-          },
-          {
-            "n": "科幻片",
-            "v": "9"
-          },
-          {
-            "n": "恐怖片",
-            "v": "10"
-          },
-          {
-            "n": "剧情片",
-            "v": "11"
-          },
-          {
-            "n": "战争片",
-            "v": "12"
-          },
-          {
-            "n": "伦理片",
-            "v": "21"
-          },
-          {
-            "n": "动画片",
-            "v": "35"
-          }
-        ]
-      },
-      {
-        "key": "class",
-        "name": "剧情",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "喜剧",
-            "v": "喜剧"
-          },
-          {
-            "n": "爱情",
-            "v": "爱情"
-          },
-          {
-            "n": "恐怖",
-            "v": "恐怖"
-          },
-          {
-            "n": "动作",
-            "v": "动作"
-          },
-          {
-            "n": "科幻",
-            "v": "科幻"
-          },
-          {
-            "n": "剧情",
-            "v": "剧情"
-          },
-          {
-            "n": "战争",
-            "v": "战争"
-          },
-          {
-            "n": "警匪",
-            "v": "警匪"
-          },
-          {
-            "n": "犯罪",
-            "v": "犯罪"
-          },
-          {
-            "n": "动画",
-            "v": "动画"
-          },
-          {
-            "n": "奇幻",
-            "v": "奇幻"
-          },
-          {
-            "n": "武侠",
-            "v": "武侠"
-          },
-          {
-            "n": "冒险",
-            "v": "冒险"
-          },
-          {
-            "n": "枪战",
-            "v": "枪战"
-          },
-          {
-            "n": "恐怖",
-            "v": "恐怖"
-          },
-          {
-            "n": "悬疑",
-            "v": "悬疑"
-          },
-          {
-            "n": "惊悚",
-            "v": "惊悚"
-          },
-          {
-            "n": "经典",
-            "v": "经典"
-          },
-          {
-            "n": "枪战",
-            "v": "枪战"
-          },
-          {
-            "n": "青春",
-            "v": "青春"
-          },
-          {
-            "n": "文艺",
-            "v": "文艺"
-          },
-          {
-            "n": "微电影",
-            "v": "微电影"
-          },
-          {
-            "n": "古装",
-            "v": "古装"
-          },
-          {
-            "n": "历史",
-            "v": "历史"
-          },
-          {
-            "n": "运动",
-            "v": "运动"
-          },
-          {
-            "n": "农村",
-            "v": "农村"
-          },
-          {
-            "n": "儿童",
-            "v": "儿童"
-          },
-          {
-            "n": "网络电影",
-            "v": "网络电影"
-          }
-        ]
-      },
-      {
-        "key": "area",
-        "name": "地区",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "大陆",
-            "v": "大陆"
-          },
-          {
-            "n": "香港",
-            "v": "香港"
-          },
-          {
-            "n": "美国",
-            "v": "美国"
-          },
-          {
-            "n": "韩国",
-            "v": "韩国"
-          },
-          {
-            "n": "台湾",
-            "v": "台湾"
-          },
-          {
-            "n": "法国",
-            "v": "法国"
-          },
-          {
-            "n": "英国",
-            "v": "英国"
-          },
-          {
-            "n": "日本",
-            "v": "日本"
-          },
-          {
-            "n": "泰国",
-            "v": "泰国"
-          }
-        ]
-      },
-      {
-        "key": "lang",
-        "name": "语言",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "国语",
-            "v": "国语"
-          },
-          {
-            "n": "英语",
-            "v": "英语"
-          },
-          {
-            "n": "粤语",
-            "v": "粤语"
-          },
-          {
-            "n": "闽南话",
-            "v": "闽南话"
-          },
-          {
-            "n": "韩语",
-            "v": "韩语"
-          },
-          {
-            "n": "日语",
-            "v": "日语"
-          },
-          {
-            "n": "其它",
-            "v": "其它"
-          }
-        ]
-      },
-      {
-        "key": "year",
-        "name": "年份",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "2024",
-            "v": "2024"
-          },
-          {
-            "n": "2023",
-            "v": "2023"
-          },
-          {
-            "n": "2022",
-            "v": "2022"
-          },
-          {
-            "n": "2021",
-            "v": "2021"
-          },
-          {
-            "n": "2020",
-            "v": "2020"
-          },
-          {
-            "n": "2019",
-            "v": "2019"
-          },
-          {
-            "n": "2018",
-            "v": "2018"
-          },
-          {
-            "n": "2017",
-            "v": "2017"
-          },
-          {
-            "n": "2016",
-            "v": "2016"
-          },
-          {
-            "n": "2015",
-            "v": "2015"
-          },
-          {
-            "n": "2014",
-            "v": "2014"
-          },
-          {
-            "n": "2013",
-            "v": "2013"
-          },
-          {
-            "n": "2012",
-            "v": "2012"
-          },
-          {
-            "n": "2011",
-            "v": "2011"
-          },
-          {
-            "n": "2010",
-            "v": "2010"
-          }
-        ]
-      },
-      {
-        "key": "by",
-        "name": "排序",
-        "value": [
-          {
-            "n": "时间",
-            "v": "time"
-          },
-          {
-            "n": "人气",
-            "v": "hits"
-          },
-          {
-            "n": "评分",
-            "v": "score"
-          }
-        ]
+        "author": "guozi",
+        "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36",
+        "homeUrl": "https://www.haituu.tv/",
+        "dcVipFlag": "true",
+        "pCfgJs": "https://www.haituu.tv/static/js/playerconfig.js",
+        "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+        "dcShow2Vip": {},
+        "dcPlayUrl": "true",
+        "cateNode": "//ul[contains(@class, 'myui-header__menu nav-menu')]/li[@class='dropdown-hover']//div/ul/li/a[contains(@href, 'type') and not(contains(@href,'label'))]",
+        "cateName": "/text()",
+        "cateId": "/@href",
+        "cateIdR": "/type/(\\w+).html",
+        "cateManual": {
+          "电影": "1",
+          "剧集": "2",
+          "动漫": "4",
+          "综艺": "3"
+        },
+        "homeVodNode": "//div[contains(@class, 'module-item-pic')]",
+        "homeVodName": "/img/@alt",
+        "homeVodId": "/a/@href",
+        "homeVodIdR": "/voddetail/(\\w+).html",
+        "homeVodImg": "/img/@data-src",
+        "homeVodImgR": "\\S+(http\\S+).jpg",
+        "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
+        "cateUrl": "https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "cateVodNode": "//div[contains(@class,'module-item-pic')]",
+        "cateVodName": "/a/@title",
+        "cateVodId": "/a/@href",
+        "cateVodIdR": "/voddetail/(\\w+).html",
+        "cateVodImg": "/img/@data-src",
+        "cateVodImgR": "\\S+(http\\S+)+.jpg",
+        "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
+        "dtUrl": "https://www.haituu.tv/voddetail/{vid}",
+        "dtNode": "//body",
+        "dtName": "//div[contains(@class,'video-info')]/h1/text()",
+        "dtNameR": "",
+        "dtImg": "//div[@class='video-cover']/div/div/img/@data-src",
+        "dtImgR": "\\S+(http\\S+)",
+        "dtCate": "//head/meta[@property='og:video:class']/@content",
+        "dtCateR": "",
+        "dtYear": "//head/meta[@property='og:video:release_date']/@content",
+        "dtYearR": "",
+        "dtArea": "//head/meta[@property='og:video:area']/@content",
+        "dtAreaR": "",
+        "dtMark": "//div[@class='video-info-items']//span[contains(text(), '更新：')]/following-sibling::div/text()",
+        "dtMarkR": "",
+        "dtActor": "//div[@class='video-info-items']//span[contains(text(), '主演')]/following-sibling::div/a/text()",
+        "dtActorR": "",
+        "dtDirector": "//div[@class='video-info-items']//span[contains(text(), '导演')]/following-sibling::div/a/text()",
+        "dtDirectorR": "",
+        "dtDesc": "//div[@class='video-info-items']//span[contains(text(), '剧情')]/following-sibling::div//text()",
+        "dtDescR": "",
+        "dtFromNode": "//div[contains(@class,'module-tab-item tab-item')]",
+        "dtFromName": "/@data-dropdown-value",
+        "dtFromNameR": "",
+        "dtUrlNode": "//div[contains(@class,'module-blocklist')]",
+        "dtUrlSubNode": "/div/a",
+        "dtUrlId": "/@href",
+        "dtUrlIdR": "/vodplay/(\\S+).html",
+        "dtUrlName": "//a/span/text()",
+        "dtUrlNameR": "",
+        "playUrl": "https://www.haituu.tv/vodplay/{playUrl}.html",
+        "playUa": "",
+        "searchUrl": "https://www.haituu.tv/vodsearch/-------------.html?wd={wd}",
+        "scVodNode": "//div[contains(@class,'module-item-pic')]",
+        "scVodName": "//img/@alt",
+        "scVodId": "/a/@href",
+        "scVodIdR": "/voddetail/(\\w+).html",
+        "scVodImg": "//img/@data-src",
+        "scVodMark": "\\S+(http\\S+)",
+        "filter": {
+          "1": [
+            {
+              "key": "cateId",
+              "name": "类型",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "动作片",
+                  "v": "6"
+                },
+                {
+                  "n": "喜剧片",
+                  "v": "7"
+                },
+                {
+                  "n": "爱情片",
+                  "v": "8"
+                },
+                {
+                  "n": "科幻片",
+                  "v": "9"
+                },
+                {
+                  "n": "恐怖片",
+                  "v": "10"
+                },
+                {
+                  "n": "剧情片",
+                  "v": "11"
+                },
+                {
+                  "n": "战争片",
+                  "v": "12"
+                },
+                {
+                  "n": "伦理片",
+                  "v": "21"
+                },
+                {
+                  "n": "动画片",
+                  "v": "35"
+                }
+              ]
+            },
+            {
+              "key": "class",
+              "name": "剧情",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "喜剧",
+                  "v": "喜剧"
+                },
+                {
+                  "n": "爱情",
+                  "v": "爱情"
+                },
+                {
+                  "n": "恐怖",
+                  "v": "恐怖"
+                },
+                {
+                  "n": "动作",
+                  "v": "动作"
+                },
+                {
+                  "n": "科幻",
+                  "v": "科幻"
+                },
+                {
+                  "n": "剧情",
+                  "v": "剧情"
+                },
+                {
+                  "n": "战争",
+                  "v": "战争"
+                },
+                {
+                  "n": "警匪",
+                  "v": "警匪"
+                },
+                {
+                  "n": "犯罪",
+                  "v": "犯罪"
+                },
+                {
+                  "n": "动画",
+                  "v": "动画"
+                },
+                {
+                  "n": "奇幻",
+                  "v": "奇幻"
+                },
+                {
+                  "n": "武侠",
+                  "v": "武侠"
+                },
+                {
+                  "n": "冒险",
+                  "v": "冒险"
+                },
+                {
+                  "n": "枪战",
+                  "v": "枪战"
+                },
+                {
+                  "n": "恐怖",
+                  "v": "恐怖"
+                },
+                {
+                  "n": "悬疑",
+                  "v": "悬疑"
+                },
+                {
+                  "n": "惊悚",
+                  "v": "惊悚"
+                },
+                {
+                  "n": "经典",
+                  "v": "经典"
+                },
+                {
+                  "n": "枪战",
+                  "v": "枪战"
+                },
+                {
+                  "n": "青春",
+                  "v": "青春"
+                },
+                {
+                  "n": "文艺",
+                  "v": "文艺"
+                },
+                {
+                  "n": "微电影",
+                  "v": "微电影"
+                },
+                {
+                  "n": "古装",
+                  "v": "古装"
+                },
+                {
+                  "n": "历史",
+                  "v": "历史"
+                },
+                {
+                  "n": "运动",
+                  "v": "运动"
+                },
+                {
+                  "n": "农村",
+                  "v": "农村"
+                },
+                {
+                  "n": "儿童",
+                  "v": "儿童"
+                },
+                {
+                  "n": "网络电影",
+                  "v": "网络电影"
+                }
+              ]
+            },
+            {
+              "key": "area",
+              "name": "地区",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "大陆",
+                  "v": "大陆"
+                },
+                {
+                  "n": "香港",
+                  "v": "香港"
+                },
+                {
+                  "n": "美国",
+                  "v": "美国"
+                },
+                {
+                  "n": "韩国",
+                  "v": "韩国"
+                },
+                {
+                  "n": "台湾",
+                  "v": "台湾"
+                },
+                {
+                  "n": "法国",
+                  "v": "法国"
+                },
+                {
+                  "n": "英国",
+                  "v": "英国"
+                },
+                {
+                  "n": "日本",
+                  "v": "日本"
+                },
+                {
+                  "n": "泰国",
+                  "v": "泰国"
+                }
+              ]
+            },
+            {
+              "key": "lang",
+              "name": "语言",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "国语",
+                  "v": "国语"
+                },
+                {
+                  "n": "英语",
+                  "v": "英语"
+                },
+                {
+                  "n": "粤语",
+                  "v": "粤语"
+                },
+                {
+                  "n": "闽南话",
+                  "v": "闽南话"
+                },
+                {
+                  "n": "韩语",
+                  "v": "韩语"
+                },
+                {
+                  "n": "日语",
+                  "v": "日语"
+                },
+                {
+                  "n": "其它",
+                  "v": "其它"
+                }
+              ]
+            },
+            {
+              "key": "year",
+              "name": "年份",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "2024",
+                  "v": "2024"
+                },
+                {
+                  "n": "2023",
+                  "v": "2023"
+                },
+                {
+                  "n": "2022",
+                  "v": "2022"
+                },
+                {
+                  "n": "2021",
+                  "v": "2021"
+                },
+                {
+                  "n": "2020",
+                  "v": "2020"
+                },
+                {
+                  "n": "2019",
+                  "v": "2019"
+                },
+                {
+                  "n": "2018",
+                  "v": "2018"
+                },
+                {
+                  "n": "2017",
+                  "v": "2017"
+                },
+                {
+                  "n": "2016",
+                  "v": "2016"
+                },
+                {
+                  "n": "2015",
+                  "v": "2015"
+                },
+                {
+                  "n": "2014",
+                  "v": "2014"
+                },
+                {
+                  "n": "2013",
+                  "v": "2013"
+                },
+                {
+                  "n": "2012",
+                  "v": "2012"
+                },
+                {
+                  "n": "2011",
+                  "v": "2011"
+                },
+                {
+                  "n": "2010",
+                  "v": "2010"
+                }
+              ]
+            },
+            {
+              "key": "by",
+              "name": "排序",
+              "value": [
+                {
+                  "n": "时间",
+                  "v": "time"
+                },
+                {
+                  "n": "人气",
+                  "v": "hits"
+                },
+                {
+                  "n": "评分",
+                  "v": "score"
+                }
+              ]
+            }
+          ],
+          "2": [
+            {
+              "key": "cateId",
+              "name": "类型",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "国产剧",
+                  "v": "25"
+                },
+                {
+                  "n": "泰国剧",
+                  "v": "14"
+                },
+                {
+                  "n": "香港剧",
+                  "v": "15"
+                },
+                {
+                  "n": "韩国剧",
+                  "v": "16"
+                },
+                {
+                  "n": "台湾剧",
+                  "v": "22"
+                },
+                {
+                  "n": "日本剧",
+                  "v": "23"
+                },
+                {
+                  "n": "欧美剧",
+                  "v": "24"
+                },
+                {
+                  "n": "海外剧",
+                  "v": "13"
+                }
+              ]
+            },
+            {
+              "key": "class",
+              "name": "剧情",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "古装",
+                  "v": "古装"
+                },
+                {
+                  "n": "战争",
+                  "v": "战争"
+                },
+                {
+                  "n": "青春偶像",
+                  "v": "青春偶像"
+                },
+                {
+                  "n": "喜剧",
+                  "v": "喜剧"
+                },
+                {
+                  "n": "家庭",
+                  "v": "家庭"
+                },
+                {
+                  "n": "剧情",
+                  "v": "剧情"
+                },
+                {
+                  "n": "犯罪",
+                  "v": "犯罪"
+                },
+                {
+                  "n": "动作",
+                  "v": "动作"
+                },
+                {
+                  "n": "奇幻",
+                  "v": "奇幻"
+                },
+                {
+                  "n": "剧情",
+                  "v": "剧情"
+                },
+                {
+                  "n": "历史",
+                  "v": "历史"
+                },
+                {
+                  "n": "经典",
+                  "v": "经典"
+                },
+                {
+                  "n": "乡村",
+                  "v": "乡村"
+                },
+                {
+                  "n": "情景",
+                  "v": "情景"
+                },
+                {
+                  "n": "商战",
+                  "v": "商战"
+                },
+                {
+                  "n": "网剧",
+                  "v": "网剧"
+                },
+                {
+                  "n": "其他",
+                  "v": "其他"
+                }
+              ]
+            },
+            {
+              "key": "area",
+              "name": "地区",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "大陆",
+                  "v": "大陆"
+                },
+                {
+                  "n": "香港",
+                  "v": "香港"
+                },
+                {
+                  "n": "台湾",
+                  "v": "台湾"
+                },
+                {
+                  "n": "美国",
+                  "v": "美国"
+                },
+                {
+                  "n": "法国",
+                  "v": "法国"
+                },
+                {
+                  "n": "英国",
+                  "v": "英国"
+                },
+                {
+                  "n": "日本",
+                  "v": "日本"
+                },
+                {
+                  "n": "韩国",
+                  "v": "韩国"
+                },
+                {
+                  "n": "德国",
+                  "v": "德国"
+                },
+                {
+                  "n": "泰国",
+                  "v": "泰国"
+                },
+                {
+                  "n": "印度",
+                  "v": "印度"
+                }
+              ]
+            },
+            {
+              "key": "lang",
+              "name": "语言",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "国语",
+                  "v": "国语"
+                },
+                {
+                  "n": "英语",
+                  "v": "英语"
+                },
+                {
+                  "n": "粤语",
+                  "v": "粤语"
+                },
+                {
+                  "n": "闽南话",
+                  "v": "闽南话"
+                },
+                {
+                  "n": "韩语",
+                  "v": "韩语"
+                },
+                {
+                  "n": "日语",
+                  "v": "日语"
+                },
+                {
+                  "n": "其它",
+                  "v": "其它"
+                }
+              ]
+            },
+            {
+              "key": "year",
+              "name": "年份",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "2024",
+                  "v": "2024"
+                },
+                {
+                  "n": "2023",
+                  "v": "2023"
+                },
+                {
+                  "n": "2022",
+                  "v": "2022"
+                },
+                {
+                  "n": "2021",
+                  "v": "2021"
+                },
+                {
+                  "n": "2020",
+                  "v": "2020"
+                },
+                {
+                  "n": "2019",
+                  "v": "2019"
+                },
+                {
+                  "n": "2018",
+                  "v": "2018"
+                },
+                {
+                  "n": "2017",
+                  "v": "2017"
+                },
+                {
+                  "n": "2016",
+                  "v": "2016"
+                },
+                {
+                  "n": "2015",
+                  "v": "2015"
+                },
+                {
+                  "n": "2014",
+                  "v": "2014"
+                },
+                {
+                  "n": "2013",
+                  "v": "2013"
+                },
+                {
+                  "n": "2012",
+                  "v": "2012"
+                },
+                {
+                  "n": "2011",
+                  "v": "2011"
+                },
+                {
+                  "n": "2010",
+                  "v": "2010"
+                },
+                {
+                  "n": "2009",
+                  "v": "2009"
+                },
+                {
+                  "n": "2008",
+                  "v": "2008"
+                },
+                {
+                  "n": "2006",
+                  "v": "2006"
+                },
+                {
+                  "n": "2005",
+                  "v": "2005"
+                },
+                {
+                  "n": "2004",
+                  "v": "2004"
+                }
+              ]
+            },
+            {
+              "key": "by",
+              "name": "排序",
+              "value": [
+                {
+                  "n": "时间",
+                  "v": "time"
+                },
+                {
+                  "n": "人气",
+                  "v": "hits"
+                },
+                {
+                  "n": "评分",
+                  "v": "score"
+                }
+              ]
+            }
+          ],
+          "3": [
+            {
+              "key": "cateId",
+              "name": "类型",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "欧美综艺",
+                  "v": "26"
+                },
+                {
+                  "n": "大陆综艺",
+                  "v": "27"
+                },
+                {
+                  "n": "港台综艺",
+                  "v": "28"
+                },
+                {
+                  "n": "日韩综艺",
+                  "v": "29"
+                }
+              ]
+            },
+            {
+              "key": "class",
+              "name": "剧情",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "选秀",
+                  "v": "选秀"
+                },
+                {
+                  "n": "情感",
+                  "v": "情感"
+                },
+                {
+                  "n": "访谈",
+                  "v": "访谈"
+                },
+                {
+                  "n": "播报",
+                  "v": "播报"
+                },
+                {
+                  "n": "旅游",
+                  "v": "旅游"
+                },
+                {
+                  "n": "音乐",
+                  "v": "音乐"
+                },
+                {
+                  "n": "美食",
+                  "v": "美食"
+                },
+                {
+                  "n": "纪实",
+                  "v": "纪实"
+                },
+                {
+                  "n": "曲艺",
+                  "v": "曲艺"
+                },
+                {
+                  "n": "生活",
+                  "v": "生活"
+                },
+                {
+                  "n": "游戏互动",
+                  "v": "游戏互动"
+                },
+                {
+                  "n": "财经",
+                  "v": "财经"
+                },
+                {
+                  "n": "求职",
+                  "v": "求职"
+                }
+              ]
+            },
+            {
+              "key": "area",
+              "name": "地区",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "大陆",
+                  "v": "大陆"
+                },
+                {
+                  "n": "香港",
+                  "v": "香港"
+                },
+                {
+                  "n": "台湾",
+                  "v": "台湾"
+                },
+                {
+                  "n": "美国",
+                  "v": "美国"
+                },
+                {
+                  "n": "法国",
+                  "v": "法国"
+                },
+                {
+                  "n": "英国",
+                  "v": "英国"
+                },
+                {
+                  "n": "日本",
+                  "v": "日本"
+                },
+                {
+                  "n": "韩国",
+                  "v": "韩国"
+                },
+                {
+                  "n": "德国",
+                  "v": "德国"
+                },
+                {
+                  "n": "泰国",
+                  "v": "泰国"
+                },
+                {
+                  "n": "印度",
+                  "v": "印度"
+                }
+              ]
+            },
+            {
+              "key": "lang",
+              "name": "语言",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "国语",
+                  "v": "国语"
+                },
+                {
+                  "n": "英语",
+                  "v": "英语"
+                },
+                {
+                  "n": "粤语",
+                  "v": "粤语"
+                },
+                {
+                  "n": "闽南话",
+                  "v": "闽南话"
+                },
+                {
+                  "n": "韩语",
+                  "v": "韩语"
+                },
+                {
+                  "n": "日语",
+                  "v": "日语"
+                },
+                {
+                  "n": "其它",
+                  "v": "其它"
+                }
+              ]
+            },
+            {
+              "key": "year",
+              "name": "年份",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "2024",
+                  "v": "2024"
+                },
+                {
+                  "n": "2023",
+                  "v": "2023"
+                },
+                {
+                  "n": "2022",
+                  "v": "2022"
+                },
+                {
+                  "n": "2021",
+                  "v": "2021"
+                },
+                {
+                  "n": "2020",
+                  "v": "2020"
+                },
+                {
+                  "n": "2019",
+                  "v": "2019"
+                },
+                {
+                  "n": "2018",
+                  "v": "2018"
+                },
+                {
+                  "n": "2017",
+                  "v": "2017"
+                },
+                {
+                  "n": "2016",
+                  "v": "2016"
+                },
+                {
+                  "n": "2015",
+                  "v": "2015"
+                },
+                {
+                  "n": "2014",
+                  "v": "2014"
+                },
+                {
+                  "n": "2013",
+                  "v": "2013"
+                },
+                {
+                  "n": "2012",
+                  "v": "2012"
+                },
+                {
+                  "n": "2011",
+                  "v": "2011"
+                },
+                {
+                  "n": "2010",
+                  "v": "2010"
+                },
+                {
+                  "n": "2009",
+                  "v": "2009"
+                },
+                {
+                  "n": "2008",
+                  "v": "2008"
+                },
+                {
+                  "n": "2006",
+                  "v": "2006"
+                },
+                {
+                  "n": "2005",
+                  "v": "2005"
+                },
+                {
+                  "n": "2004",
+                  "v": "2004"
+                }
+              ]
+            },
+            {
+              "key": "by",
+              "name": "排序",
+              "value": [
+                {
+                  "n": "时间",
+                  "v": "time"
+                },
+                {
+                  "n": "人气",
+                  "v": "hits"
+                },
+                {
+                  "n": "评分",
+                  "v": "score"
+                }
+              ]
+            }
+          ],
+          "4": [
+            {
+              "key": "cateId",
+              "name": "类型",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "日韩动漫",
+                  "v": "日韩动漫"
+                },
+                {
+                  "n": "欧美动漫",
+                  "v": "欧美动漫"
+                },
+                {
+                  "n": "港台动漫",
+                  "v": "港台动漫"
+                },
+                {
+                  "n": "国产动漫",
+                  "v": "国产动漫"
+                },
+                {
+                  "n": "海外动漫",
+                  "v": "海外动漫"
+                }
+              ]
+            },
+            {
+              "key": "class",
+              "name": "剧情",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "情感",
+                  "v": "情感"
+                },
+                {
+                  "n": "科幻",
+                  "v": "科幻"
+                },
+                {
+                  "n": "热血",
+                  "v": "热血"
+                },
+                {
+                  "n": "推理",
+                  "v": "推理"
+                },
+                {
+                  "n": "搞笑",
+                  "v": "搞笑"
+                },
+                {
+                  "n": "冒险",
+                  "v": "冒险"
+                },
+                {
+                  "n": "萝莉",
+                  "v": "萝莉"
+                },
+                {
+                  "n": "校园",
+                  "v": "校园"
+                },
+                {
+                  "n": "动作",
+                  "v": "动作"
+                },
+                {
+                  "n": "机战",
+                  "v": "机战"
+                },
+                {
+                  "n": "运动",
+                  "v": "运动"
+                },
+                {
+                  "n": "战争",
+                  "v": "战争"
+                },
+                {
+                  "n": "少年",
+                  "v": "少年"
+                },
+                {
+                  "n": "少女",
+                  "v": "少女"
+                },
+                {
+                  "n": "社会",
+                  "v": "社会"
+                },
+                {
+                  "n": "原创",
+                  "v": "原创"
+                },
+                {
+                  "n": "亲子",
+                  "v": "亲子"
+                },
+                {
+                  "n": "励志",
+                  "v": "励志"
+                },
+                {
+                  "n": "其他",
+                  "v": "其他"
+                }
+              ]
+            },
+            {
+              "key": "area",
+              "name": "地区",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "大陆",
+                  "v": "大陆"
+                },
+                {
+                  "n": "香港",
+                  "v": "香港"
+                },
+                {
+                  "n": "台湾",
+                  "v": "台湾"
+                },
+                {
+                  "n": "美国",
+                  "v": "美国"
+                },
+                {
+                  "n": "法国",
+                  "v": "法国"
+                },
+                {
+                  "n": "英国",
+                  "v": "英国"
+                },
+                {
+                  "n": "日本",
+                  "v": "日本"
+                },
+                {
+                  "n": "韩国",
+                  "v": "韩国"
+                },
+                {
+                  "n": "德国",
+                  "v": "德国"
+                },
+                {
+                  "n": "泰国",
+                  "v": "泰国"
+                },
+                {
+                  "n": "印度",
+                  "v": "印度"
+                }
+              ]
+            },
+            {
+              "key": "lang",
+              "name": "语言",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "国语",
+                  "v": "国语"
+                },
+                {
+                  "n": "英语",
+                  "v": "英语"
+                },
+                {
+                  "n": "粤语",
+                  "v": "粤语"
+                },
+                {
+                  "n": "闽南话",
+                  "v": "闽南话"
+                },
+                {
+                  "n": "韩语",
+                  "v": "韩语"
+                },
+                {
+                  "n": "日语",
+                  "v": "日语"
+                },
+                {
+                  "n": "其它",
+                  "v": "其它"
+                }
+              ]
+            },
+            {
+              "key": "year",
+              "name": "年份",
+              "value": [
+                {
+                  "n": "全部",
+                  "v": ""
+                },
+                {
+                  "n": "2024",
+                  "v": "2024"
+                },
+                {
+                  "n": "2023",
+                  "v": "2023"
+                },
+                {
+                  "n": "2022",
+                  "v": "2022"
+                },
+                {
+                  "n": "2021",
+                  "v": "2021"
+                },
+                {
+                  "n": "2020",
+                  "v": "2020"
+                },
+                {
+                  "n": "2019",
+                  "v": "2019"
+                },
+                {
+                  "n": "2018",
+                  "v": "2018"
+                },
+                {
+                  "n": "2017",
+                  "v": "2017"
+                },
+                {
+                  "n": "2016",
+                  "v": "2016"
+                },
+                {
+                  "n": "2015",
+                  "v": "2015"
+                },
+                {
+                  "n": "2014",
+                  "v": "2014"
+                },
+                {
+                  "n": "2013",
+                  "v": "2013"
+                },
+                {
+                  "n": "2012",
+                  "v": "2012"
+                },
+                {
+                  "n": "2011",
+                  "v": "2011"
+                },
+                {
+                  "n": "2010",
+                  "v": "2010"
+                },
+                {
+                  "n": "2009",
+                  "v": "2009"
+                },
+                {
+                  "n": "2008",
+                  "v": "2008"
+                },
+                {
+                  "n": "2006",
+                  "v": "2006"
+                },
+                {
+                  "n": "2005",
+                  "v": "2005"
+                },
+                {
+                  "n": "2004",
+                  "v": "2004"
+                }
+              ]
+            },
+            {
+              "key": "by",
+              "name": "排序",
+              "value": [
+                {
+                  "n": "时间",
+                  "v": "time"
+                },
+                {
+                  "n": "人气",
+                  "v": "hits"
+                },
+                {
+                  "n": "评分",
+                  "v": "score"
+                }
+              ]
+            }
+          ]
+        }
       }
-    ],
-    "2": [
-      {
-        "key": "cateId",
-        "name": "类型",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "国产剧",
-            "v": "25"
-          },
-          {
-            "n": "泰国剧",
-            "v": "14"
-          },
-          {
-            "n": "香港剧",
-            "v": "15"
-          },
-          {
-            "n": "韩国剧",
-            "v": "16"
-          },
-          {
-            "n": "台湾剧",
-            "v": "22"
-          },
-          {
-            "n": "日本剧",
-            "v": "23"
-          },
-          {
-            "n": "欧美剧",
-            "v": "24"
-          },
-          {
-            "n": "海外剧",
-            "v": "13"
-          }
-        ]
-      },
-      {
-        "key": "class",
-        "name": "剧情",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "古装",
-            "v": "古装"
-          },
-          {
-            "n": "战争",
-            "v": "战争"
-          },
-          {
-            "n": "青春偶像",
-            "v": "青春偶像"
-          },
-          {
-            "n": "喜剧",
-            "v": "喜剧"
-          },
-          {
-            "n": "家庭",
-            "v": "家庭"
-          },
-          {
-            "n": "剧情",
-            "v": "剧情"
-          },
-          {
-            "n": "犯罪",
-            "v": "犯罪"
-          },
-          {
-            "n": "动作",
-            "v": "动作"
-          },
-          {
-            "n": "奇幻",
-            "v": "奇幻"
-          },
-          {
-            "n": "剧情",
-            "v": "剧情"
-          },
-          {
-            "n": "历史",
-            "v": "历史"
-          },
-          {
-            "n": "经典",
-            "v": "经典"
-          },
-          {
-            "n": "乡村",
-            "v": "乡村"
-          },
-          {
-            "n": "情景",
-            "v": "情景"
-          },
-          {
-            "n": "商战",
-            "v": "商战"
-          },
-          {
-            "n": "网剧",
-            "v": "网剧"
-          },
-          {
-            "n": "其他",
-            "v": "其他"
-          }
-        ]
-      },
-      {
-        "key": "area",
-        "name": "地区",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "大陆",
-            "v": "大陆"
-          },
-          {
-            "n": "香港",
-            "v": "香港"
-          },
-          {
-            "n": "台湾",
-            "v": "台湾"
-          },
-          {
-            "n": "美国",
-            "v": "美国"
-          },
-          {
-            "n": "法国",
-            "v": "法国"
-          },
-          {
-            "n": "英国",
-            "v": "英国"
-          },
-          {
-            "n": "日本",
-            "v": "日本"
-          },
-          {
-            "n": "韩国",
-            "v": "韩国"
-          },
-          {
-            "n": "德国",
-            "v": "德国"
-          },
-          {
-            "n": "泰国",
-            "v": "泰国"
-          },
-          {
-            "n": "印度",
-            "v": "印度"
-          }
-        ]
-      },
-      {
-        "key": "lang",
-        "name": "语言",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "国语",
-            "v": "国语"
-          },
-          {
-            "n": "英语",
-            "v": "英语"
-          },
-          {
-            "n": "粤语",
-            "v": "粤语"
-          },
-          {
-            "n": "闽南话",
-            "v": "闽南话"
-          },
-          {
-            "n": "韩语",
-            "v": "韩语"
-          },
-          {
-            "n": "日语",
-            "v": "日语"
-          },
-          {
-            "n": "其它",
-            "v": "其它"
-          }
-        ]
-      },
-      {
-        "key": "year",
-        "name": "年份",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "2024",
-            "v": "2024"
-          },
-          {
-            "n": "2023",
-            "v": "2023"
-          },
-          {
-            "n": "2022",
-            "v": "2022"
-          },
-          {
-            "n": "2021",
-            "v": "2021"
-          },
-          {
-            "n": "2020",
-            "v": "2020"
-          },
-          {
-            "n": "2019",
-            "v": "2019"
-          },
-          {
-            "n": "2018",
-            "v": "2018"
-          },
-          {
-            "n": "2017",
-            "v": "2017"
-          },
-          {
-            "n": "2016",
-            "v": "2016"
-          },
-          {
-            "n": "2015",
-            "v": "2015"
-          },
-          {
-            "n": "2014",
-            "v": "2014"
-          },
-          {
-            "n": "2013",
-            "v": "2013"
-          },
-          {
-            "n": "2012",
-            "v": "2012"
-          },
-          {
-            "n": "2011",
-            "v": "2011"
-          },
-          {
-            "n": "2010",
-            "v": "2010"
-          },
-          {
-            "n": "2009",
-            "v": "2009"
-          },
-          {
-            "n": "2008",
-            "v": "2008"
-          },
-          {
-            "n": "2006",
-            "v": "2006"
-          },
-          {
-            "n": "2005",
-            "v": "2005"
-          },
-          {
-            "n": "2004",
-            "v": "2004"
-          }
-        ]
-      },
-      {
-        "key": "by",
-        "name": "排序",
-        "value": [
-          {
-            "n": "时间",
-            "v": "time"
-          },
-          {
-            "n": "人气",
-            "v": "hits"
-          },
-          {
-            "n": "评分",
-            "v": "score"
-          }
-        ]
-      }
-    ],
-    "3": [
-      {
-        "key": "cateId",
-        "name": "类型",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "欧美综艺",
-            "v": "26"
-          },
-          {
-            "n": "大陆综艺",
-            "v": "27"
-          },
-          {
-            "n": "港台综艺",
-            "v": "28"
-          },
-          {
-            "n": "日韩综艺",
-            "v": "29"
-          }
-        ]
-      },
-      {
-        "key": "class",
-        "name": "剧情",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "选秀",
-            "v": "选秀"
-          },
-          {
-            "n": "情感",
-            "v": "情感"
-          },
-          {
-            "n": "访谈",
-            "v": "访谈"
-          },
-          {
-            "n": "播报",
-            "v": "播报"
-          },
-          {
-            "n": "旅游",
-            "v": "旅游"
-          },
-          {
-            "n": "音乐",
-            "v": "音乐"
-          },
-          {
-            "n": "美食",
-            "v": "美食"
-          },
-          {
-            "n": "纪实",
-            "v": "纪实"
-          },
-          {
-            "n": "曲艺",
-            "v": "曲艺"
-          },
-          {
-            "n": "生活",
-            "v": "生活"
-          },
-          {
-            "n": "游戏互动",
-            "v": "游戏互动"
-          },
-          {
-            "n": "财经",
-            "v": "财经"
-          },
-          {
-            "n": "求职",
-            "v": "求职"
-          }
-        ]
-      },
-      {
-        "key": "area",
-        "name": "地区",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "大陆",
-            "v": "大陆"
-          },
-          {
-            "n": "香港",
-            "v": "香港"
-          },
-          {
-            "n": "台湾",
-            "v": "台湾"
-          },
-          {
-            "n": "美国",
-            "v": "美国"
-          },
-          {
-            "n": "法国",
-            "v": "法国"
-          },
-          {
-            "n": "英国",
-            "v": "英国"
-          },
-          {
-            "n": "日本",
-            "v": "日本"
-          },
-          {
-            "n": "韩国",
-            "v": "韩国"
-          },
-          {
-            "n": "德国",
-            "v": "德国"
-          },
-          {
-            "n": "泰国",
-            "v": "泰国"
-          },
-          {
-            "n": "印度",
-            "v": "印度"
-          }
-        ]
-      },
-      {
-        "key": "lang",
-        "name": "语言",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "国语",
-            "v": "国语"
-          },
-          {
-            "n": "英语",
-            "v": "英语"
-          },
-          {
-            "n": "粤语",
-            "v": "粤语"
-          },
-          {
-            "n": "闽南话",
-            "v": "闽南话"
-          },
-          {
-            "n": "韩语",
-            "v": "韩语"
-          },
-          {
-            "n": "日语",
-            "v": "日语"
-          },
-          {
-            "n": "其它",
-            "v": "其它"
-          }
-        ]
-      },
-      {
-        "key": "year",
-        "name": "年份",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "2024",
-            "v": "2024"
-          },
-          {
-            "n": "2023",
-            "v": "2023"
-          },
-          {
-            "n": "2022",
-            "v": "2022"
-          },
-          {
-            "n": "2021",
-            "v": "2021"
-          },
-          {
-            "n": "2020",
-            "v": "2020"
-          },
-          {
-            "n": "2019",
-            "v": "2019"
-          },
-          {
-            "n": "2018",
-            "v": "2018"
-          },
-          {
-            "n": "2017",
-            "v": "2017"
-          },
-          {
-            "n": "2016",
-            "v": "2016"
-          },
-          {
-            "n": "2015",
-            "v": "2015"
-          },
-          {
-            "n": "2014",
-            "v": "2014"
-          },
-          {
-            "n": "2013",
-            "v": "2013"
-          },
-          {
-            "n": "2012",
-            "v": "2012"
-          },
-          {
-            "n": "2011",
-            "v": "2011"
-          },
-          {
-            "n": "2010",
-            "v": "2010"
-          },
-          {
-            "n": "2009",
-            "v": "2009"
-          },
-          {
-            "n": "2008",
-            "v": "2008"
-          },
-          {
-            "n": "2006",
-            "v": "2006"
-          },
-          {
-            "n": "2005",
-            "v": "2005"
-          },
-          {
-            "n": "2004",
-            "v": "2004"
-          }
-        ]
-      },
-      {
-        "key": "by",
-        "name": "排序",
-        "value": [
-          {
-            "n": "时间",
-            "v": "time"
-          },
-          {
-            "n": "人气",
-            "v": "hits"
-          },
-          {
-            "n": "评分",
-            "v": "score"
-          }
-        ]
-      }
-    ],
-    "4": [
-      {
-        "key": "cateId",
-        "name": "类型",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "日韩动漫",
-            "v": "日韩动漫"
-          },
-          {
-            "n": "欧美动漫",
-            "v": "欧美动漫"
-          },
-          {
-            "n": "港台动漫",
-            "v": "港台动漫"
-          },
-          {
-            "n": "国产动漫",
-            "v": "国产动漫"
-          },
-          {
-            "n": "海外动漫",
-            "v": "海外动漫"
-          }
-        ]
-      },
-      {
-        "key": "class",
-        "name": "剧情",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "情感",
-            "v": "情感"
-          },
-          {
-            "n": "科幻",
-            "v": "科幻"
-          },
-          {
-            "n": "热血",
-            "v": "热血"
-          },
-          {
-            "n": "推理",
-            "v": "推理"
-          },
-          {
-            "n": "搞笑",
-            "v": "搞笑"
-          },
-          {
-            "n": "冒险",
-            "v": "冒险"
-          },
-          {
-            "n": "萝莉",
-            "v": "萝莉"
-          },
-          {
-            "n": "校园",
-            "v": "校园"
-          },
-          {
-            "n": "动作",
-            "v": "动作"
-          },
-          {
-            "n": "机战",
-            "v": "机战"
-          },
-          {
-            "n": "运动",
-            "v": "运动"
-          },
-          {
-            "n": "战争",
-            "v": "战争"
-          },
-          {
-            "n": "少年",
-            "v": "少年"
-          },
-          {
-            "n": "少女",
-            "v": "少女"
-          },
-          {
-            "n": "社会",
-            "v": "社会"
-          },
-          {
-            "n": "原创",
-            "v": "原创"
-          },
-          {
-            "n": "亲子",
-            "v": "亲子"
-          },
-          {
-            "n": "励志",
-            "v": "励志"
-          },
-          {
-            "n": "其他",
-            "v": "其他"
-          }
-        ]
-      },
-      {
-        "key": "area",
-        "name": "地区",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "大陆",
-            "v": "大陆"
-          },
-          {
-            "n": "香港",
-            "v": "香港"
-          },
-          {
-            "n": "台湾",
-            "v": "台湾"
-          },
-          {
-            "n": "美国",
-            "v": "美国"
-          },
-          {
-            "n": "法国",
-            "v": "法国"
-          },
-          {
-            "n": "英国",
-            "v": "英国"
-          },
-          {
-            "n": "日本",
-            "v": "日本"
-          },
-          {
-            "n": "韩国",
-            "v": "韩国"
-          },
-          {
-            "n": "德国",
-            "v": "德国"
-          },
-          {
-            "n": "泰国",
-            "v": "泰国"
-          },
-          {
-            "n": "印度",
-            "v": "印度"
-          }
-        ]
-      },
-      {
-        "key": "lang",
-        "name": "语言",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "国语",
-            "v": "国语"
-          },
-          {
-            "n": "英语",
-            "v": "英语"
-          },
-          {
-            "n": "粤语",
-            "v": "粤语"
-          },
-          {
-            "n": "闽南话",
-            "v": "闽南话"
-          },
-          {
-            "n": "韩语",
-            "v": "韩语"
-          },
-          {
-            "n": "日语",
-            "v": "日语"
-          },
-          {
-            "n": "其它",
-            "v": "其它"
-          }
-        ]
-      },
-      {
-        "key": "year",
-        "name": "年份",
-        "value": [
-          {
-            "n": "全部",
-            "v": ""
-          },
-          {
-            "n": "2024",
-            "v": "2024"
-          },
-          {
-            "n": "2023",
-            "v": "2023"
-          },
-          {
-            "n": "2022",
-            "v": "2022"
-          },
-          {
-            "n": "2021",
-            "v": "2021"
-          },
-          {
-            "n": "2020",
-            "v": "2020"
-          },
-          {
-            "n": "2019",
-            "v": "2019"
-          },
-          {
-            "n": "2018",
-            "v": "2018"
-          },
-          {
-            "n": "2017",
-            "v": "2017"
-          },
-          {
-            "n": "2016",
-            "v": "2016"
-          },
-          {
-            "n": "2015",
-            "v": "2015"
-          },
-          {
-            "n": "2014",
-            "v": "2014"
-          },
-          {
-            "n": "2013",
-            "v": "2013"
-          },
-          {
-            "n": "2012",
-            "v": "2012"
-          },
-          {
-            "n": "2011",
-            "v": "2011"
-          },
-          {
-            "n": "2010",
-            "v": "2010"
-          },
-          {
-            "n": "2009",
-            "v": "2009"
-          },
-          {
-            "n": "2008",
-            "v": "2008"
-          },
-          {
-            "n": "2006",
-            "v": "2006"
-          },
-          {
-            "n": "2005",
-            "v": "2005"
-          },
-          {
-            "n": "2004",
-            "v": "2004"
-          }
-        ]
-      },
-      {
-        "key": "by",
-        "name": "排序",
-        "value": [
-          {
-            "n": "时间",
-            "v": "time"
-          },
-          {
-            "n": "人气",
-            "v": "hits"
-          },
-          {
-            "n": "评分",
-            "v": "score"
-          }
-        ]
-      }
-    ]
-  }
-}
     },
-
     {
       "key": "csp_XYQBiu_虎牙直播",
       "name": "XYQB┃虎牙直播",
@@ -18491,7 +18858,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
-      "jar": "https://my5353.com/xyqxbpq",
       "ext": {
         "站名": "久久",
         "发布页": "sezb.vip",
@@ -18786,7 +19152,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://my5353.com/xyqxbpq",
       "ext": {
         "站名": "天天直播",
         "主页url": "https://www.ttszb9.com/",
@@ -34757,51 +35122,34 @@
       "url": "Sequence"
     },
     {
-      "name": "爱心笔记本",
-      "type": 4,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
     },
     {
-      "name": "魏晓芳",
-      "type": 1,
-      "url": "https://svip.renrenmi.cc:2222/api/?key=ogGC18CjsACNo60r3E&url="
+      "name": "并发",
+      "type": 2,
+      "url": "Parallel"
     },
     {
-      "name": "fuqi",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
-    },
-    {
-      "name": "盘古",
+      "name": "8090g",
       "type": 0,
-      "url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
+      "url": ""
     },
     {
-      "name": "左岸",
-      "type": 1,
-      "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905",
-          "优播线路",
-          "腾播线路"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
+      "name": "虾米",
+      "type": 0,
+      "url": ""
     },
     {
-      "name": "👍4K解析👍",
+      "name": "夜幕",
+      "type": 0,
+      "url": ""
+    },
+    {
+      "name": "巧技",
       "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -34825,439 +35173,6 @@
         "header": {
           "User-Agent": "okhttp/4.9.1"
         }
-      }
-    },
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "未知",
-      "type": 1,
-      "url": "http://106.52.218.221:88/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "随便1",
-      "type": 1,
-      "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="
-    },
-    {
-      "name": "随便2",
-      "type": 1,
-      "url": "https://www.nfjx.xyz/home/api?type=ys&uid=5767995&key=ijkmovxDEHIJPQRW69&url="
-    },
-    {
-      "name": "LTRX",
-      "type": 1,
-      "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=",
-      "ext": {
-        "flag": [
-          "rx"
-        ]
-      }
-    },
-    {
-      "name": "OJBK",
-      "type": 0,
-      "url": "https://jmwl.qd234.cn/v/?v=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi",
-          "rx",
-          "xfyun",
-          "muxm3u8",
-          "xigua",
-          "xueren",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "letv"
-        ]
-      }
-    },
-    {
-      "name": "parwix1",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "parwix2",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "线路m9",
-      "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
-    },
-    {
-      "name": "线路NX",
-      "type": 1,
-      "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
-    },
-    {
-      "name": "①秒播",
-      "type": 1,
-      "url": "https://jx.hfyrw.com/mao.go?url="
-    },
-    {
-      "name": "②秒播",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "qq",
-          "letv",
-          "sohu",
-          "youku",
-          "mgtv",
-          "bilibili",
-          "wasu",
-          "xigua",
-          "1905"
-        ]
-      }
-    },
-    {
-      "name": "③秒播",
-      "url": "http://81.71.48.249:4456/jsonc/293shipin.php?url=",
-      "type": 1,
-      "i": "77",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果"
-        ]
-      }
-    },
-    {
-      "name": "④秒播",
-      "type": 1,
-      "url": "http://106.55.234.91:4433/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "qq",
-          "letv",
-          "sohu",
-          "youku",
-          "mgtv",
-          "bilibili",
-          "wasu",
-          "xigua",
-          "1905"
-        ]
-      }
-    },
-    {
-      "name": "⑤秒播",
-      "type": 1,
-      "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
-    },
-    {
-      "name": "⑦秒播",
-      "type": 1,
-      "url": "https://app.okmedcos.com/4k/?url="
-    },
-    {
-      "name": "⑧秒播",
-      "type": 1,
-      "url": "https://jie.1z1.cc/api/?key=HdMmTMfyf1uTOQUL0b&url="
-    },
-    {
-      "name": "Pro",
-      "type": 1,
-      "url": "http://api.vip123kan.vip/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "2",
-      "type": 1,
-      "url": "https://jx.mczdyw.com/xg.php?url=",
-      "ext": {
-        "flag": [
-          "mgtv",
-          "芒果"
-        ]
-      }
-    },
-    {
-      "name": "3",
-      "type": 1,
-      "url": "https://www.aiaine.com/api/?key=kVqmG5dAQ5dZTcECw8&url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "4",
-      "type": 1,
-      "url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "8",
-      "type": 1,
-      "url": "https://app.iminna.com/jx/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "飓风影院2",
-      "type": 1,
-      "url": "https://vvip.funsline.cn/api/?key=3xWfEoDf4V9p9Y20CR&url=",
-      "ext": {
-        "flag": [
-          "ziqie",
-          "youku",
-          "优酷",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯"
-        ]
-      }
-    },
-    {
-      "name": "我爱电影网",
-      "type": 1,
-      "url": "https://jhpc.manduhu.com/j1217.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "mgtv",
-          "芒果",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV"
-        ]
-      }
-    },
-    {
-      "name": "王牌",
-      "type": 1,
-      "url": "https://za.kuanjv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "搜狐",
-          "sohu",
-          "letv",
-          "乐视",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "xigua",
-          "西瓜"
-        ]
-      }
-    },
-    {
-      "name": "盘古解析",
-      "type": 1,
-      "url": "https://json.pangujiexi.com:12345/json.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果"
-        ]
-      }
-    },
-    {
-      "name": "欢雨",
-      "type": 1,
-      "url": "http://www.youhuifuligou.com/json/?id=7&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "letv",
-          "乐视",
-          "xigua",
-          "西瓜"
-        ]
       }
     },
     {
@@ -35290,202 +35205,39 @@
       }
     },
     {
-      "name": "777",
+      "name": "巧技三",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+      "ext": {
+        "flag": [
+          "QD4K",
+          "iyf",
+          "duanju",
+          "gzcj",
+          "GTV",
+          "GZYS",
+          "weggz",
+          "Ace"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "帅",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
+    {
+      "name": "CKjx",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
-      "name": "优选",
-      "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "臻享1080",
+      "name": "摸鱼皮皮虾",
       "type": "1",
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "至臻",
-      "type": 1,
-      "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "公众号：六趣",
-      "type": 1,
-      "url": "http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "柒豪4K",
-      "type": 1,
-      "url": "http://isp.wki8.com/jx.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "巧技",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "HGvip",
-      "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
-      "ext": {
-        "flag": [
-          "hgvip"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "皮皮虾",
-      "type": "1",
-      "url": "http://jiexi.52ppx.top/index.php?url=",
+      "url": "http://jiexi.52ppx.top/lxjson.php?url=",
       "ext": {
         "flag": [
           "PPXLG",
@@ -35494,9 +35246,19 @@
       }
     },
     {
-      "name": "小米",
+      "name": "超级接口",
       "type": 1,
-      "url": "https://www.mpanso.com/muou/qilin.php?url=",
+      "url": "http://60.211.124.23:10101/hbanbox/json/json.php/?key=369258173222&url="
+    },
+    {
+      "name": "黄金复刻",
+      "url": "http://jx.hjfggzs.top/api/diy/?key=MgayuZRdJt07QuimYV&url=",
+      "type": "1"
+    },
+    {
+      "name": "无上",
+      "type": "1",
+      "url": "https://mfjx.iwsyy.xyz/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -35523,38 +35285,30 @@
       }
     },
     {
-      "name": "反弹",
-      "type": 1,
-      "url": "http://110.40.85.39:81/jxxx/api.php?url=",
+      "name": "-红狐-",
+      "type": 0,
+      "url": "https://player.mrgaocloud.com/player/?url="
+    },
+    {
+      "name": "爱豆",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
         "header": {
-          "User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://jiejie.uk/"
         }
       }
     },
     {
-      "name": "柒豪4K",
+      "name": "魔都",
       "type": 1,
-      "url": "http://mf.0v.fit/api/?key=3ef5647feb0e98fdee66820efd36e2dd&url=",
+      "url": "https://jiexi.modujx01.com/?url="
+    },
+    {
+      "name": "欢雨",
+      "type": 1,
+      "url": "http://www.youhuifuligou.com/json/?id=7&url=",
       "ext": {
         "flag": [
           "qq",
@@ -35564,21 +35318,17 @@
           "奇艺",
           "youku",
           "优酷",
-          "sohu",
-          "搜狐",
           "letv",
           "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
+          "xigua",
+          "西瓜"
+        ]
       }
+    },
+    {
+      "name": "臻享",
+      "type": 1,
+      "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="
     },
     {
       "name": "无双",
@@ -35623,6 +35373,56 @@
       }
     },
     {
+      "name": "-盘古-",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "线5",
+      "type": 1,
+      "url": "https://www.pouyun.com/?url="
+    },
+    {
+      "name": "官解2",
+      "type": 1,
+      "url": "https://jx.0ry.cn/?url="
+    },
+    {
+      "name": "光速",
+      "type": 0,
+      "url": "https://www.gszyv.com/m3u8/?url="
+    },
+    {
+      "name": "纯净1",
+      "type": 1,
+      "url": "https://im1907.top/?jx="
+    },
+    {
+      "name": "-夜幕-",
+      "type": 0,
+      "url": "https://yemu.xyz/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-zui-",
+      "type": 0,
+      "url": "https://jx.zui.cm/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
       "name": "虾米",
       "type": 0,
       "url": "https://jx.xyflv.cc/?url=",
@@ -35649,9 +35449,71 @@
       }
     },
     {
-      "name": "jsonplayer",
+      "name": "七星",
+      "url": "https://jx.xmflv.cc/?url=",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "爱坤",
+      "type": 0,
+      "url": "https://www.ikdmjx.com/?url="
+    },
+    {
+      "name": "火狐",
+      "type": 0,
+      "url": "https://hhjiexi.com/play/?url="
+    },
+    {
+      "name": "360",
+      "type": 0,
+      "url": "https://www.360jiexi.com/player/?url="
+    },
+    {
+      "name": "线路2",
+      "type": 0,
+      "url": "https://jx.quankan.app/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "线7",
+      "type": 1,
+      "url": "https://jx.2s0.cn/player/?url="
+    },
+    {
+      "name": "线8",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url="
     },
     {
       "name": "虾米2",
@@ -35716,17 +35578,17 @@
       }
     },
     {
-      "name": "-关注-",
+      "name": "-欧歌1-",
       "type": 1,
       "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="
     },
     {
-      "name": "-欧歌-",
+      "name": "-欧歌2-",
       "type": 1,
       "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="
     },
     {
-      "name": "-公众号-",
+      "name": "-欧歌3-",
       "type": 1,
       "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=3&url="
     },
@@ -35734,26 +35596,6 @@
       "name": "欧歌APP",
       "type": 1,
       "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=8&url="
-    },
-    {
-      "name": "线路01",
-      "type": 0,
-      "url": "https://bfq.cfwlgzs.cn/player?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "线路02",
-      "type": 0,
-      "url": "http://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-        }
-      }
     },
     {
       "name": "-云解析-",
@@ -35777,19 +35619,24 @@
       }
     },
     {
-      "name": "线路05",
+      "name": "盘古2",
       "type": 0,
-      "url": "https://cdn.zyc888.top/?url="
+      "url": "https://www.pangujiexi.com/pangu/?url="
     },
     {
-      "name": "线路06",
-      "type": 0,
-      "url": "https://jx.yangtu.top?url="
+      "name": "芒果解析",
+      "type": 1,
+      "url": "http://103.36.221.75:82/mg/Mgtv.php?url="
     },
     {
-      "name": "线路07",
-      "type": 0,
-      "url": "https://player.mrgaocloud.com/player/?url="
+      "name": "爱奇艺解析",
+      "type": 1,
+      "url": "http://110.40.45.213:7788/iqiyi/qiqq.php?url="
+    },
+    {
+      "name": "vipjx",
+      "type": 1,
+      "url": "https://json.vipjx.cnow.eu.org/?url="
     },
     {
       "name": "77",
@@ -35815,81 +35662,6 @@
           "哔哩哔哩",
           "哔哩"
         ]
-      }
-    },
-    {
-      "name": "qiyi[官源]",
-      "type": 1,
-      "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
-    },
-    {
-      "name": "肥猫最可爱",
-      "type": 1,
-      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "王",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
-    },
-    {
-      "name": "二",
-      "type": 1,
-      "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
-    },
-    {
-      "name": "小",
-      "type": 1,
-      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
-    },
-    {
-      "name": "帅",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
-    },
-    {
-      "name": "1",
-      "type": 1,
-      "url": "http://39.106.63.186/algorithm.php?url="
-    },
-    {
-      "name": "线路1",
-      "type": 0,
-      "url": "https://jx.quankan.app/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
       }
     },
     {
@@ -35922,27 +35694,6 @@
       }
     },
     {
-      "name": "线路3",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-          "referer": "https://jiejie.uk/"
-        }
-      }
-    },
-    {
-      "name": "8090",
-      "type": 0,
-      "url": "https://www.8090g.cn/?url="
-    },
-    {
-      "name": "线路5",
-      "type": 0,
-      "url": "https://jx.yangtu.top?url="
-    },
-    {
       "name": "m3u8TV",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url=",
@@ -35970,11 +35721,6 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
-    },
-    {
-      "name": "CK",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
       "name": "云",
@@ -36016,33 +35762,10 @@
       "url": "https://bd.jx.cn/?url="
     },
     {
-      "name": "ikun",
+      "name": "hls",
       "type": 0,
       "url": "https://jx.hls.one/?url="
-    },
-    {
-      "name": "A6",
-      "type": 0,
-      "url": "https://pl.a6club.com/player/analysis.php?v="
-    },
-    {
-      "name": "线路10",
-      "type": 0,
-      "url": "https://jx.2s0.cn/player/?url="
-    },
-    {
-      "name": "线路11",
-      "type": 0,
-      "url": "https://jx.nnxv.cn/tv.php?url="
     }
-  ],
-  "hosts": [
-    "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
   "rules": [
     {
@@ -36679,13 +36402,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "live-(本地)",
-      "type": 0,
-      "url": "./live/live-103856.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
       "name": "疯子直播①",
       "type": 0,
       "url": "https://codeberg.org/9999/888/raw/branch/main/202525/lib/lb/%E7%96%AF%E5%AD%90%E7%9B%B4%E6%92%AD.txt",
@@ -36695,104 +36411,11 @@
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "枫斗",
-      "type": "0",
-      "pass": true,
-      "url": "https://gitee.com/fengdoudev/tv/raw/master/live/tv.text",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "live(优)",
-      "type": 0,
-      "playerType": 2,
-      "ua": "AptvPlayer/1.3.3",
-      "url": "https://live.iptv365.org/live.m3u",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "宝盒(优)",
-      "type": 0,
-      "url": "https://epg.pw/test_channels.m3u",
-      "ua": "okhttp/3.8.1",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "jundie",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "ua": "okhttp/3.15",
-      "timeout": 5,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "本地BMCH优",
-      "type": "0",
-      "pass": true,
-      "url": "./live/iptv-ok.m3u",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-    {
-      "name": "本地Tianmu",
-      "type": "0",
-      "pass": true,
-      "url": "./live/iptv.txt",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-    {
       "name": "太阳直播",
       "type": 0,
       "url": "http://9xi4o.tk/sub/mytv.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./jar/spider.jar",
-      "ext": "./allinone",
-      "url": "./live/huyayqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15",
-      "catchup": {
-        "type": "append",
-        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
-    },
-    {
-      "name": "哔哩生活",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./jar/spider.jar",
-      "ext": "./allinone",
-      "url": "./live/bililive.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15",
-      "catchup": {
-        "type": "append",
-        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
-    },
-    {
-      "name": "iptv-ok",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./jar/spider.jar",
-      "ext": "./allinone",
-      "url": "./live/iptv-ok.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15",
-      "catchup": {
-        "type": "append",
-        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
     },
     {
       "name": "香港优",
@@ -36803,98 +36426,8 @@
       "url": "https://iptv.catvod.com/tv.m3u"
     },
     {
-      "name": "ITV本地",
-      "type": 0,
-      "url": "https://mpimg.cn/down.php/2e0a10f8436052a34b89ba42c0e49921.txt",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "timeout": "3",
-      "playerType": 2
-    },
-    {
-      "name": "ITV/PG",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/11474/pg.20250201-2032/ITV.txt",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "timeout": "3",
-      "playerType": 2
-    },
-    {
-      "name": "ITV",
-      "type": 0,
-      "url": "./live/ITV.txt",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "timeout": "3",
-      "playerType": 2
-    },
-    {
-      "name": "BMCH优",
-      "type": "0",
-      "pass": true,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-    {
-      "name": "Tianmu优",
-      "type": "0",
-      "pass": true,
-      "url": "https://ghfast.top/raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-    {
       "name": "Govin优",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
-    },
-    {
-      "name": "18万MTV",
-      "type": 0,
-      "url": "./live/十八万.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./jar/spider.jar",
-      "url": "https://9877.kstore.space/Live/live.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15",
-      "catchup": {
-        "type": "append",
-        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./jar/spider.jar",
-      "url": "https://9877.kstore.space/Live/huyayqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./jar/spider.jar",
-      "url": "https://9877.kstore.space/Live/douyuyqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "YY轮播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "jar": "./jar/spider.jar",
-      "url": "https://9877.kstore.space/Live/yylunbo.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
     },
     {
       "name": "电视（优）",
@@ -36906,15 +36439,6 @@
       "timeout": 10
     },
     {
-      "name": "AI直播（优）",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
       "name": "猫TV直播（优）",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
@@ -36922,30 +36446,6 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 1,
       "timeout": 10
-    },
-    {
-      "name": "⑪V6明线路（优）",
-      "type": 0,
-      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "②⑥范明线路（优）",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "范明IPV6①（优）",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "playerType": 1
     },
     {
       "name": "YanG电视（优）",
@@ -36976,26 +36476,11 @@
       "timeout": 10
     },
     {
-      "name": "网络Live",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
       "name": "③④16万MV",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp2.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "肥国内",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "douyuyqk.m3u",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "name": "肥羊•斗鱼优",
@@ -37010,51 +36495,6 @@
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "YanG主播",
-      "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "V4聚合",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "iptv4",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv4.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "lPV4直播",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv4.m3u",
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "lPV6直播",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv6.m3u",
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "US_CBSN",
-      "type": "0",
-      "url": "./live/2us_cbsn.m3u"
-    },
-    {
-      "name": "25",
-      "type": "0",
-      "url": "https://6296.kstore.vip/25.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "APTV",

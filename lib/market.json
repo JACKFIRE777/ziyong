@@ -279,6 +279,12 @@
         "url": "https://jihulab.com/fourd/FourD/-/raw/main/local/多线路.zip",
         "icon": "",
         "version": "2.22.2"
+      },
+      {
+        "name": "小虎斑",
+        "url": "http://zling.online:10101/小虎斑.zip",
+        "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
+        "version": "1.2"
       }
     ]
   },
