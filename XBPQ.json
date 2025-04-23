@@ -3,6 +3,7 @@
   "wallpaper": "./img/default_v.jpg",
   "logo": "./img/ICONSGIF.gif",
   "sites": [
+
     {
       "key": "豆瓣采集",
       "name": "采集┃豆瓣",
@@ -576,7 +577,7 @@
       "name": "PG本地更新",
       "type": 3,
       "api": "csp_Market",
-      "jar": "./jar/market.jar;md5;29972e50f5902a6409fce58e6e4c7473",
+      "jar": "./jar/noma.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -587,7 +588,7 @@
       "name": "检查潇洒｜更新",
       "type": 3,
       "api": "csp_Market",
-      "jar": "./jar/market.jar;md5;29972e50f5902a6409fce58e6e4c7473",
+      "jar": "./jar/noma.jar",
       "searchable": 0,
       "changeable": 0,
       "ext": "https://9877.kstore.space/Market/market.json"
@@ -597,33 +598,25 @@
       "name": "小虎斑｜更新",
       "type": 3,
       "api": "csp_Market",
-      "jar": "./jar/market.jar;md5;29972e50f5902a6409fce58e6e4c7473",
+      "jar": "./jar/noma.jar",
       "searchable": 0,
       "changeable": 0,
       "ext": "https://8924.kstore.space/huban/mark.json"
-    },
-    {
-      "key": "潇┃Market1",
-      "name": "潇┃應用商店-代理链",
-      "type": 3,
-      "api": "csp_Market",
-      "jar": "./jar/market.jar;md5;29972e50f5902a6409fce58e6e4c7473",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/app/yysd.json"
     },
     {
       "key": "欧┃Market1",
       "name": "欧┃應用商店",
       "type": 3,
       "api": "csp_Market",
-      "jar": "./jar/market.jar;md5;29972e50f5902a6409fce58e6e4c7473",
-      "ext": "http://123.yy.xn--dkw.xn--6qq986b3xl/sd.php"
+      "jar": "./jar/noma.jar",
+      "ext": "http://123.yy.xn--dkw.xn--6qq986b3xl/zm/sd.php"
     },
     {
       "key": "雷蒙┃Market1",
       "name": "雷蒙┃應用商店",
       "type": 3,
       "api": "csp_Market",
-      "jar": "./jar/market.jar;md5;29972e50f5902a6409fce58e6e4c7473",
+      "jar": "./jar/noma.jar",
       "ext": "https://github.moeyy.xyz/https://github.com/n3rddd/N3RD/blob/master/JN/N3RD/T/market.json"
     },
     {
@@ -631,7 +624,7 @@
       "name": "自┃本地杂货铺",
       "type": 3,
       "api": "csp_Market",
-      "jar": "./jar/market.jar;md5;29972e50f5902a6409fce58e6e4c7473",
+      "jar": "./jar/noma.jar",
       "ext": "./lib/market.json"
     },
     {
@@ -649,7 +642,7 @@
       "type": 3,
       "status": 1,
       "jar": "./jar/zb.jar",
-      "ext": "ziyong┃本地$./live/ziyong.txt#siyong┃本地$./live/siyong.txt#ziyong┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/live/ziyong.txt#siyong┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/live/siyong.txt#iptv365$https://live.iptv365.org/live.txt#太阳直播$http://9xi4o.tk/sub/mytv.txt#看电视$http://kantv.255520.xyz/B.txt#小飞$https://cccimg.com/down.php/9f8d3639e8964b9bc4e4d186c4d30e07.txt&000000#看电视呗$http://tv.850930.xyz/kdsb.txt#直播$https://live.kilvn.com/iptv.m3u#YanG$https://tv.iill.top/m3u/Gather#主播$https://tv.iill.top/m3u/Live#Sport$https://tv.iill.top/m3u/Sport#MyTV$https://tv.iill.top/m3u/MyTV#AKTV$http://aktv.top/live.txt#所有$https://gitee.com/bighello/iptv2024/raw/master/all520.m3u#iptv4$https://live.zbds.top/tv/iptv4.txt#iptv6$https://live.fanmingming.cn/tv/m3u/ipv6.m3u#电视优$http://8.138.7.223/live.txt#电台┃本地$./live/电台.txt#电台┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#MV┃本地$./live/MTV.txt#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#150多位歌手的MV$https://freed2.pages.dev/TVBox2/live/cnMv.txt#live$http://woniuxs.free.nf/live.txt#updated$https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt#TXT②$http://home.jundie.top:81/Cat/tv/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#APTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界$https://www.xn--rgv465a.top/live/live.txt"
+      "ext": "ziyong┃本地$./live/ziyong.txt#siyong┃本地$./live/siyong.txt#电台┃本地$./live/电台.txt#MV┃本地$./live/MTV.txt#iptv365$https://live.iptv365.org/live.txt#太阳直播$http://9xi4o.tk/sub/mytv.txt#看电视$http://kantv.255520.xyz/B.txt#小飞$https://cccimg.com/down.php/9f8d3639e8964b9bc4e4d186c4d30e07.txt&000000#看电视呗$http://tv.850930.xyz/kdsb.txt#直播$https://live.kilvn.com/iptv.m3u#YanG$https://tv.iill.top/m3u/Gather#主播$https://tv.iill.top/m3u/Live#Sport$https://tv.iill.top/m3u/Sport#MyTV$https://tv.iill.top/m3u/MyTV#AKTV$http://aktv.top/live.txt#所有$https://gitee.com/bighello/iptv2024/raw/master/all520.m3u#iptv4$https://live.zbds.top/tv/iptv4.txt#iptv6$https://live.fanmingming.cn/tv/m3u/ipv6.m3u#电视优$http://8.138.7.223/live.txt#电台┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#150多位歌手的MV$https://freed2.pages.dev/TVBox2/live/cnMv.txt#live$http://woniuxs.free.nf/live.txt#updated$https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt#TXT②$http://home.jundie.top:81/Cat/tv/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#APTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界$https://www.xn--rgv465a.top/live/live.txt"
     },
     {
       "key": "lf_js_lf_live",
@@ -663,7 +656,7 @@
       "changeable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "ziyong┃本地$./live/ziyong.txt#siyong┃本地$./live/siyong.txt#ziyong┃在线$https://gitee.com/wen9180/sss/raw/master/ziyong.txt#看电视$http://kantv.255520.xyz/B.txt#看电视呗$http://tv.850930.xyz/kdsb.txt#直播$https://live.kilvn.com/iptv.m3u#YanG$https://tv.iill.top/m3u/Gather#主播$https://tv.iill.top/m3u/Live#Sport$https://tv.iill.top/m3u/Sport#MyTV$https://tv.iill.top/m3u/MyTV#AKTV$http://aktv.top/live.txt#所有$https://gitee.com/bighello/iptv2024/raw/master/all520.m3u#iptv4$https://live.zbds.top/tv/iptv4.txt#iptv6$https://live.fanmingming.cn/tv/m3u/ipv6.m3u#电视优$http://8.138.7.223/live.txt#电台┃本地$./live/电台.txt#电台┃在线$https://gh.xxooo.cf/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#电台2┃在线$https://4708.kstore.space/FM.json#MV┃本地$./live/MTV.txt#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#150多位歌手的MV$https://freed2.pages.dev/TVBox2/live/cnMv.txt#live$http://woniuxs.free.nf/live.txt#updated$https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt#TXT②$http://home.jundie.top:81/Cat/tv/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#APTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界┃本地$https://www.xn--rgv465a.top/live/live.txt#电视剧磁力$https://idc.weyun.site/磁力.txt#电影磁力$https://idc.weyun.site/电影.txt#动漫磁力$https://idc.weyun.site/动漫.txt#直播$https://idc.weyun.site/iptv/iptv.txt"
+      "ext": "ziyong┃本地$./live/ziyong.txt#siyong┃本地$./live/siyong.txt#电台┃本地$./live/电台.txt#MV┃本地$./live/MTV.txt#iptv365$https://live.iptv365.org/live.txt#太阳直播$http://9xi4o.tk/sub/mytv.txt#看电视$http://kantv.255520.xyz/B.txt#小飞$https://cccimg.com/down.php/9f8d3639e8964b9bc4e4d186c4d30e07.txt&000000#看电视呗$http://tv.850930.xyz/kdsb.txt#直播$https://live.kilvn.com/iptv.m3u#YanG$https://tv.iill.top/m3u/Gather#主播$https://tv.iill.top/m3u/Live#Sport$https://tv.iill.top/m3u/Sport#MyTV$https://tv.iill.top/m3u/MyTV#AKTV$http://aktv.top/live.txt#所有$https://gitee.com/bighello/iptv2024/raw/master/all520.m3u#iptv4$https://live.zbds.top/tv/iptv4.txt#iptv6$https://live.fanmingming.cn/tv/m3u/ipv6.m3u#电视优$http://8.138.7.223/live.txt#电台┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#150多位歌手的MV$https://freed2.pages.dev/TVBox2/live/cnMv.txt#live$http://woniuxs.free.nf/live.txt#updated$https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt#TXT②$http://home.jundie.top:81/Cat/tv/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#APTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界$https://www.xn--rgv465a.top/live/live.txt"
     },
     {
       "key": "掌中佛国",
@@ -671,7 +664,7 @@
       "type": 3,
       "searchable": 0,
       "api": "./js/zbzdb.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/yylx/main/123/lib/苦海无涯.json"
+      "ext": "./live/苦海无涯.json"
     },
     {
       "key": "道德经",
@@ -679,7 +672,7 @@
       "type": 3,
       "searchable": 0,
       "api": "./js/zbzdb.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/yylx/main/123/lib/直播转点播配置本地.json"
+      "ext": "./live/直播转点播配置本地.json"
     },
     {
       "key": "直播转点播",
@@ -689,7 +682,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/yylx/main/123/lib/%E8%8B%A6%E6%B5%B7%E6%97%A0%E6%B6%AF.json"
+      "ext": "./live/%E8%8B%A6%E6%B5%B7%E6%97%A0%E6%B6%AF.json"
     },
     {
       "key": "直播转点播1",
@@ -697,15 +690,7 @@
       "type": 3,
       "searchable": 0,
       "api": "./js/zbzdb.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/yylx/main/123/lib/直播转点播配置.json"
-    },
-    {
-      "key": "直播转点播2",
-      "name": "JS┃直转点┃达摩院",
-      "type": 3,
-      "searchable": 0,
-      "api": "./js/zbzdb.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/yylx/main/123/lib/优质资源.json"
+      "ext": "./live/直播转点播配置.json"
     },
     {
       "key": "APP┃超前全网",
@@ -716,7 +701,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "http://zhangbokeji.top:290/api.php/app/"
+      "ext": "http://zhangbokeji.top:291/api.php/app/"
     },
     {
       "key": "APP┃超前全片源",
