@@ -3,7 +3,6 @@
   "wallpaper": "./img/default_v.jpg",
   "logo": "./img/ICONSGIF.gif",
   "sites": [
-
     {
       "key": "豆瓣采集",
       "name": "采集┃豆瓣",
@@ -670,38 +669,12 @@
       "ext": "ziyong┃本地$./live/ziyong.txt#siyong┃本地$./live/siyong.txt#电台┃本地$./live/电台.txt#MV┃本地$./live/MTV.txt#iptv365$https://live.iptv365.org/live.txt#太阳直播$http://9xi4o.tk/sub/mytv.txt#看电视$http://kantv.255520.xyz/B.txt#小飞$https://cccimg.com/down.php/9f8d3639e8964b9bc4e4d186c4d30e07.txt&000000#看电视呗$http://tv.850930.xyz/kdsb.txt#直播$https://live.kilvn.com/iptv.m3u#YanG$https://tv.iill.top/m3u/Gather#主播$https://tv.iill.top/m3u/Live#Sport$https://tv.iill.top/m3u/Sport#MyTV$https://tv.iill.top/m3u/MyTV#AKTV$http://aktv.top/live.txt#所有$https://gitee.com/bighello/iptv2024/raw/master/all520.m3u#iptv4$https://live.zbds.top/tv/iptv4.txt#iptv6$https://live.fanmingming.cn/tv/m3u/ipv6.m3u#电视优$http://8.138.7.223/live.txt#电台┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#150多位歌手的MV$https://freed2.pages.dev/TVBox2/live/cnMv.txt#live$http://woniuxs.free.nf/live.txt#updated$https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt#TXT②$http://home.jundie.top:81/Cat/tv/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#APTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界$https://www.xn--rgv465a.top/live/live.txt"
     },
     {
-      "key": "掌中佛国",
-      "name": "JS┃直转点┃大乘佛法",
+      "key": "集合",
+      "name": "JS┃直转点┃集合",
       "type": 3,
       "searchable": 0,
       "api": "./js/zbzdb.js",
-      "ext": "./live/苦海无涯.json"
-    },
-    {
-      "key": "道德经",
-      "name": "JS┃直转点┃道德经",
-      "type": 3,
-      "searchable": 0,
-      "api": "./js/zbzdb.js",
-      "ext": "./live/直播转点播配置本地.json"
-    },
-    {
-      "key": "直播转点播",
-      "name": "JS┃直转点┃佛经",
-      "type": 3,
-      "api": "./js/zbzdb.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./live/%E8%8B%A6%E6%B5%B7%E6%97%A0%E6%B6%AF.json"
-    },
-    {
-      "key": "直播转点播1",
-      "name": "JS┃直转点┃电视直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "./js/zbzdb.js",
-      "ext": "./live/直播转点播配置.json"
+      "ext": "./live/live集合.json"
     },
     {
       "key": "APP┃教育",
@@ -1910,6 +1883,15 @@
       "filterable": 0,
       "quickSearch": 0,
       "ext": ""
+    },
+    {
+        "key": "采集┃xml_茅台资源",
+        "name": "采集┃茅台资源",
+        "type": 0,
+        "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
     },
     {
       "key": "采集┃无限资源",
