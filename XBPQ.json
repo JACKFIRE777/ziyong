@@ -655,21 +655,7 @@
       "ext": "ziyong┃本地$./live/ziyong.txt#siyong┃本地$./live/siyong.txt#电台┃本地$./live/电台.txt#MV┃本地$./live/MTV.txt#iptv365$https://live.iptv365.org/live.txt#太阳直播$http://9xi4o.tk/sub/mytv.txt#看电视$http://kantv.255520.xyz/B.txt#小飞$https://cccimg.com/down.php/9f8d3639e8964b9bc4e4d186c4d30e07.txt&000000#看电视呗$http://tv.850930.xyz/kdsb.txt#直播$https://live.kilvn.com/iptv.m3u#YanG$https://tv.iill.top/m3u/Gather#主播$https://tv.iill.top/m3u/Live#Sport$https://tv.iill.top/m3u/Sport#MyTV$https://tv.iill.top/m3u/MyTV#AKTV$http://aktv.top/live.txt#所有$https://gitee.com/bighello/iptv2024/raw/master/all520.m3u#iptv4$https://live.zbds.top/tv/iptv4.txt#iptv6$https://live.fanmingming.cn/tv/m3u/ipv6.m3u#电视优$http://8.138.7.223/live.txt#电台┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#150多位歌手的MV$https://freed2.pages.dev/TVBox2/live/cnMv.txt#live$http://woniuxs.free.nf/live.txt#updated$https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt#TXT②$http://home.jundie.top:81/Cat/tv/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#APTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界$https://www.xn--rgv465a.top/live/live.txt"
     },
     {
-      "key": "lf_js_lf_live",
-      "name": "JS┃直转点┃电视",
-      "type": 3,
-      "api": "./js/zbzdb.js",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 0,
-      "changeable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "ziyong┃本地$./live/ziyong.txt#siyong┃本地$./live/siyong.txt#电台┃本地$./live/电台.txt#MV┃本地$./live/MTV.txt#iptv365$https://live.iptv365.org/live.txt#太阳直播$http://9xi4o.tk/sub/mytv.txt#看电视$http://kantv.255520.xyz/B.txt#小飞$https://cccimg.com/down.php/9f8d3639e8964b9bc4e4d186c4d30e07.txt&000000#看电视呗$http://tv.850930.xyz/kdsb.txt#直播$https://live.kilvn.com/iptv.m3u#YanG$https://tv.iill.top/m3u/Gather#主播$https://tv.iill.top/m3u/Live#Sport$https://tv.iill.top/m3u/Sport#MyTV$https://tv.iill.top/m3u/MyTV#AKTV$http://aktv.top/live.txt#所有$https://gitee.com/bighello/iptv2024/raw/master/all520.m3u#iptv4$https://live.zbds.top/tv/iptv4.txt#iptv6$https://live.fanmingming.cn/tv/m3u/ipv6.m3u#电视优$http://8.138.7.223/live.txt#电台┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#150多位歌手的MV$https://freed2.pages.dev/TVBox2/live/cnMv.txt#live$http://woniuxs.free.nf/live.txt#updated$https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt#TXT②$http://home.jundie.top:81/Cat/tv/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#APTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界$https://www.xn--rgv465a.top/live/live.txt"
-    },
-    {
-      "key": "集合",
+      "key": "JS┃直转点┃集合",
       "name": "JS┃直转点┃集合",
       "type": 3,
       "searchable": 0,
@@ -696,17 +682,6 @@
       "ext": "http://99cms.jj99.icu:8199/api.php/app/"
     },
     {
-      "key": "APP┃稀饭动漫",
-      "name": "APP┃稀饭动漫",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://dick.xfani.com/xgapp.php/v1/"
-    },
-    {
       "key": "APP┃皮皮虾",
       "name": "APP┃皮皮虾",
       "type": 3,
@@ -715,17 +690,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://110.40.40.242:992/api.php/app/"
-    },
-    {
-      "key": "快看",
-      "name": "APP┃快看",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://kkwk123.top/api.php/app/"
     },
     {
       "key": "lvdou",
@@ -737,16 +701,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://zytv.eztv.video/api.php/app/"
-    },
-    {
-      "key": "HG影视",
-      "name": "APP┃HG影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
     },
     {
       "key": "影馆",
@@ -761,13 +715,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.ttmja.com/api.php/app/"
-    },
-    {
-      "key": "龙门",
-      "name": "APP┃龙门",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://movie.iqinu.com/api.php/v1.vod"
     },
     {
       "key": "河狸",
@@ -813,66 +760,6 @@
       "name": "T4┃音乐-小狗",
       "type": 4,
       "api": "https://catbox.n13.club/t9/xiaogou.php"
-    },
-    {
-      "key": "drpyS_校长[盘]",
-      "name": "T4┃校长┃[夸克]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/校长[盘]",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_夸克盘搜[盘]",
-      "name": "T4┃盘搜┃[夸克]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/夸克盘搜[盘]",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_木偶[盘]",
-      "name": "T4┃木偶┃[云盘]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/木偶[盘]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_雷鲸小站[盘]",
-      "name": "T4┃雷鲸┃[天翼]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/雷鲸小站[盘]",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_盘它[盘]",
-      "name": "T4┃盘它┃[移动]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/盘它[盘]",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_瓜子[APP]",
-      "name": "T4┃瓜子┃[优质]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/瓜子[APP]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
     },
     {
       "key": "旺旺短剧",
@@ -1123,16 +1010,6 @@
       "ext": ""
     },
     {
-      "key": "drpyS_动作交互",
-      "name": "动作交互(DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/动作交互",
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
       "key": "drpyS_抖音直播弹幕[官]",
       "name": "抖音直播弹幕[官](DS)",
       "type": 4,
@@ -1193,16 +1070,6 @@
       "ext": ""
     },
     {
-      "key": "drpyS_集百动漫",
-      "name": "集百动漫(DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/集百动漫",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
       "key": "drpyS_荐片",
       "name": "荐片(DS)",
       "type": 4,
@@ -1223,7 +1090,7 @@
       "ext": ""
     },
     {
-      "key": "drpyS_雷鲸小站[盘]",
+      "key": "drpyS_雷鲸小站",
       "name": "雷鲸小站[盘](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/雷鲸小站[盘]",
@@ -1239,16 +1106,6 @@
       "api": "http://drpy.mxlgsl.cn/api/美颜怪[擦]",
       "searchable": 0,
       "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_木偶[盘]",
-      "name": "木偶[盘](DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/木偶[盘]",
-      "searchable": 1,
-      "filterable": 1,
       "quickSearch": 0,
       "ext": ""
     },
@@ -1392,16 +1249,6 @@
       "searchable": 2,
       "filterable": 1,
       "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_TVB云播",
-      "name": "TVB云播(DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/TVB云播",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 2,
       "ext": ""
     },
     {
