@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar",
+  "spider": "",
   "wallpaper": "./img/default_v.jpg",
   "logo": "./img/ICONSGIF.gif",
   "lives": [
@@ -480,297 +480,404 @@
   ],
   "sites": [
     {
-      "key": "py_py_huya",
-      "name": "py┃py_huya",
+      "key": "py_蓝莓短剧",
+      "name": "py┃蓝莓短剧",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/py_huya.py"
+      "api": "./PY/蓝莓短剧.py"
+    },
+    {
+      "key": "py_绝对影视",
+      "name": "py┃绝对影视",
+      "type": 3,
+      "api": "./PY/绝对影视.py"
+    },
+    {
+      "key": "py_爱看短剧",
+      "name": "py┃爱看短剧",
+      "type": 3,
+      "api": "./PY/爱看短剧.py"
+    },
+    {
+      "key": "py_边缘影视",
+      "name": "py┃边缘影视",
+      "type": 3,
+      "api": "./PY/边缘影视.py"
+    },
+    {
+      "key": "py_电影猎手",
+      "name": "py┃电影猎手",
+      "type": 3,
+      "api": "./PY/电影猎手.py"
+    },
+    {
+      "key": "py_河马短剧",
+      "name": "py┃河马短剧",
+      "type": 3,
+      "api": "./PY/河马短剧.py"
+    },
+    {
+      "key": "py_红果短剧",
+      "name": "py┃红果短剧",
+      "type": 3,
+      "api": "./PY/红果短剧.py"
+    },
+    {
+      "key": "py_剧多短剧",
+      "name": "py┃剧多短剧",
+      "type": 3,
+      "api": "./PY/剧多短剧.py"
+    },
+    {
+      "key": "py_恋鱼影视",
+      "name": "py┃恋鱼影视",
+      "type": 3,
+      "api": "./PY/恋鱼影视.py"
+    },
+    {
+      "key": "py_萝卜",
+      "name": "py┃萝卜",
+      "type": 3,
+      "api": "./PY/萝卜.py"
+    },
+    {
+      "key": "py_魔方影视",
+      "name": "py┃魔方影视",
+      "type": 3,
+      "api": "./PY/魔方影视.py"
+    },
+    {
+      "key": "py_农民",
+      "name": "py┃农民",
+      "type": 3,
+      "api": "./PY/农民.py"
+    },
+    {
+      "key": "py_若惜影视",
+      "name": "py┃若惜影视",
+      "type": 3,
+      "api": "./PY/若惜影视.py"
+    },
+
+    {
+      "key": "py_偷乐短剧",
+      "name": "py┃偷乐短剧",
+      "type": 3,
+      "api": "./PY/偷乐短剧.py"
+    },
+    {
+      "key": "py_推特APP",
+      "name": "py┃推特APP",
+      "type": 3,
+      "api": "./PY/推特APP.py"
+    },
+    {
+      "key": "py_小红影视",
+      "name": "py┃小红影视",
+      "type": 3,
+      "api": "./PY/小红影视.py"
+    },
+    {
+      "key": "py_小苹果影视",
+      "name": "py┃小苹果影视",
+      "type": 3,
+      "api": "./PY/小苹果影视.py"
+    },
+    {
+      "key": "py_悠悠APP",
+      "name": "py┃悠悠APP",
+      "type": 3,
+      "api": "./PY/悠悠APP.py"
+    },
+    {
+      "key": "py_云端影视",
+      "name": "py┃云端影视",
+      "type": 3,
+      "api": "./PY/云端影视.py"
+    },
+    {
+      "key": "py_云速影视",
+      "name": "py┃云速影视",
+      "type": 3,
+      "api": "./PY/云速影视.py"
+    },
+    {
+      "key": "py_哇哇APP",
+      "name": "py┃哇哇APP",
+      "type": 3,
+      "api": "./PY/哇哇APP.py"
+    },
+    {
+      "key": "py_AKDJ",
+      "name": "py┃AKDJ",
+      "type": 3,
+      "api": "./PY/AKDJ.py"
+    },
+    {
+      "key": "py_奇迹",
+      "name": "py┃奇迹",
+      "type": 3,
+      "api": "./PY/奇迹APP.py"
+    },
+    {
+      "key": "py_零度",
+      "name": "py┃零度",
+      "type": 3,
+      "api": "./PY/零度影视APP.py"
+    },
+    {
+      "key": "py_外剧",
+      "name": "py┃外剧",
+      "type": 3,
+      "api": "./PY/国外剧APP.py"
+    },
+    {
+      "key": "py_爱瓜",
+      "name": "py┃爱瓜",
+      "type": 3,
+      "api": "./PY/爱瓜TVAPP.py"
+    },
+    {
+      "key": "py_光速",
+      "name": "py┃光速",
+      "type": 3,
+      "api": "./PY/光速APP.py"
+    },
+    {
+      "key": "py_火车",
+      "name": "py┃火车",
+      "type": 3,
+      "api": "./PY/火车太顺APP.py"
+    },
+    {
+      "key": "py_美帕",
+      "name": "py┃美帕",
+      "type": 3,
+      "api": "./PY/美帕APP.py"
+    },
+    {
+      "key": "py_骚火",
+      "name": "py┃骚火",
+      "type": 3,
+      "api": "./PY/骚火电影.py"
+    },
+    {
+      "key": "py_金牌",
+      "name": "py┃金牌",
+      "type": 3,
+      "api": "./PY/金牌影视.py",
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+    {
+      "key": "py_嗷呜",
+      "name": "py┃嗷呜",
+      "type": 3,
+      "api": "./PY/嗷呜动漫.py"
     },
     {
       "key": "py_cctv",
       "name": "py┃cctv",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/cctv.py"
-    },
-    {
-      "key": "py_cntv央视",
-      "name": "py┃cntv央视",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/cntv央视.py"
-    },
-    {
-      "key": "py_酷云",
-      "name": "py┃酷云",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/py_酷云.py"
+      "api": "./py/cctv.py"
     },
     {
       "key": "py_爱",
       "name": "py┃爱┃1920",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "./py/py_爱.py"
+      "api": "./py/爱.py"
+    },
+    {
+      "key": "py_优",
+      "name": "py┃优┃1920",
+      "type": 3,
+      "api": "./py/优.py"
     },
     {
       "key": "py_腾",
       "name": "py┃腾┃1920",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "./py/py_腾.py"
+      "api": "./py/腾.py"
     },
     {
       "key": "py_芒",
       "name": "py┃芒┃1920",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "./py/py_芒.py"
+      "api": "./py/芒.py"
     },
     {
       "key": "py_央视片库",
       "name": "py┃电视┃CCTV",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/央视片库.py"
-    },
-    {
-      "key": "py_动漫",
-      "name": "py┃py_动漫",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/py_动漫.py"
+      "api": "./py/央视片库.py"
     },
     {
       "key": "py_央视然景",
       "name": "py┃py_央视然景",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/py_央视然景.py"
-    },
-    {
-      "key": "py__动漫",
-      "name": "py┃动漫",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/动漫.py"
+      "api": "./py/央视然景.py"
     },
     {
       "key": "py_bilibili",
       "name": "py┃py_bilibili",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/py_bilibili.py"
+      "api": "./py/bilibili.py"
+    },
+    {
+      "key": "py_bilibilimd",
+      "name": "py┃bilibilimd",
+      "type": 3,
+      "api": "./py/bilibilimd.py"
     },
     {
       "key": "py_cctvxw",
       "name": "py┃电视┃新闻",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvxw.py"
+      "api": "./py/cctvxw.py"
     },
     {
       "key": "py_cctvzy",
       "name": "py┃电视┃综艺",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvzy.py"
+      "api": "./py/cctvzy.py"
     },
     {
       "key": "py_cctvdy",
       "name": "py┃电视┃电影",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvdy.py"
+      "api": "./py/cctvdy.py"
     },
     {
       "key": "py_cctvty",
       "name": "py┃电视┃体育",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvty.py"
+      "api": "./py/cctvty.py"
     },
     {
       "key": "py_cctvkj",
       "name": "py┃电视┃科教",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvkj.py"
+      "api": "./py/cctvkj.py"
     },
     {
       "key": "py_cctvyy",
       "name": "py┃电视┃音乐",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvyy.py"
+      "api": "./py/cctvyy.py"
     },
     {
       "key": "py_cctvse",
       "name": "py┃电视┃少儿",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvse.py"
+      "api": "./py/cctvse.py"
     },
     {
       "key": "py_cctvny",
       "name": "py┃电视┃农业",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvny.py"
+      "api": "./py/cctvny.py"
     },
     {
       "key": "py_cctvjs",
       "name": "py┃电视┃军事",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvjs.py"
+      "api": "./py/cctvjs.py"
     },
     {
       "key": "py_cctvxq",
       "name": "py┃电视┃戏曲",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvxq.py"
+      "api": "./py/cctvxq.py"
     },
     {
       "key": "py_qie",
       "name": "py┃体育┃企鹅",
       "type": 3,
-      "api": "py_qie",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_qie.py"
+      "api": "./py/qie.py"
     },
     {
       "key": "py_cctvzh",
-      "name": "py┃cctvzh",
+      "name": "py┃综合",
       "type": 3,
-      "api": "py_cctvzh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctvzh.py"
+      "api": "./py/cctvzh.py"
     },
     {
       "key": "py_央视少儿",
       "name": "py┃央视少儿",
       "type": 3,
-      "api": "py_央视少儿",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_央视少儿.py"
+      "api": "./py/央视少儿.py"
     },
     {
       "key": "py_cctv_full",
       "name": "py┃cctv_full",
       "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctv_full.py"
+      "api": "./py/cctv_full.py"
     },
     {
       "key": "py_cctv_1",
       "name": "py┃cctv_1",
       "type": 3,
-      "api": "py_cctv_1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctv_1.py"
+      "api": "./py/cctv_1.py"
     },
     {
-      "key": "py_cctv",
-      "name": "py┃cctv",
+      "key": "py_cctv1",
+      "name": "py┃cctv1",
       "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_cctv.py"
+      "api": "./py/cctv1.py"
+    },
+    {
+      "key": "py_MPYS",
+      "name": "py┃MPYS",
+      "type": 3,
+      "api": "./py/MPYS.py"
+    },
+    {
+      "key": "py_xigua",
+      "name": "py┃西瓜",
+      "type": 3,
+      "api": "./py/xigua.py"
+    },
+    {
+      "key": "py_CliCli动漫",
+      "name": "py┃CliCli动漫",
+      "type": 3,
+      "api": "./py/CliCli动漫.py"
+    },
+    {
+      "key": "py_GSYS",
+      "name": "py┃GSYS",
+      "type": 3,
+      "api": "./py/GSYS.py"
+    },
+    {
+      "key": "py_HCYS",
+      "name": "py┃HCYS",
+      "type": 3,
+      "api": "./py/HCYS.py"
     },
     {
       "key": "py_yixi",
-      "name": "py┃yixi",
+      "name": "py┃一喜",
       "type": 3,
-      "api": "py_yixi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_yixi.py"
+      "api": "./py/yixi.py"
+    },
+    {
+      "key": "py_lavAPP",
+      "name": "py┃🔞lavAPP",
+      "type": 3,
+      "api": "./py/lavAPP.py"
+    },
+    {
+      "key": "py_熊猫秒播",
+      "name": "py┃🔞熊猫秒播",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/ysc/master/xzqzy/lib/熊猫秒播.py"
+    },
+    {
+      "key": "py_香蕉APP",
+      "name": "py┃🔞香蕉APP",
+      "type": 3,
+      "api": "./PY/香蕉APP.py"
     }
   ],
   "parses": [

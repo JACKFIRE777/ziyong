@@ -576,24 +576,6 @@
       "filterable": 1
     },
     {
-      "key": "DaBao",
-      "name": "DaBao",
-      "type": 3,
-      "api": "csp_DaBao",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/local.jar"
-    },
-    {
-      "key": "Doll",
-      "name": "Doll",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/local.jar"
-    },
-    {
       "key": "Jianpian",
       "name": "Jianpian",
       "type": 3,
@@ -657,24 +639,6 @@
       "jar": "./jar/local.jar"
     },
     {
-      "key": "HkTv",
-      "name": "HkTv",
-      "type": 3,
-      "api": "csp_HkTv",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/index18.jar"
-    },
-    {
-      "key": "Cg51",
-      "name": "Cg51",
-      "type": 3,
-      "api": "csp_Cg51",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/index18.jar"
-    },
-    {
       "key": "DaGongRen",
       "name": "DaGongRen",
       "type": 3,
@@ -711,15 +675,6 @@
       "name": "MiMei",
       "type": 3,
       "api": "csp_MiMei",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/index18.jar"
-    },
-    {
-      "key": "NCat",
-      "name": "NCat",
-      "type": 3,
-      "api": "csp_NCat",
       "searchable": 1,
       "changeable": 1,
       "jar": "./jar/index18.jar"
@@ -907,20 +862,6 @@
       "changeable": 0
     },
     {
-      "key": "SMBBili",
-      "name": "Bili",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/smb.jar",
-      "ext": {
-        "type": "睡前故事#儿童#小灯塔百科#小灯塔地理#小灯塔国学#小灯塔科学#小灯塔人文#儿童口才#儿童拼音#儿童英语#儿童思维#儿童识字#小灯塔百科#彩调#京剧#少儿教育#美女#小姐姐#小学课堂#初中课堂#高中课堂#搭讪#搭配#外语#MTV#美食#幼儿乐园#幼儿启蒙#幼小衔接#中华命理#中华文化#中华文化#中华武术#中华医学#歌舞#短剧#猫影视#tvbox#吞噬星空#全民转职#全民觉醒#全球进化#SSS级天赋#汪汪队#动画片#声律启蒙#鬼畜#沙雕动漫#动漫#日本动漫#动漫合集#动漫合辑#电影#电视剧#软件教程#Windows#解说合集#鬼畜#解说#演讲#说案#戏曲#相声#小品#国产动漫#演唱会#科幻片#知名UP主#广场舞#纪录片#综艺#音乐#歌曲#影视#户外#MV#4K#8K",
-        "cookie": "i-wanna-go-back=-1; buvid_fp_plain=undefined; DedeUserID=478180530; DedeUserID__ckMd5=5a17664f2928ee52; CURRENT_PID=c4058970-cd48-11ed-aced-73b3be32a7d1; FEED_LIVE_VERSION=V8; LIVE_BUVID=AUTO2416818085516679; hit-new-style-dyn=1; buvid3=8844974D-7607-AB71-D7CB-D6E2348D76F386916infoc; b_nut=1691283886; _uuid=6F312895-AC8B-C29C-BA57-414B10CA1DE8362943infoc; b_ut=5; buvid4=DB73880F-3A34-BBA2-378A-2E4A2AF5DE1A57570-022080609-cABoSJjJ1wOrHk0uSjaqIN6xh09U8%2F1PixLX7T8Ps8WYIbYWdgNygA%3D%3D; enable_web_push=DISABLE; header_theme_version=CLOSE; is-2022-channel=1; CURRENT_QUALITY=80; rpdid=0zbfvRWVXD|14p7j3lyk|2N|3w1RhEJN; fingerprint=4345b53c4198e545925156bacc2a6551; buvid_fp=4345b53c4198e545925156bacc2a6551; CURRENT_FNVAL=4048; PVID=2; SESSDATA=482eb259%2C1726126475%2Cdede1%2A31CjCd2urT2b_iWY19GhWIcBH8RzjNoIPT-mrZK7vUuw4tTPjaUV9sMl3I2h3Q7HXIEQMSVmtYMlpQM2padHlwX2dxZzAzeEpGUzY3V2VSSFh0cTZsYjFwbFFmRVo5ZHVsdFlQNXhnY2t6TWphQjQyZEFkVWNWX1RDd2VsM2lMZ2ZHMklqc2JBaENnIIEC; bili_jct=5274f857b71ea036cb1c018bd25b9e19; b_lsid=B9CE10CA9_18E4A14E74E; bp_video_offset_478180530=909660681607839745; home_feed_column=5; browser_resolution=1872-932; sid=4umjjnj6; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTA4OTkyNzQsImlhdCI6MTcxMDY0MDAxNCwicGx0IjotMX0.q5af7Y2NPG7Oq4JedXOjJxtfxPD9cmV7lTcmE6PyimQ; bili_ticket_expires=1710899214; buvid_fp=94a4e8bd362a778053e35b54ef57f288; SESSDATA=bb88cd4e%2C1728486293%2C46d70%2A41CjCW64w0Sz3"
-      }
-    },
-    {
       "key": "csp_SMB目录",
       "name": "竹子哥┃SMB服务器",
       "type": 3,
@@ -930,16 +871,6 @@
       "filterable": 1,
       "jar": "./jar/smb.jar",
       "ext": "smb://zhuzige:8709@192.168.0.100"
-    },
-    {
-      "key": "I4KVIP",
-      "name": "真┃I4KVIP",
-      "type": 3,
-      "api": "csp_I4KVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "./jar/真心真语0204.jar"
     },
     {
       "key": "真┃bili",
@@ -958,7 +889,7 @@
 
     {
       "key": "真┃Ysj",
-      "name": "真┃Ysj",
+      "name": "真┃异世界",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -1039,7 +970,7 @@
     },
     {
       "key": "单┃PiaoHua",
-      "name": "单┃PiaoHua",
+      "name": "单┃飘花",
       "type": 3,
       "api": "csp_PiaoHua",
       "jar": "./jar/Xv.jar"
@@ -1094,46 +1025,6 @@
             "filterable": 0,
             "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
         },
-    {
-      "key": "单┃hu文才",
-      "name": "单┃文才",
-      "type": 3,
-      "api": "csp_Wcai",
-      "jar": "./jar/huban.jar",
-      "ext": "https://m.fjvtw.com/"
-    },
-    {
-      "key": "单┃hu追追",
-      "name": "单┃追追",
-      "type": 3,
-      "api": "csp_Wcai",
-      "jar": "./jar/huban.jar",
-      "ext": "https://zjuys.com"
-    },
-
-    {
-      "key": "单┃huIkanbot",
-      "name": "单┃Ikanbot",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "jar": "./jar/huban.jar"
-    },
-    {
-      "key": "单┃hu立播",
-      "name": "单┃立播",
-      "type": 3,
-      "api": "csp_tiantian",
-      "jar": "./jar/huban.jar",
-      "ext": "http://v.rbotv.cn/"
-    },
-    {
-      "key": "单┃hu酷浪",
-      "name": "单┃酷浪",
-      "type": 3,
-      "api": "csp_tiantian",
-      "jar": "./jar/huban.jar",
-      "ext": "http://v.lkuys.cn/"
-    },
     {
       "key": "单┃天天",
       "name": "单┃天天┃App",
@@ -1308,17 +1199,7 @@
       "filterable": 1
     },
     {
-      "key": "单┃西瓜",
-      "name": "单┃西瓜",
-      "type": 3,
-      "jar": "./jar/西瓜.jar",
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "单┃蝴蝶",
+      "key": "单┃蝴蝶1",
       "name": "单┃蝴蝶┃App",
       "type": 3,
       "api": "csp_Hudie",
@@ -1327,28 +1208,7 @@
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
     {
-      "key": "单┃南瓜",
-      "name": "单┃南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "jar": "./jar/TT.jar",
-      "ext": ""
-    },
-    {
-      "key": "单┃木头",
-      "name": "单┃木头┃App",
-      "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "jar": "./jar/QJ.jar",
-      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-    },
-    {
-      "key": "单┃天天",
+      "key": "单┃天天1",
       "name": "单┃天天┃App",
       "type": 3,
       "api": "csp_TTian",
@@ -1357,7 +1217,7 @@
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
-      "key": "单┃热播",
+      "key": "单┃热播1",
       "name": "单┃热播┃App",
       "type": 3,
       "api": "csp_TTian",
@@ -1366,21 +1226,13 @@
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
     {
-      "key": "单┃追剧",
+      "key": "单┃追剧1",
       "name": "单┃追剧┃App",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
       "jar": "./jar/QJ.jar",
       "ext": "daHR0cDovL3YubGt1eXMuY24="
-    },
-    {
-      "key": "皮皮虾1",
-      "name": "弹幕┃皮皮虾",
-      "type": 3,
-      "jar": "http://60.211.124.23:10101/HuBan/AndroidCatVodSpider-mine/jar/custom_spider.jar",
-      "api": "csp_HBgetapp",
-      "ext": "eyJob3N0IjoiaHR0cDovL3BweC5iangzNjUudG9wLyIsImtleSI6ImNHbHdhWGhwWVRJeE56VXlNak15TkE9PSIsIml2IjoiY0dsd2FYaHBZVEl4TnpVeU1qTXlOQT09IiwidHlwZUlkcyI6WyIyIiwiMSIsIjMiLCI0Il0sInR5cGVOYW1lcyI6WyLnlLXlvbEiLCLnlLXop4bliaciLCLliqjmvKsiLCLnu7zoiboiXX0="
     },
     {
       "key": "應用商店",
