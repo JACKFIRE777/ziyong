@@ -20,6 +20,17 @@
   ],
   "sites": [
     {
+      "key": "APPV2.py",
+      "name": "APPV2(py)",
+      "type": 3,
+      "api": "./PY/app/APPV2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://cmsyt123.lyyytv.cn"
+    },
+    {
       "key": "py_蓝莓短剧",
       "name": "py┃蓝莓短剧",
       "type": 3,

@@ -743,6 +743,353 @@
       "filterable": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },
+    
+    {
+      "key": "drpyS_瓜子[APP]",
+      "name": "T4┃瓜子┃[APP]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/瓜子[APP]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_一曲肝肠断[戏]",
+      "name": "T4┃一曲┃[戏曲]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/一曲肝肠断[戏]",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+{"key":"drpyS_雷鲸小站[盘]","name":"T4┃雷鲸┃[天翼]","type":4,"api":"https://zhxy.eu.org/api/雷鲸小站[盘]","searchable":2,"filterable":0,"quickSearch":0,"ext":""},{"key":"drpyS_盘它[盘]","name":"T4┃盘它┃[移动]","type":4,"api":"https://zhxy.eu.org/api/盘它[盘]","searchable":2,"filterable":0,"quickSearch":0,"ext":""},
+{"key":"drpyS_荐片[优]","name":"T4┃荐片┃[优质]","type":4,"api":"https://zhxy.eu.org/api/荐片[优]","searchable":2,"filterable":1,"quickSearch":0,"ext":""},
+{"key":"drpyS_饺子[优]","name":"T4┃饺子┃[优质]","type":4,"api":"https://zhxy.eu.org/api/饺子[优]","searchable":1,"filterable":1,"quickSearch":1,"ext":""},
+    {
+      "key": "drpyS_下饭[盘]",
+      "name": "T4┃下饭┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/下饭[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_二小[盘]",
+      "name": "T4┃二小┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/二小[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_多多[盘]",
+      "name": "T4┃多多┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/多多[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_木偶[盘]",
+      "name": "T4┃木偶┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/木偶[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_百家[盘]",
+      "name": "T4┃百家┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/百家[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+{"key":"drpyS_央视大全[官]","name":"T4┃央视┃[官源]","type":4,"api":"https://zhxy.eu.org/api/央视大全[官]","searchable":1,"filterable":1,"quickSearch":0,"ext":""},
+{"key":"drpyS_腾云驾雾[官]","name":"T4┃腾讯┃[官源]","type":4,"api":"https://zhxy.eu.org/api/腾云驾雾[官]","searchable":2,"filterable":1,"quickSearch":0,"ext":""},
+{"key":"drpyS_百忙无果[官]","name":"T4┃芒果┃[官源]","type":4,"api":"https://zhxy.eu.org/api/百忙无果[官]","searchable":2,"filterable":1,"quickSearch":0,"ext":""},
+{"key":"drpyS_快手直播[官]","name":"T4┃快手┃[直播]","type":4,"api":"https://zhxy.eu.org/api/快手直播[官]","searchable":2,"filterable":1,"quickSearch":0,"ext":""},
+    {
+      "key": "drpyS_抖音直播[官]",
+      "name": "T4┃抖音┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/抖音直播[官]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+
+    {
+      "key": "drpyS_虎牙直播",
+      "name": "T4┃虎牙┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/虎牙直播[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_博看听书[听]",
+      "name": "T4┃📻博看┃[知识]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/博看听书[听]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_点歌欢唱[B]",
+      "name": "T4┃🎻点歌┃[音乐]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/点歌欢唱[B]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "logo": "https://tva1.sinaimg.cn/crop.6.7.378.378.1024/a22d2331jw8f6hs4xrb4kj20ay0ayacy.jpg",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9rb+LR17ZMd7c/W9jybvUmvpKIEABrNdgcbAAAA"
+    },
+    {
+      "key": "drpyS_种子音乐[听]",
+      "name": "T4┃🎻种子┃[音乐]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/种子音乐[听]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_KTV歌厅[听]",
+      "name": "T4┃🎻KTV┃[音乐]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/KTV歌厅[听]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_动漫巴士[漫]",
+      "name": "T4┃巴士┃[动漫]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/动漫巴士[漫]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_甜圈短剧[短]",
+      "name": "T4┃甜圈┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/甜圈短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_短剧库[短]",
+      "name": "T4┃剧库┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/短剧库[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_星芽短剧[短]",
+      "name": "T4┃星芽┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/星芽短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_蓝莓短剧[短]",
+      "name": "T4┃蓝莓┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/蓝莓短剧[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_哔哩大全",
+      "name": "T4┃🅱️大全┃[哔哩]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/我的哔哩[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Td3q+eqYeiAUAPLR4wBEAAAA="
+    },
+    {
+      "key": "drpyS_哔哩教育",
+      "name": "T4┃🅱️教育┃[哔哩]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/我的哔哩[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tfzp5ytPJK59NnfmiaZMeSAQAgv7xPBkAAAA="
+    },
+    {
+      "key": "drpyS_土豆",
+      "name": "T4┃土豆┃[爬虫]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/土豆[虫]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_爱看[虫]",
+      "name": "T4┃爱看┃[爬虫]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/爱看[虫]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_TG[搜]",
+      "name": "T4┃🔎TG┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/TG[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_天逸[搜]",
+      "name": "T4┃🔎天逸┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/天逸[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_小米盘搜[搜]",
+      "name": "T4┃🔎小米┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/小米盘搜[搜]",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_搜片[搜]",
+      "name": "T4┃🔎搜片┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/搜片[搜]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_短剧[搜]",
+      "name": "T4┃🔎短剧┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/短剧[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_TL盘[搜]",
+      "name": "T4┃🔎TL盘┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/TL盘[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_123短剧[搜]",
+      "name": "T4┃🔎123短┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/123短剧[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_兔小贝[儿]",
+      "name": "T4┃兔小┃[儿童]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/兔小贝[儿]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_贝乐虎[儿]",
+      "name": "T4┃贝乐┃[儿童]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/贝乐虎[儿]",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_录像[球]",
+      "name": "T4┃录像┃[体育]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/录像[球]",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_直播[球]",
+      "name": "T4┃直播┃[体育]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/直播[球]",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_剧探[V2]",
+      "name": "T4┃剧探┃[V2]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/剧探[V2]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
     {
       "key": "T4┃jp",
       "name": "T4┃影视-荐片",
@@ -877,7 +1224,7 @@
     },
     {
       "key": "drpyS_16wMV[听]",
-      "name": "16wMV[听](DS)",
+      "name": "T4┃16wMV[听](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/16wMV[听]",
       "searchable": 1,
@@ -887,7 +1234,7 @@
     },
     {
       "key": "drpyS_哔哩大全[官]",
-      "name": "哔哩大全[官](DS)",
+      "name": "T4┃哔哩大全[官](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/我的哔哩[官]",
       "searchable": 2,
@@ -897,7 +1244,7 @@
     },
     {
       "key": "drpyS_哔哩大杂烩[官]",
-      "name": "哔哩大杂烩[官](DS)",
+      "name": "T4┃哔哩大杂烩[官](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/我的哔哩[官]",
       "searchable": 2,
@@ -907,7 +1254,7 @@
     },
     {
       "key": "drpyS_哔哩教育[官]",
-      "name": "哔哩教育[官](DS)",
+      "name": "T4┃哔哩教育[官](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/我的哔哩[官]",
       "searchable": 2,
@@ -917,7 +1264,7 @@
     },
     {
       "key": "drpyS_哔哩影视[官]",
-      "name": "哔哩影视[官](DS)",
+      "name": "T4┃哔哩影视[官](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/哔哩影视[官]",
       "searchable": 1,
@@ -927,7 +1274,7 @@
     },
     {
       "key": "drpyS_采王2024",
-      "name": "采王2024(DS)",
+      "name": "T4┃采王2024(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/采集之王[合]",
       "searchable": 1,
@@ -937,7 +1284,7 @@
     },
     {
       "key": "drpyS_采王道长[合]",
-      "name": "采王道长[合](DS)",
+      "name": "T4┃采王道长[合](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/采集之王[合]",
       "searchable": 1,
@@ -947,7 +1294,7 @@
     },
     {
       "key": "drpyS_大象影视",
-      "name": "大象影视(DS)",
+      "name": "T4┃大象影视(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/大象影视",
       "searchable": 2,
@@ -957,7 +1304,7 @@
     },
     {
       "key": "drpyS_抖音直播弹幕[官]",
-      "name": "抖音直播弹幕[官](DS)",
+      "name": "T4┃抖音直播弹幕[官](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/抖音直播弹幕[官]",
       "searchable": 1,
@@ -967,7 +1314,7 @@
     },
     {
       "key": "drpyS_短剧库",
-      "name": "短剧库(DS)",
+      "name": "T4┃短剧库(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/短剧库",
       "searchable": 2,
@@ -977,7 +1324,7 @@
     },
     {
       "key": "drpyS_番薯动漫[漫]",
-      "name": "番薯动漫[漫](DS)",
+      "name": "T4┃番薯动漫[漫](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/番薯动漫[漫]",
       "searchable": 2,
@@ -987,7 +1334,7 @@
     },
     {
       "key": "drpyS_凡客TV",
-      "name": "凡客TV(DS)",
+      "name": "T4┃凡客TV(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/凡客TV",
       "searchable": 2,
@@ -997,7 +1344,7 @@
     },
     {
       "key": "drpyS_光速[优]",
-      "name": "光速[优](DS)",
+      "name": "T4┃光速[优](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/光速[优]",
       "searchable": 1,
@@ -1007,7 +1354,7 @@
     },
     {
       "key": "drpyS_鬼片之家",
-      "name": "鬼片之家(DS)",
+      "name": "T4┃鬼片之家(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/鬼片之家",
       "searchable": 2,
@@ -1017,7 +1364,7 @@
     },
     {
       "key": "drpyS_荐片",
-      "name": "荐片(DS)",
+      "name": "T4┃荐片(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/荐片",
       "searchable": 2,
@@ -1027,7 +1374,7 @@
     },
     {
       "key": "drpyS_蓝莓短剧",
-      "name": "蓝莓短剧(DS)",
+      "name": "T4┃蓝莓短剧(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/蓝莓短剧",
       "searchable": 2,
@@ -1037,7 +1384,7 @@
     },
     {
       "key": "drpyS_雷鲸小站",
-      "name": "雷鲸小站[盘](DS)",
+      "name": "T4┃雷鲸小站[盘](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/雷鲸小站[盘]",
       "searchable": 0,
@@ -1047,7 +1394,7 @@
     },
     {
       "key": "drpyS_美颜怪[擦]",
-      "name": "美颜怪[擦](DS)",
+      "name": "T4┃美颜怪[擦](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/美颜怪[擦]",
       "searchable": 0,
@@ -1057,7 +1404,7 @@
     },
     {
       "key": "drpyS_奇珍异兽[官]",
-      "name": "奇珍异兽[官](DS)",
+      "name": "T4┃奇珍异兽[官](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/奇珍异兽[官]",
       "searchable": 2,
@@ -1067,7 +1414,7 @@
     },
     {
       "key": "drpyS_腾云驾雾[官]",
-      "name": "腾云驾雾[官](DS)",
+      "name": "T4┃腾云驾雾[官](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/腾云驾雾[官]",
       "searchable": 2,
@@ -1077,7 +1424,7 @@
     },
     {
       "key": "drpyS_央视大全[官]",
-      "name": "央视大全[官](DS)",
+      "name": "T4┃央视大全[官](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/央视大全[官]",
       "searchable": 1,
@@ -1087,7 +1434,7 @@
     },
     {
       "key": "drpyS_直播转点播[合]",
-      "name": "直播转点播[合](DS)",
+      "name": "T4┃直播转点播[合](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/直播转点播[合]",
       "searchable": 1,
@@ -1097,7 +1444,7 @@
     },
     {
       "key": "drpyS_专享影视",
-      "name": "专享影视(DS)",
+      "name": "T4┃专享影视(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/专享影视",
       "searchable": 1,
@@ -1107,7 +1454,7 @@
     },
     {
       "key": "drpyS_hdmoli[盘]",
-      "name": "hdmoli[盘](DS)",
+      "name": "T4┃hdmoli[盘](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/hdmoli[盘]",
       "searchable": 2,
@@ -1117,7 +1464,7 @@
     },
     {
       "key": "drpyS_ikanbot",
-      "name": "ikanbot(DS)",
+      "name": "T4┃ikanbot(DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/ikanbot",
       "searchable": 2,
@@ -1127,7 +1474,7 @@
     },
     {
       "key": "drpyS_MP4电影[磁]",
-      "name": "MP4电影[磁](DS)",
+      "name": "T4┃MP4电影[磁](DS)",
       "type": 4,
       "api": "http://drpy.mxlgsl.cn/api/MP4电影[磁]",
       "searchable": 1,
@@ -3080,6 +3427,78 @@
         "bfbiaotihou": "<",
         "bflianjieqian": "href=\"",
         "bflianjiehou": "\""
+      }
+    },
+{
+            "key": "XBPQ┃七味影院",
+            "name": "XBPQ┃七味影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+      "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "防走丢": "https://www.qwmkv.com/",
+                "主页url": "https://www.pkmp4.xyz/",
+                "二次截取": "class=\"pic-list clearfix\"&&</ul>",
+                "数组": "<li>&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "src=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "播放数组": "class=\"player\"&&</ul>",
+                "播放链接": "href=\"&&\"",
+                "播放列表": "<a&&a>",
+                "播放标题": ">&&</",
+                "线路数组": "<option&&option>",
+                "线路标题": ">&&</",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
+            }
+        },
+    {
+      "key": "XBPQ┃文才影视",
+      "name": "XBPQ┃文才影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
+      "ext": {
+        "主演":"vod_actor\"*\"&&\"",
+				"免嗅":"0",
+				"分类":"国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧&动漫",
+				"分类url":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
+				"分类值":"14&42&22&26&36&25&30&23&69&15&16&62&75",
+				"副标题":"+vod_remarks\":\"&&\"",
+				"嗅探词":".m3u8",
+				"图片":"vod_pic\":\"&&\"",
+				"导演":"vod_director\"*\"&&\"",
+				"影片类型":"vod_class\"*\"&&\"",
+				"搜索url":"https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}",
+				"搜索二次截取":"list\":[&&]",
+				"搜索副标题":"type_name\":\"&&\"",
+				"搜索图片":"vod_pic\"*\"&&\"",
+				"搜索数组":"{&&}[不包含:]",
+				"搜索标题":"vod_name\"*\"&&\"",
+				"搜索模式":"1",
+				"搜索链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+				"播放二次截取":"",
+				"播放列表":"表&&表",
+				"播放数组":"vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+				"播放标题":"题&&题",
+				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
+				"播放链接":"链&&链",
+				"数组":"{&&}[不包含:]",
+				"数组二次截取":"list\":[&&]",
+				"标题":"vod_name\":\"&&\"",
+				"简介":"vod_content\"*\"&&\"",
+				"线路二次截取":"\"list\":[&&]",
+				"线路数组":"\"vod_play_from\":&&,",
+				"线路标题":"\"&&\"",
+				"链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,"
       }
     },
     {
@@ -17878,6 +18297,70 @@
       "type": 0,
       "url": ""
     },
+{
+      "name": "柒豪4K",
+      "url": "https://zhxy.eu.org/parse/柒豪4K?url=",
+      "type": 1,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+      }
+    },
+    {
+      "name": "巧计?",
+      "url": "https://zhxy.eu.org/parse/巧计?url=",
+      "type": 1,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+      }
+    },
+    {
+      "name": "巧计2?",
+      "url": "https://zhxy.eu.org/parse/巧计2?url=",
+      "type": 1,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+      }
+    },
+
     {
       "name": "巧技",
       "type": 1,
@@ -17957,6 +18440,27 @@
       }
     },
     {
+      "name": "OK",
+      "url": "https://zhxy.eu.org/parse/OK?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+      }
+    },
+    {
       "name": "帅",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
@@ -18016,7 +18520,7 @@
         }
       }
     },
-    {
+        {
       "name": "-红狐-",
       "type": 0,
       "url": "https://player.mrgaocloud.com/player/?url="
