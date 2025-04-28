@@ -19104,7 +19104,7 @@
       "url": "./live/十八万.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    }
+    },
     {
       "name": "iptv365",
       "type": 0,
