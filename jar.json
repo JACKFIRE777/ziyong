@@ -474,6 +474,27 @@
       }
     },
     {
+      "key": "MGTV",
+      "name": "MGTV",
+      "type": 3,
+      "api": "csp_MGTV",
+      "jar": "./jar/top98_1.jar"
+    },
+    {
+      "key": "IQIYI",
+      "name": "IQIYI",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "jar": "./jar/top98_1.jar"
+    },
+    {
+      "key": "SP360",
+      "name": "SP360",
+      "type": 3,
+      "api": "csp_SP360",
+      "jar": "./jar/top98_1.jar"
+    },
+    {
       "key": "PG版本信息",
       "name": "PG版本｜信息",
       "type": 3,

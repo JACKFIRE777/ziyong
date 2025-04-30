@@ -562,14 +562,25 @@
       "ext": "{\"username\":\"zzygll2\",\"password\":\"zzy555555\",\"searchurl\":\"https://zhaoziyuan1.cc/so?filename={wd}\"}"
     },
     {
-      "key": "Y┃Kuaikan",
-      "name": "Y┃快看",
+      "key": "MGTV",
+      "name": "MGTV",
       "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "./jar/Yoursmile2.jar;md5;20f0e11de310ffc7cc66a4de80b08c64",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_MGTV",
+      "jar": "./jar/top98_1.jar"
+    },
+    {
+      "key": "IQIYI",
+      "name": "IQIYI",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "jar": "./jar/top98_1.jar"
+    },
+    {
+      "key": "SP360",
+      "name": "SP360",
+      "type": 3,
+      "api": "csp_SP360",
+      "jar": "./jar/top98_1.jar"
     },
     {
       "key": "PG版本信息",
@@ -662,6 +673,26 @@
       "api": "./js/zbzdb.js",
       "ext": "./live/live集合.json"
     },
+        {
+            "key": "QD4K",
+            "name": "QD影视｜影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://172.83.156.150:1010/api.php/app/"
+        },
+        {
+            "key": "HG影视",
+            "name": "HG影视｜影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+        },
     {
       "key": "APP┃教育",
       "name": "APP┃同步教育",
@@ -3266,7 +3297,7 @@
       "name": "XBiu┃奇优影院┃1920",
       "type": 3,
       "api": "csp_XBiubiu",
-      "jar": "./jar/Yoursmile2.jar;md5;20f0e11de310ffc7cc66a4de80b08c64",
+      "jar": "./jar/top98_1.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -3334,7 +3365,7 @@
       "name": "XBiu┃酷我MV",
       "type": 3,
       "api": "csp_XBiubiu",
-      "jar": "./jar/Yoursmile2.jar;md5;20f0e11de310ffc7cc66a4de80b08c64",
+      "jar": "./jar/top98_1.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -3366,7 +3397,7 @@
       "name": "XBiu┃克拉TV",
       "type": 3,
       "api": "csp_XBiubiu",
-      "jar": "./jar/Yoursmile2.jar;md5;20f0e11de310ffc7cc66a4de80b08c64",
+      "jar": "./jar/top98_1.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
