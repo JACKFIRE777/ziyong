@@ -19,9 +19,20 @@
     }
   ],
   "sites": [
+        {
+            "key": "嗨皮影视",
+            "name": "嗨皮｜影视",
+            "type": 3,
+            "api": "./py/嗨皮影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
     {
-      "key": "APPV2.py",
-      "name": "APPV2(py)",
+      "key": "APPV2",
+      "name": "py┃APPV2",
       "type": 3,
       "api": "./PY/app/APPV2.py",
       "searchable": 1,
@@ -29,6 +40,12 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "http://cmsyt123.lyyytv.cn"
+    },
+    {
+      "key": "py_柯南影视",
+      "name": "py┃柯南影视",
+      "type": 3,
+      "api": "./PY/柯南影视.py"
     },
     {
       "key": "py_蓝莓短剧",

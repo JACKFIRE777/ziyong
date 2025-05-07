@@ -673,26 +673,26 @@
       "api": "./js/zbzdb.js",
       "ext": "./live/live集合.json"
     },
-        {
-            "key": "QD4K",
-            "name": "QD影视｜影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://172.83.156.150:1010/api.php/app/"
-        },
-        {
-            "key": "HG影视",
-            "name": "HG影视｜影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-        },
+    {
+      "key": "QD4K",
+      "name": "QD影视｜影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://172.83.156.150:1010/api.php/app/"
+    },
+    {
+      "key": "HG影视",
+      "name": "HG影视｜影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+    },
     {
       "key": "APP┃教育",
       "name": "APP┃同步教育",
@@ -774,7 +774,6 @@
       "filterable": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },
-    
     {
       "key": "drpyS_瓜子[APP]",
       "name": "T4┃瓜子┃[APP]",
@@ -795,9 +794,46 @@
       "quickSearch": 0,
       "ext": ""
     },
-{"key":"drpyS_雷鲸小站[盘]","name":"T4┃雷鲸┃[天翼]","type":4,"api":"https://zhxy.eu.org/api/雷鲸小站[盘]","searchable":2,"filterable":0,"quickSearch":0,"ext":""},{"key":"drpyS_盘它[盘]","name":"T4┃盘它┃[移动]","type":4,"api":"https://zhxy.eu.org/api/盘它[盘]","searchable":2,"filterable":0,"quickSearch":0,"ext":""},
-{"key":"drpyS_荐片[优]","name":"T4┃荐片┃[优质]","type":4,"api":"https://zhxy.eu.org/api/荐片[优]","searchable":2,"filterable":1,"quickSearch":0,"ext":""},
-{"key":"drpyS_饺子[优]","name":"T4┃饺子┃[优质]","type":4,"api":"https://zhxy.eu.org/api/饺子[优]","searchable":1,"filterable":1,"quickSearch":1,"ext":""},
+    {
+      "key": "drpyS_雷鲸小站[盘]",
+      "name": "T4┃雷鲸┃[天翼]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/雷鲸小站[盘]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_盘它[盘]",
+      "name": "T4┃盘它┃[移动]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/盘它[盘]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_荐片[优]",
+      "name": "T4┃荐片┃[优质]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/荐片[优]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_饺子[优]",
+      "name": "T4┃饺子┃[优质]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/饺子[优]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
     {
       "key": "drpyS_下饭[盘]",
       "name": "T4┃下饭┃[云盘]",
@@ -848,10 +884,46 @@
       "quickSearch": 1,
       "ext": ""
     },
-{"key":"drpyS_央视大全[官]","name":"T4┃央视┃[官源]","type":4,"api":"https://zhxy.eu.org/api/央视大全[官]","searchable":1,"filterable":1,"quickSearch":0,"ext":""},
-{"key":"drpyS_腾云驾雾[官]","name":"T4┃腾讯┃[官源]","type":4,"api":"https://zhxy.eu.org/api/腾云驾雾[官]","searchable":2,"filterable":1,"quickSearch":0,"ext":""},
-{"key":"drpyS_百忙无果[官]","name":"T4┃芒果┃[官源]","type":4,"api":"https://zhxy.eu.org/api/百忙无果[官]","searchable":2,"filterable":1,"quickSearch":0,"ext":""},
-{"key":"drpyS_快手直播[官]","name":"T4┃快手┃[直播]","type":4,"api":"https://zhxy.eu.org/api/快手直播[官]","searchable":2,"filterable":1,"quickSearch":0,"ext":""},
+    {
+      "key": "drpyS_央视大全[官]",
+      "name": "T4┃央视┃[官源]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/央视大全[官]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_腾云驾雾[官]",
+      "name": "T4┃腾讯┃[官源]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/腾云驾雾[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_百忙无果[官]",
+      "name": "T4┃芒果┃[官源]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/百忙无果[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_快手直播[官]",
+      "name": "T4┃快手┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/快手直播[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
     {
       "key": "drpyS_抖音直播[官]",
       "name": "T4┃抖音┃[直播]",
@@ -862,7 +934,6 @@
       "quickSearch": 0,
       "ext": ""
     },
-
     {
       "key": "drpyS_虎牙直播",
       "name": "T4┃虎牙┃[直播]",
@@ -1954,13 +2025,13 @@
       "ext": ""
     },
     {
-        "key": "采集┃xml_茅台资源",
-        "name": "采集┃茅台资源",
-        "type": 0,
-        "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
+      "key": "采集┃xml_茅台资源",
+      "name": "采集┃茅台资源",
+      "type": 0,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "采集┃无限资源",
@@ -3460,37 +3531,37 @@
         "bflianjiehou": "\""
       }
     },
-{
-            "key": "XBPQ┃七味影院",
-            "name": "XBPQ┃七味影院",
-            "type": 3,
-            "api": "csp_XBPQ",
+    {
+      "key": "XBPQ┃七味影院",
+      "name": "XBPQ┃七味影院",
+      "type": 3,
+      "api": "csp_XBPQ",
       "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "防走丢": "https://www.qwmkv.com/",
-                "主页url": "https://www.pkmp4.xyz/",
-                "二次截取": "class=\"pic-list clearfix\"&&</ul>",
-                "数组": "<li>&&</li>",
-                "标题": "title=\"&&\"",
-                "图片": "src=\"&&\"",
-                "副标题": "</i>&&</span>",
-                "链接": "href=\"&&\"",
-                "播放数组": "class=\"player\"&&</ul>",
-                "播放链接": "href=\"&&\"",
-                "播放列表": "<a&&a>",
-                "播放标题": ">&&</",
-                "线路数组": "<option&&option>",
-                "线路标题": ">&&</",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
-            }
-        },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "防走丢": "https://www.qwmkv.com/",
+        "主页url": "https://www.pkmp4.xyz/",
+        "二次截取": "class=\"pic-list clearfix\"&&</ul>",
+        "数组": "<li>&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "src=\"&&\"",
+        "副标题": "</i>&&</span>",
+        "链接": "href=\"&&\"",
+        "播放数组": "class=\"player\"&&</ul>",
+        "播放链接": "href=\"&&\"",
+        "播放列表": "<a&&a>",
+        "播放标题": ">&&</",
+        "线路数组": "<option&&option>",
+        "线路标题": ">&&</",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
+      }
+    },
     {
       "key": "XBPQ┃文才影视",
       "name": "XBPQ┃文才影视",
@@ -3498,38 +3569,38 @@
       "api": "csp_XBPQ",
       "jar": "./jar/XBQH.jar;md5;3e2536289152f574bb5db8ba56125b47",
       "ext": {
-        "主演":"vod_actor\"*\"&&\"",
-				"免嗅":"0",
-				"分类":"国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧&动漫",
-				"分类url":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
-				"分类值":"14&42&22&26&36&25&30&23&69&15&16&62&75",
-				"副标题":"+vod_remarks\":\"&&\"",
-				"嗅探词":".m3u8",
-				"图片":"vod_pic\":\"&&\"",
-				"导演":"vod_director\"*\"&&\"",
-				"影片类型":"vod_class\"*\"&&\"",
-				"搜索url":"https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}",
-				"搜索二次截取":"list\":[&&]",
-				"搜索副标题":"type_name\":\"&&\"",
-				"搜索图片":"vod_pic\"*\"&&\"",
-				"搜索数组":"{&&}[不包含:]",
-				"搜索标题":"vod_name\"*\"&&\"",
-				"搜索模式":"1",
-				"搜索链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
-				"播放二次截取":"",
-				"播放列表":"表&&表",
-				"播放数组":"vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
-				"播放标题":"题&&题",
-				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
-				"播放链接":"链&&链",
-				"数组":"{&&}[不包含:]",
-				"数组二次截取":"list\":[&&]",
-				"标题":"vod_name\":\"&&\"",
-				"简介":"vod_content\"*\"&&\"",
-				"线路二次截取":"\"list\":[&&]",
-				"线路数组":"\"vod_play_from\":&&,",
-				"线路标题":"\"&&\"",
-				"链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,"
+        "主演": "vod_actor\"*\"&&\"",
+        "免嗅": "0",
+        "分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧&动漫",
+        "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
+        "分类值": "14&42&22&26&36&25&30&23&69&15&16&62&75",
+        "副标题": "+vod_remarks\":\"&&\"",
+        "嗅探词": ".m3u8",
+        "图片": "vod_pic\":\"&&\"",
+        "导演": "vod_director\"*\"&&\"",
+        "影片类型": "vod_class\"*\"&&\"",
+        "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}",
+        "搜索二次截取": "list\":[&&]",
+        "搜索副标题": "type_name\":\"&&\"",
+        "搜索图片": "vod_pic\"*\"&&\"",
+        "搜索数组": "{&&}[不包含:]",
+        "搜索标题": "vod_name\"*\"&&\"",
+        "搜索模式": "1",
+        "搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+        "播放二次截取": "",
+        "播放列表": "表&&表",
+        "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+        "播放标题": "题&&题",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
+        "播放链接": "链&&链",
+        "数组": "{&&}[不包含:]",
+        "数组二次截取": "list\":[&&]",
+        "标题": "vod_name\":\"&&\"",
+        "简介": "vod_content\"*\"&&\"",
+        "线路二次截取": "\"list\":[&&]",
+        "线路数组": "\"vod_play_from\":&&,",
+        "线路标题": "\"&&\"",
+        "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,"
       }
     },
     {
@@ -18328,7 +18399,7 @@
       "type": 0,
       "url": ""
     },
-{
+    {
       "name": "柒豪4K",
       "url": "https://zhxy.eu.org/parse/柒豪4K?url=",
       "type": 1,
@@ -18391,7 +18462,6 @@
         "User-Agent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
       }
     },
-
     {
       "name": "巧技",
       "type": 1,
@@ -18551,7 +18621,7 @@
         }
       }
     },
-        {
+    {
       "name": "-红狐-",
       "type": 0,
       "url": "https://player.mrgaocloud.com/player/?url="
