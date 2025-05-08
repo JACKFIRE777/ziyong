@@ -592,6 +592,20 @@
       }
     },
     {
+      "key": "驿站",
+      "name": "驿站｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://121.204.251.70:12000",
+        "dataKey": "F51F5D52D23C5181",
+        "dataIv": "F51F5D52D23C5181",
+        "deviceId": "",
+        "version": "119"
+      }
+    },
+    {
       "key": "玉米",
       "name": "玉米｜APP",
       "type": 3,
@@ -852,7 +866,7 @@
       }
     },
     {
-      "key": "驿站",
+      "key": "驿站m",
       "name": "驿站｜APP",
       "type": 3,
       "quickSearch": 1,
@@ -864,6 +878,45 @@
         "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789/json.php?url="
       }
     },
+{
+            "key": "主角",
+            "name": "主角｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "https://vodapp.feiwang.cc",
+                "dataKey": "25f9e794323b4538",
+                "dataIv": "25f9e794323b4538",
+                "jxurl": "https://vod.feiwang.cc"
+            }
+        },
+        {
+            "key": "永夜",
+            "name": "永夜｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://cms.neyym.cn",
+                "dataKey": "66247d82fcfaeda9",
+                "dataIv": "70691065ee3c4c54",
+                "jxurl": "http://app.neyym.cn"
+            }
+        },
+{
+            "key": "二三",
+            "name": "二三｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://cs4.123ysw.com",
+                "dataKey": "d3238930e3ae0724",
+                "dataIv": "d3238930e3ae0724",
+                "jxurl": "https://123ysw.com"
+            }
+        },
     {
       "key": "热播影视",
       "name": "热播｜APP",
@@ -923,7 +976,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "type": "睡前故事#儿童#小灯塔百科#小灯塔地理#小灯塔国学#小灯塔科学#小灯塔人文#儿童口才#儿童拼音#儿童英语#儿童思维#儿童识字#小灯塔百科#彩调#京剧#少儿教育#美女#小姐姐#小学课堂#初中课堂#高中课堂#搭讪#搭配#外语#MTV#美食#幼儿乐园#幼儿启蒙#幼小衔接#中华命理#中华文化#中华文化#中华武术#中华医学#歌舞#短剧#猫影视#tvbox#吞噬星空#全民转职#全民觉醒#全球进化#SSS级天赋#汪汪队#动画片#声律启蒙#鬼畜#沙雕动漫#动漫#日本动漫#动漫合集#动漫合辑#电影#电视剧#软件教程#Windows#解说合集#鬼畜#解说#演讲#说案#戏曲#相声#小品#国产动漫#演唱会#科幻片#知名UP主#广场舞#纪录片#综艺#音乐#歌曲#影视#户外#MV#4K#8K",
+        "type": "AI绘世#DeepSeek#豆包#‌ChatGPT#Kimi#腾讯元宝#秘塔AI#睡前故事#儿童#小灯塔百科#小灯塔地理#小灯塔国学#小灯塔科学#小灯塔人文#儿童口才#儿童拼音#儿童英语#儿童思维#儿童识字#小灯塔百科#彩调#京剧#少儿教育#美女#小姐姐#小学课堂#初中课堂#高中课堂#搭讪#搭配#外语#MTV#美食#幼儿乐园#幼儿启蒙#幼小衔接#中华命理#中华文化#中华文化#中华武术#中华医学#歌舞#短剧#猫影视#tvbox#吞噬星空#全民转职#全民觉醒#全球进化#SSS级天赋#汪汪队#动画片#声律启蒙#鬼畜#沙雕动漫#动漫#日本动漫#动漫合集#动漫合辑#电影#电视剧#软件教程#Windows#解说合集#鬼畜#解说#演讲#说案#戏曲#相声#小品#国产动漫#演唱会#科幻片#知名UP主#广场舞#纪录片#综艺#音乐#歌曲#影视#户外#MV#4K#8K",
         "cookie": "i-wanna-go-back=-1; buvid_fp_plain=undefined; DedeUserID=478180530; DedeUserID__ckMd5=5a17664f2928ee52; CURRENT_PID=c4058970-cd48-11ed-aced-73b3be32a7d1; FEED_LIVE_VERSION=V8; LIVE_BUVID=AUTO2416818085516679; hit-new-style-dyn=1; buvid3=8844974D-7607-AB71-D7CB-D6E2348D76F386916infoc; b_nut=1691283886; _uuid=6F312895-AC8B-C29C-BA57-414B10CA1DE8362943infoc; b_ut=5; buvid4=DB73880F-3A34-BBA2-378A-2E4A2AF5DE1A57570-022080609-cABoSJjJ1wOrHk0uSjaqIN6xh09U8%2F1PixLX7T8Ps8WYIbYWdgNygA%3D%3D; enable_web_push=DISABLE; header_theme_version=CLOSE; is-2022-channel=1; CURRENT_QUALITY=80; rpdid=0zbfvRWVXD|14p7j3lyk|2N|3w1RhEJN; fingerprint=4345b53c4198e545925156bacc2a6551; buvid_fp=4345b53c4198e545925156bacc2a6551; CURRENT_FNVAL=4048; PVID=2; SESSDATA=482eb259%2C1726126475%2Cdede1%2A31CjCd2urT2b_iWY19GhWIcBH8RzjNoIPT-mrZK7vUuw4tTPjaUV9sMl3I2h3Q7HXIEQMSVmtYMlpQM2padHlwX2dxZzAzeEpGUzY3V2VSSFh0cTZsYjFwbFFmRVo5ZHVsdFlQNXhnY2t6TWphQjQyZEFkVWNWX1RDd2VsM2lMZ2ZHMklqc2JBaENnIIEC; bili_jct=5274f857b71ea036cb1c018bd25b9e19; b_lsid=B9CE10CA9_18E4A14E74E; bp_video_offset_478180530=909660681607839745; home_feed_column=5; browser_resolution=1872-932; sid=4umjjnj6; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTA4OTkyNzQsImlhdCI6MTcxMDY0MDAxNCwicGx0IjotMX0.q5af7Y2NPG7Oq4JedXOjJxtfxPD9cmV7lTcmE6PyimQ; bili_ticket_expires=1710899214; buvid_fp=94a4e8bd362a778053e35b54ef57f288; SESSDATA=bb88cd4e%2C1728486293%2C46d70%2A41CjCW64w0Sz3"
       }
     },
@@ -10237,7 +10290,7 @@
         "线路标题": "传说+<span>&&</small>[替换:</span><small>>>💕共]+集💕",
         "播放数组": "<div class=\"module-play-list-content&&</div>",
         "分类url": "https://4k4k.live/vodshow/{cateId}--{by}------{catePg}---{year}",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$52",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "筛选": "1"
       }
     },
@@ -10383,8 +10436,8 @@
         "首页": "120",
         "起始页": "1",
         "分类url": "/{cateId}{class}/page-{catePg}.html[https://4k-av.com/{cateId}{class}];;mrc",
-        "分类": "电影&剧集",
-        "分类值": "movie&tv",
+        "分类": "电影&剧集&AV",
+        "分类值": "movie&tv&av",
         "数组": "tags\">&&</a>",
         "标题": "alt=\"&&海报",
         "图片": "src=\"&&\"",
@@ -10480,6 +10533,11 @@
                   "n": "全部",
                   "v": ""
                 },
+                {
+                  "n": "2025",
+                  "v": "/2025"
+                },
+
                 {
                   "n": "2024",
                   "v": "/2024"
@@ -20279,8 +20337,8 @@
         "首页片单是否Jsoup写法": "1",
         "分类起始页码": "1",
         "分类链接": "https://www.4khdr.cn/forum.php?mod=forumdisplay&fid=2&&filter=typeid&typeid={cateId}&page={catePg}",
-        "分类名称": "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画&蓝光日韩印",
-        "分类名称替换词": "3&8&15&6&11&4&29&31&33&32&34",
+        "分类名称": "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光美剧&蓝光华语&蓝光动画",
+        "分类名称替换词": "3&8&15&6&11&4&29&31&33&32",
         "筛选数据": {},
         "筛选子分类名称": "",
         "筛选子分类替换词": "",
@@ -36655,6 +36713,35 @@
       }
     },
     {
+      "name": "夏夜",
+      "type": "1",
+      "url": "http://8.155.50.80/xiaye.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
       "name": "巧技",
       "type": 1,
       "url": "https://zy.qiaoji8.com/neibu.php?url=",
@@ -36751,35 +36838,6 @@
       },
       "header": {
         "User-Agent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
-      }
-    },
-    {
-      "name": "夏夜",
-      "type": "1",
-      "url": "http://8.155.50.80/xiaye.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
       }
     },
     {

@@ -19,27 +19,23 @@
     }
   ],
   "sites": [
-        {
-            "key": "嗨皮影视",
-            "name": "嗨皮｜影视",
-            "type": 3,
-            "api": "./py/嗨皮影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
     {
-      "key": "APPV2",
-      "name": "py┃APPV2",
+      "key": "甜圈短剧",
+      "name": "py┃甜圈短剧",
       "type": 3,
-      "api": "./PY/app/APPV2.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://cmsyt123.lyyytv.cn"
+      "api": "./PY/甜圈短剧.py"
+    },
+    {
+      "key": "三号动漫APP",
+      "name": "py┃三号动漫APP",
+      "type": 3,
+      "api": "./PY/三号动漫APP.py"
+    },
+    {
+      "key": "MiFunAPP",
+      "name": "py┃MiFunAPP",
+      "type": 3,
+      "api": "./PY/MiFunAPP.py"
     },
     {
       "key": "py_柯南影视",
@@ -58,12 +54,6 @@
       "name": "py┃绝对影视",
       "type": 3,
       "api": "./PY/绝对影视.py"
-    },
-    {
-      "key": "py_爱看短剧",
-      "name": "py┃爱看短剧",
-      "type": 3,
-      "api": "./PY/爱看短剧.py"
     },
     {
       "key": "py_边缘影视",
@@ -88,12 +78,6 @@
       "name": "py┃红果短剧",
       "type": 3,
       "api": "./PY/红果短剧.py"
-    },
-    {
-      "key": "py_剧多短剧",
-      "name": "py┃剧多短剧",
-      "type": 3,
-      "api": "./PY/剧多短剧.py"
     },
     {
       "key": "py_恋鱼影视",
@@ -133,18 +117,6 @@
       "api": "./PY/偷乐短剧.py"
     },
     {
-      "key": "py_推特APP",
-      "name": "py┃推特APP",
-      "type": 3,
-      "api": "./PY/推特APP.py"
-    },
-    {
-      "key": "py_小红影视",
-      "name": "py┃小红影视",
-      "type": 3,
-      "api": "./PY/小红影视.py"
-    },
-    {
       "key": "py_小苹果影视",
       "name": "py┃小苹果影视",
       "type": 3,
@@ -173,12 +145,6 @@
       "name": "py┃哇哇APP",
       "type": 3,
       "api": "./PY/哇哇APP.py"
-    },
-    {
-      "key": "py_AKDJ",
-      "name": "py┃AKDJ",
-      "type": 3,
-      "api": "./PY/AKDJ.py"
     },
     {
       "key": "py_奇迹",
@@ -430,16 +396,16 @@
       "api": "./py/yixi.py"
     },
     {
-      "key": "py_lavAPP",
-      "name": "py┃🔞lavAPP",
-      "type": 3,
-      "api": "./py/lavAPP.py"
-    },
-    {
       "key": "py_熊猫秒播",
       "name": "py┃🔞熊猫秒播",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jie20091116/ysc/master/xzqzy/lib/熊猫秒播.py"
+    },
+    {
+      "key": "熊猫秒播",
+      "name": "py┃🔞熊猫秒播",
+      "type": 3,
+      "api": "./PY/熊猫秒播.py"
     },
     {
       "key": "py_香蕉APP",
