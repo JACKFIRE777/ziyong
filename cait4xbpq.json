@@ -522,6 +522,20 @@
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKjwpPCncKjwqfDmcOsw57Dn8KbwpRewqbDosOjwqHCpcKaWnvClcKpwqDCrcKawqDDnMKYZWNkwrHDl8Ogw5vCqsKWY8KTYsKxwqbCocKlwppaecKmV8KzwpPCocKuw6BoZGRpw53Dl8Krwq3CrWRjYmHCsMKawqbCmcKhdcKRwp7Cm8OHw5TDsMKgwrRTV+ecpOaTncKgwp/CmsKgw4rClMKiwqPClcOOw6XDpsKgwrRTV8KYwqTDrcOjw63Cs8KpYsKRwqDCoMOvwqTCqMOfw6zCmMKVwpjClMKnw6nDo8OpwqnCncKjwp/CnsKnw6PDosOpwrnCqMKiwpxtwqDCn8KawqDCvsKUwp59wqXDjsOlw6bCoMK0U1fCmMKkw63Do8OtwrPCqWLClMKdXsOvw5zDnsOzwqjClMKjwpnCkcKow5fDp8Okw69ib8KRwpPCtsOXw6fCn8OuwqLCm8KVwp7CtsOEw4PDhcK8dnh6dsOMwr/DkcOPw4B4e8KCVsOuw6XDpsK2wqFfUFfClMOew5bDrMOyw6rCp3vClcKpwqDCrcKawqDDscKowqnCmWbCr8KpwqHDtg=="
     },
     {
+            "key": "NM",
+            "name": "NM｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://nm.xxxc137.top",
+                "dataKey": "a006661b01bdebbd",
+                "dataIv": "a006661b01bdebbd",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+    {
       "key": "鲨鱼",
       "name": "鲨鱼｜APP",
       "type": 3,
@@ -2909,6 +2923,17 @@
       "filterable": 0,
       "quickSearch": 0,
       "ext": ""
+    },
+    {
+      "key": "drpyS_点歌欢唱",
+      "name": "点歌欢唱[B](DS)",
+      "type": 4,
+      "api": "http://drpy.mxlgsl.cn/api/点歌欢唱[B]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "logo": "https://tva1.sinaimg.cn/crop.6.7.378.378.1024/a22d2331jw8f6hs4xrb4kj20ay0ayacy.jpg",
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9rb+LR17ZMd7c/W9jybvUmvpKIEABrNdgcbAAAA"
     },
     {
       "key": "drpyS_抖音直播弹幕[官]",
@@ -5797,6 +5822,8 @@
         "bflianjiehou": "\""
       }
     },
+  { "key": "XBPQ┃77影视", "name": "XBPQ┃77影视", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.sheyit.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$33#电视剧$2#电影$1#动漫$4#综艺$3"}},
+  { "key": "XBPQ┃NM影视", "name": "XBPQ┃NM影视", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+hl-content-text\">&&</span>","分类url":"http://nm.xxxc137.top/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "XBPQ┃布谷TV",
       "name": "XBPQ┃樱布谷TV",
@@ -7522,45 +7549,6 @@
         "分类url": "/type/index{cateId}-{catePg}.html;;mrcd0",
         "分类": "沂宸电影🌠&沂宸剧集🌠&沂宸动漫🌠&沂宸综艺🌠",
         "分类值": "1&2&4&3"
-      }
-    },
-    {
-      "key": "KKYS",
-      "name": "XBPQ┃可可影视┃1920",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "作者": "沂宸",
-        "站名": "可可影视📽️本资源来源于网络🚓侵权请联系删除",
-        "备注": "与毒舌 网飞猫同一站 就主页网址不一样 可可 https://www.keke7.app 毒舌  https://www.dushe7.app 网飞猫 https://www.ncat2.com:51111",
-        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
-        "编码": "UTF-8",
-        "图片代理": "0",
-        "主页url": "https://www.keke7.app",
-        "搜索url": "/search?k={wd}&page={pg}",
-        "数组": "class=\"module-item&&</a>",
-        "链接": "href=\"&&\"",
-        "图片": "https://61.147.93.252:15002/+data-original=\"/&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "沂宸▶️+</span>*<span>&&</span>",
-        "线路数组": "source-item\">&&</a>[不包含:4K#超清]",
-        "线路标题": "📽️沂宸👉+</span>*>&&</span>",
-        "播放数组": "class=\"episode-list&&</div>",
-        "播放标题": "✨沂宸👉+>&&</a>",
-        "简介": "沂宸🎉为您介绍剧情📢本资源来源于网络🚓侵权请联系删除👉+detail-desc\">&&</p>",
-        "导演": "",
-        "主演": "",
-        "首页": "20",
-        "起始页": "1",
-        "直接播放": "0",
-        "嗅探词": ".mp4#.m3u8",
-        "分类url": "/show/{cateId}----{year}-{by}-{catePg}.html;;mrcd0",
-        "分类": "沂宸电影🌠&沂宸剧集🌠&沂宸综艺🌠&沂宸动漫🌠&沂宸短剧🌠",
-        "分类值": "1&2&4&3&6"
       }
     },
     {
@@ -14984,8 +14972,48 @@
         "分类": "短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"
       }
     },
+{ "key": "XBPQ┃可", "name": "XBPQ┃可可影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"小林子为您剧情介绍:+<p>&&</p>","图片":"https://vres.xzzsw.com/vod1/vod/+vod/&&\"","标题":"v-item-title\">&&</div>","副标题":"v-item-bottom\">&&</div>","影片类型":"detail-tags-item\">&&</div>","影片年代":"首映:</div>&&</div>","导演":"导演:</div>&&</div>","主演":"演员:</div>&&</div>","影片状态":"备注:</div>&&</div>","线路数组":"source-item\">&&</a>[不包含:4K(高峰不卡)]","播放数组":"episode-list&&</div>","倒序":"0","分类url":"https://www.keke10.com/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html","分类":"短剧$6#电视剧$2#电影$1#动漫$3#综艺$4"}},
     {
-      "key": "可可影视",
+      "key": "XBPQ┃KKYS",
+      "name": "XBPQ┃可可影视┃1920",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "作者": "沂宸",
+        "站名": "可可影视📽️本资源来源于网络🚓侵权请联系删除",
+        "备注": "与毒舌 网飞猫同一站 就主页网址不一样 可可 https://www.keke7.app 毒舌  https://www.dushe7.app 网飞猫 https://www.ncat2.com:51111",
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "编码": "UTF-8",
+        "图片代理": "0",
+        "主页url": "https://www.keke7.app",
+        "搜索url": "/search?k={wd}&page={pg}",
+        "数组": "class=\"module-item&&</a>",
+        "链接": "href=\"&&\"",
+        "图片": "https://61.147.93.252:15002/+data-original=\"/&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "沂宸▶️+</span>*<span>&&</span>",
+        "线路数组": "source-item\">&&</a>[不包含:4K#超清]",
+        "线路标题": "📽️沂宸👉+</span>*>&&</span>",
+        "播放数组": "class=\"episode-list&&</div>",
+        "播放标题": "✨沂宸👉+>&&</a>",
+        "简介": "沂宸🎉为您介绍剧情📢本资源来源于网络🚓侵权请联系删除👉+detail-desc\">&&</p>",
+        "导演": "",
+        "主演": "",
+        "首页": "20",
+        "起始页": "1",
+        "直接播放": "0",
+        "嗅探词": ".mp4#.m3u8",
+        "分类url": "/show/{cateId}----{year}-{by}-{catePg}.html;;mrcd0",
+        "分类": "沂宸电影🌠&沂宸剧集🌠&沂宸综艺🌠&沂宸动漫🌠&沂宸短剧🌠",
+        "分类值": "1&2&4&3&6"
+      }
+    },
+    {
+      "key": "XBPQ┃可可影视",
       "name": "XBPQ┃可可影视┃1920",
       "type": 3,
       "api": "csp_XBPQ",

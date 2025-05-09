@@ -4,6 +4,18 @@
   "logo": "./img/ICONSGIF.gif",
   "sites": [
     {
+      "key": "csp_nmtv",
+      "name": "🔭nmtv┃App",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "./js/Appapi.js",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "aHR0cDovL25tLnh4eGMxMzcudG9wfGEwMDY2NjFiMDFiZGViYmR8YTAwNjY2MWIwMWJkZWJiZA=="
+    },
+    {
       "key": "csp_酷云",
       "name": "🔭酷云┃App",
       "type": 3,
