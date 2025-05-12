@@ -5822,8 +5822,12 @@
         "bflianjiehou": "\""
       }
     },
-  { "key": "XBPQ┃77影视", "name": "XBPQ┃77影视", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.sheyit.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$33#电视剧$2#电影$1#动漫$4#综艺$3"}},
-  { "key": "XBPQ┃NM影视", "name": "XBPQ┃NM影视", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+hl-content-text\">&&</span>","分类url":"http://nm.xxxc137.top/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3"}},
+{ "key": "偷乐短剧", "name": "偷乐短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+<p>&&</p>","数组":"item\">&&</li>","图片":"src=\"&&\"","线路数组":"swiper-slide&&</div>","分类url":"https://www.toule.top/index.php/vod/show/class/{cateId}/id/1/page/{catePg}.html","分类":"男频$男频#女频$女频#都市$都市#赘婿$赘婿#战神$战神#古代$古代#现代$现代#历史$历史#脑洞$脑洞#玄幻$玄幻#喜剧$喜剧#萌宝$萌宝#神豪$神豪#奇幻脑洞$奇幻脑洞#超能$超能#强者回归$强者回归#甜宠$甜宠#励志$励志#豪门恩怨$豪门恩怨#复仇$复仇#神医$神医#马甲$马甲#亲情$亲情#小人物$小人物#奇幻$奇幻#现实$现实#重生$重生#闪婚$闪婚#职场商战$职场商战#穿越$穿越#年代$年代#权谋$权谋#高手下山$高手下山#悬疑$悬疑#虐恋$虐恋#古装$古装#时空之旅$时空之旅#玄幻仙侠$玄幻仙侠#欢喜冤家$欢喜冤家#传承觉醒$传承觉醒#情感$情感#逆袭$逆袭#家庭$家庭"}},
+{"key": "看片狂人","name": "看片狂人","type": 3,"api": "csp_XBPQ","ext": {"简介":"小林子为您剧情介绍: +fed-padding fed-part-both fed-text-muted\">&&</p>","副标题":"uk-overlay-primary uk-position-bottom\">&&</span>","线路数组": "fed-btns-info fed-rims-info fed-part-eone&&</a>","线路标题":"data-linename=\"&&\"[不包含:VIP解析]","播放列表": "fed-padding fed-col-xs3 fed-col-md2 fed-col-lg1\">&&</li>","播放标题": "title=\"在线观看《*》&&\">","分类url": "https://kpkuang.one/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}--.html","分类": "短剧$37#国产剧$13#电视剧$2#电影$1#动漫$4#综艺$3"}},  
+{"key":"4Kdy","name":"4K电影网","type": 3,"api": "csp_XBPQ","ext": {"简介":"sketch content\">&&</p>","线路数组": "class=\"myui-panelhead active clearfix&&</div>[不包含:115]","线路标题": "class=\"title\">&&<","播放数组": "class=\"myui-downlist&&</ul>","播放列表": "<a&&</a>[不包含:复制地址]","播放链接": "href=\"&&\"","分类url": "https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc","分类": "电影&剧集&动漫","分类值": "1&2&3"}},
+{ "key": "奇库影视", "name": "奇库影视", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+详情介绍_&&</title>","分类url":"https://1tmr7o8xxseu.top/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},         
+{ "key": "XBPQ┃77影视", "name": "XBPQ┃77影视", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.sheyit.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$33#电视剧$2#电影$1#动漫$4#综艺$3"}},
+{ "key": "XBPQ┃NM影视", "name": "XBPQ┃NM影视", "type":3,"api":"csp_XBPQ", "ext": {"简介":"小林子为您剧情介绍:+hl-content-text\">&&</span>","分类url":"http://nm.xxxc137.top/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "XBPQ┃布谷TV",
       "name": "XBPQ┃樱布谷TV",
@@ -36676,6 +36680,11 @@
       "name": "夜幕",
       "type": 0,
       "url": ""
+    },
+    {
+      "name": "4K",
+      "type": 1,
+      "url": "http://xi.zhangbokeji.top"
     },
     {
       "name": "柒豪4K",
