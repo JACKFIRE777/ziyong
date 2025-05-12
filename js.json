@@ -2179,13 +2179,6 @@
       "ext": "./js/Anime1.js"
     },
     {
-      "key": "drpy_js_Anime1动畫",
-      "name": "Anime1动畫┃JS",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/Anime1动畫.js"
-    },
-    {
       "key": "drpy_js_异世界",
       "name": "异世界┃JS",
       "type": 3,
@@ -2393,17 +2386,6 @@
       "ext": "./js/包子漫画[画].js"
     },
     {
-      "key": "hipy_js_第一韩漫[画]",
-      "name": "第一韩漫[画]┃JS",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/第一韩漫[画].js"
-    },
-    {
       "key": "hipy_js_古风漫画[画]",
       "name": "古风漫画[画]┃JS",
       "type": 3,
@@ -2446,6 +2428,17 @@
       "filterable": 1,
       "order_num": 174,
       "ext": "./js/第一韩漫-z.js"
+    },
+    {
+      "key": "hipy_js_第一韩漫[画]",
+      "name": "第一韩漫[画]┃JS",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/第一韩漫[画].js"
     },
     {
       "key": "hipy_js_古风漫画",
@@ -2938,28 +2931,6 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/玩偶姐姐.js"
-    },
-    {
-      "key": "hipy_js_爱爱影院[密]",
-      "name": "🔞爱爱影院[密]┃JS",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 144,
-      "ext": "./js/爱爱影院[密].js"
-    },
-    {
-      "key": "hipy_js_乐草TV[密]",
-      "name": "🔞乐草TV[密]┃JS",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 43,
-      "ext": "./js/乐草TV[密].js"
     },
     {
       "key": "hipy_js_小幺妹[密]",
