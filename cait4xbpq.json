@@ -4,24 +4,6 @@
   "logo": "./img/ICONSGIF.gif",
   "sites": [
     {
-      "key": "采集之王",
-      "name": "🐉采集合集",
-      "type": 1,
-      "api": "http://zhangqun1818.serv00.net:5053",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
-    {
-      "key": "豆瓣采集",
-      "name": "采集┃豆瓣",
-      "type": 1,
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod/"
-    },
-    {
       "key": "豆瓣",
       "name": "豆瓣｜首页",
       "type": 3,
@@ -520,21 +502,34 @@
       "filterable": 0,
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKjwpPCncKjwqfDmcOsw57Dn8KbwpRewqbDosOjwqHCpcKaWnvClcKpwqDCrcKawqDDnMKYZWNkwrHDl8Ogw5vCqsKWY8KTYsKxwqbCocKlwppaecKmV8KzwpPCocKuw6BoZGRpw53Dl8Krwq3CrWRjYmHCsMKawqbCmcKhdcKRwp7Cm8OHw5TDsMKgwrRTV+ecpOaTncKgwp/CmsKgw4rClMKiwqPClcOOw6XDpsKgwrRTV8KYwqTDrcOjw63Cs8KpYsKRwqDCoMOvwqTCqMOfw6zCmMKVwpjClMKnw6nDo8OpwqnCncKjwp/CnsKnw6PDosOpwrnCqMKiwpxtwqDCn8KawqDCvsKUwp59wqXDjsOlw6bCoMK0U1fCmMKkw63Do8OtwrPCqWLClMKdXsOvw5zDnsOzwqjClMKjwpnCkcKow5fDp8Okw69ib8KRwpPCtsOXw6fCn8OuwqLCm8KVwp7CtsOEw4PDhcK8dnh6dsOMwr/DkcOPw4B4e8KCVsOuw6XDpsK2wqFfUFfClMOew5bDrMOyw6rCp3vClcKpwqDCrcKawqDDscKowqnCmWbCr8KpwqHDtg=="
     },
-{
-            "key": "小红影视",
-            "name": "小红影视｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-              "ext": {
-  "url": "https://www.xiaohys.com",
-  "dataKey": "ENonBHeVBoYZhVUV",
-  "dataIv": "ENonBHeVBoYZhVUV",
-  "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-  "version": "166"
-}
-           
-        },
+    {
+      "key": "小红影视",
+      "name": "小红影视｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.xiaohys.com",
+        "dataKey": "ENonBHeVBoYZhVUV",
+        "dataIv": "ENonBHeVBoYZhVUV",
+        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+        "version": "166"
+      }
+    },
+    {
+      "key": "集多",
+      "name": "集多｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://220.231.146.94:6261",
+        "dataKey": "hL7xN4P9rS2vK5Mq",
+        "dataIv": "hL7xN4P9rS2vK5Mq",
+        "deviceId": "",
+        "version": "200"
+      }
+    },
     {
       "key": "牛马",
       "name": "牛马｜APP",
@@ -598,7 +593,7 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "http://172.247.44.217:30011",
+        "url": "http://172.247.44.217:30012",
         "dataKey": "JLa1oRdL6+eK7@M)",
         "dataIv": "JLa1oRdL6+eK7@M)",
         "deviceId": "",
@@ -689,20 +684,20 @@
         "version": "442"
       }
     },
-{
-            "key": "米兔1",
-            "name": "米兔1｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://v.tkbot.fun",
-                "dataKey": "d032c12876bc6848",
-                "dataIv": "d032c12876bc6848",
-                "deviceId": "",
-                "version": "200"
-            }
-        },
+    {
+      "key": "米兔1",
+      "name": "米兔1｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://v.tkbot.fun",
+        "dataKey": "d032c12876bc6848",
+        "dataIv": "d032c12876bc6848",
+        "deviceId": "",
+        "version": "200"
+      }
+    },
     {
       "key": "光速",
       "name": "光速｜APP",
@@ -724,11 +719,11 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "https://svip1.fun",
-        "dataKey": "laodiesdawsswasd",
-        "dataIv": "laodiesdawsswasd",
+        "url": "https://www.xiaohys.com",
+        "dataKey": "ENonBHeVBoYZhVUV",
+        "dataIv": "ENonBHeVBoYZhVUV",
         "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "105"
+        "version": "166"
       }
     },
     {
@@ -917,7 +912,7 @@
         "url": "http://110.42.107.216:56677",
         "dataKey": "d7378557d1d9c924",
         "dataIv": "fb4594f622f34fea",
-        "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789/json.php?url="
+        "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
       }
     },
     {
@@ -1019,7 +1014,7 @@
       },
       "ext": {
         "type": "AI绘世#DeepSeek#豆包#‌ChatGPT#Kimi#腾讯元宝#秘塔AI#睡前故事#儿童#小灯塔百科#小灯塔地理#小灯塔国学#小灯塔科学#小灯塔人文#儿童口才#儿童拼音#儿童英语#儿童思维#儿童识字#小灯塔百科#彩调#京剧#少儿教育#美女#小姐姐#小学课堂#初中课堂#高中课堂#搭讪#搭配#外语#MTV#美食#幼儿乐园#幼儿启蒙#幼小衔接#中华命理#中华文化#中华文化#中华武术#中华医学#歌舞#短剧#猫影视#tvbox#吞噬星空#全民转职#全民觉醒#全球进化#SSS级天赋#汪汪队#动画片#声律启蒙#鬼畜#沙雕动漫#动漫#日本动漫#动漫合集#动漫合辑#电影#电视剧#软件教程#Windows#解说合集#鬼畜#解说#演讲#说案#戏曲#相声#小品#国产动漫#演唱会#科幻片#知名UP主#广场舞#纪录片#综艺#音乐#歌曲#影视#户外#MV#4K#8K",
-        "cookie": "i-wanna-go-back=-1; buvid_fp_plain=undefined; DedeUserID=478180530; DedeUserID__ckMd5=5a17664f2928ee52; CURRENT_PID=c4058970-cd48-11ed-aced-73b3be32a7d1; FEED_LIVE_VERSION=V8; LIVE_BUVID=AUTO2416818085516679; hit-new-style-dyn=1; buvid3=8844974D-7607-AB71-D7CB-D6E2348D76F386916infoc; b_nut=1691283886; _uuid=6F312895-AC8B-C29C-BA57-414B10CA1DE8362943infoc; b_ut=5; buvid4=DB73880F-3A34-BBA2-378A-2E4A2AF5DE1A57570-022080609-cABoSJjJ1wOrHk0uSjaqIN6xh09U8%2F1PixLX7T8Ps8WYIbYWdgNygA%3D%3D; enable_web_push=DISABLE; header_theme_version=CLOSE; is-2022-channel=1; CURRENT_QUALITY=80; rpdid=0zbfvRWVXD|14p7j3lyk|2N|3w1RhEJN; fingerprint=4345b53c4198e545925156bacc2a6551; buvid_fp=4345b53c4198e545925156bacc2a6551; CURRENT_FNVAL=4048; PVID=2; SESSDATA=482eb259%2C1726126475%2Cdede1%2A31CjCd2urT2b_iWY19GhWIcBH8RzjNoIPT-mrZK7vUuw4tTPjaUV9sMl3I2h3Q7HXIEQMSVmtYMlpQM2padHlwX2dxZzAzeEpGUzY3V2VSSFh0cTZsYjFwbFFmRVo5ZHVsdFlQNXhnY2t6TWphQjQyZEFkVWNWX1RDd2VsM2lMZ2ZHMklqc2JBaENnIIEC; bili_jct=5274f857b71ea036cb1c018bd25b9e19; b_lsid=B9CE10CA9_18E4A14E74E; bp_video_offset_478180530=909660681607839745; home_feed_column=5; browser_resolution=1872-932; sid=4umjjnj6; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTA4OTkyNzQsImlhdCI6MTcxMDY0MDAxNCwicGx0IjotMX0.q5af7Y2NPG7Oq4JedXOjJxtfxPD9cmV7lTcmE6PyimQ; bili_ticket_expires=1710899214; buvid_fp=94a4e8bd362a778053e35b54ef57f288; SESSDATA=bb88cd4e%2C1728486293%2C46d70%2A41CjCW64w0Sz3"
+        "cookie": "_uuid=5E4B2B98-1014A-84D8-FA33-EC210C5BEC10DA82367infoc; buvid3=E9D0A426-85E9-E6C7-C75E-206A3E1BEB4D81910infoc; b_nut=1666168082; buvid4=4FC87B9C-3540-2275-688C-8612D3EA719B81910-022101916-ZLe640jXRAMHySuaCe9aUw==; rpdid=|(k|u)YYm)uY0J'uYYYuY)uuu; i-wanna-go-back=-1; fingerprint=9c214a6da0197a48e576ccf22e9f0ac7; buvid_fp_plain=undefined; nostalgia_conf=-1; DedeUserID=3493076028885079; DedeUserID__ckMd5=60a8757a1f4d6ae9; buvid_fp=9c214a6da0197a48e576ccf22e9f0ac7; CURRENT_QUALITY=80; b_ut=5; PVID=2; bp_video_offset_3493076028885079=undefined; bsource=search_google; SESSDATA=42b8ada6,1683277266,4bd05*b2; bili_jct=2dbe39aea02b41324395630a24d4775f; sid=89gnel66; innersign=0; b_lsid=9EF63922_1844D55A286; CURRENT_FNVAL=4048"
       }
     },
     {
@@ -1449,17 +1444,17 @@
       "changeable": 1,
       "ext": "./json/xf.json"
     },
-        {
-            "key": "奥秘",
-            "name": "奥秘｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/am.json"
-        },
+    {
+      "key": "奥秘",
+      "name": "奥秘｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./json/am.json"
+    },
     {
       "key": "团长",
       "name": "团长｜4K弹幕",
@@ -1675,16 +1670,16 @@
       "changeable": 0,
       "ext": "https://9877.kstore.space/Market/market.json"
     },
-        {
-            "key": "版本信息",
-            "name": "版本｜信息",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://9877.kstore.space/Market/single.json"
-        },
+    {
+      "key": "版本信息",
+      "name": "版本｜信息",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "https://9877.kstore.space/Market/single.json"
+    },
     {
       "key": "小虎斑检查更新",
       "name": "小虎斑｜更新",
@@ -3644,6 +3639,24 @@
       "filterable": 0,
       "quickSearch": 0,
       "ext": ""
+    },
+    {
+      "key": "采集之王",
+      "name": "🐉采集合集",
+      "type": 1,
+      "api": "http://zhangqun1818.serv00.net:5053",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "豆瓣采集",
+      "name": "采集┃豆瓣",
+      "type": 1,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/"
     },
     {
       "key": "采集┃xml_茅台资源",
@@ -8775,20 +8788,6 @@
       }
     },
     {
-      "key": "XBPQ_libvio",
-      "name": "XBPQ┃立播┃1920",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
-        "分类url": "https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;k",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-    {
       "key": "XBPQ_kimivod",
       "name": "XBPQ┃KimiVod┃1920",
       "type": 3,
@@ -10038,6 +10037,20 @@
       }
     },
     {
+      "key": "XBPQ_libvio",
+      "name": "XBPQ┃立播┃1920",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
+        "分类url": "https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;k",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
       "key": "csp_xb_lib",
       "name": "XBPQ┃Libvio┃1920",
       "type": 3,
@@ -10045,6 +10058,16 @@
       "ext": {
         "分类url": "https://www.libvio.me/type/{cateId}-{catePg}.html",
         "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16"
+      }
+    },
+    {
+      "key": "Libvio",
+      "name": "XBPQ┃Libvio",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://libvio.link/show/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
       }
     },
     {
@@ -11611,16 +11634,6 @@
         "倒序": 1,
         "播放数组": "迅雷下载</div>&&</div>",
         "播放列表": "<a&&</a >"
-      }
-    },
-    {
-      "key": "Libvio",
-      "name": "XBPQ┃Libvio",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://libvio.link/show/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
       }
     },
     {
@@ -17642,6 +17655,75 @@
         "Anal_MacPlayer": "0",
         "ManualSniffer": "0",
         "VideoFormat": ".mp4#.m3u8#.flv#item/video#is_play_url=1"
+      }
+    },
+    {
+      "key": "csp_XYQHiker_Vidhub视频库",
+      "name": "Vidhub视频库",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "title": "Vidhub视频库",
+        "author": "香雅情",
+        "Headers": "PC_UA",
+        "PicNeedProxy": "0",
+        "homeContent": "1",
+        "rcmed_url": "https://vidhub.tv",
+        "home_arr_rule": "body&&.module-items",
+        "hmepi_arr_rule": ".module-item:not(:contains(伦理片))",
+        "home_is_jsoup": "1",
+        "firstpage": "1",
+        "class_url": "https://vidhub.tv/vodshow/{cateId}--------{catePg}---.html",
+        "class_name": "电影&电视剧&动漫&综艺",
+        "class_value": "1&2&4&3",
+        "filterdata": {},
+        "cat_mode": "1",
+        "cat_arr_rule": ".module-items&&.module-item:not(:contains(伦理片))",
+        "cat_is_jsoup": "1",
+        "cat_title": "a&&title",
+        "cat_url": "a&&href",
+        "cat_pic": ".lazyloaded&&data-src",
+        "cat_subtitle": ".module-item-text&&Text",
+        "cat_prefix": "https://vidhub.tv",
+        "cat_suffix": "",
+        "SHeaders": "User-Agent$PC_UA",
+        "search_url": "https://vidhub.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+        "sea_PtBody": "wd={wd}&search=",
+        "search_mode": "0",
+        "sea_arr_rule": "list",
+        "sea_is_jsoup": "1",
+        "sea_pic": "pic",
+        "sea_title": "name",
+        "sea_url": "id",
+        "sea_subtitle": "",
+        "search_prefix": "https://vidhub.tv/voddetail/",
+        "search_suffix": ".html",
+        "force_play": "0",
+        "play_prefix": "https://live.52sf.ga/huya/",
+        "play_suffix": "#isVideo=true#",
+        "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
+        "proj_is_jsoup": "1",
+        "proj_cate": ".video-info&&.video-info-aux&&Text",
+        "proj_year": ".video-info&&.video-info-items,2&&Text",
+        "proj_area": "",
+        "proj_actor": ".video-info&&.video-info-items,1&&Text",
+        "proj_plot": ".video-info&&.video-info-content&&Text",
+        "tab_arr_rule": ".module-tab-items&&.module-tab-item",
+        "tab_title": "Text",
+        "list_arr_rule": "body&&.module-player-list",
+        "epi_arr_rule": ".scroll-content&&a",
+        "epi_title": "Text",
+        "epi_url": "href",
+        "epi_reverse": "0",
+        "epiurl_prefix": "https://vidhub.tv",
+        "epiurl_suffix": "",
+        "Anal_MacPlayer": "0",
+        "ManualSniffer": "1",
+        "VideoFormat": ".mp4#.m3u8#.flv#player/m3u8",
+        "VideoFilter": ".html#=http"
       }
     },
     {
@@ -37509,7 +37591,7 @@
           "tnmb",
           "seven",
           "bilibili",
-          "1905", 
+          "1905",
           "hgvip"
         ],
         "header": {
