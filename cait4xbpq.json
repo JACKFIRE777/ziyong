@@ -11516,32 +11516,24 @@
         "分类": "短剧$74#电视剧$62#电影$54#动漫$52#综艺$69"
       }
     },
-    {
-      "key": "秀儿影视",
-      "name": "XBPQ┃秀儿影视",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "style=\"display: none;\">&&</p>",
-        "搜索url": "https://www.xiuer.pro/vod/search/?wd={wd}",
-        "搜索数组": "video-info&&loading",
-        "图片": "src=\"&&\"",
-        "数组": "module-item-titlebox&&<script>",
-        "标题": "title=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": ">&&</a>",
-        "线路数组": "tab-item\"&&</div>",
-        "线路标题": "<span>&&</small>[替换:</span><small>>>✮更新]",
-        "播放数组": "<div class=\"scroll-content\">&&</div>",
-        "播放标题": "<span>&&</span>",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju#纪录片$jilupian",
-        "分类url": "https://xiuer.pro/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
-      }
-    },
+{
+  "key": "秀儿影院",
+  "name": "秀儿影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+    "请求头": "手机",
+    "简介": "小林子为您剧情介绍:+tt\" style=*>&&</div>",
+    "数组": "<a&&module-item-pic",
+    "副标题": "module-item-text\">&&</div>",
+    "影片状态": "集数：&&</div>",
+    "线路数组": "data-dropdown-value=&&</small>",
+    "播放数组": "sort-item-&&</div>",
+    "搜索url": "https://xiuer.pro/vod/search/?wd={wd}",
+    "分类url": "https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
+    "分类": "短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
+  }
+},
     {
       "key": "天龙高清",
       "name": "XBPQ┃天龙┃1920",
@@ -38815,6 +38807,33 @@
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     },
+    {
+      "name": "diyp在线优",
+      "type": 0,
+      "url": "http://iptv.diyp.site/diyp.php",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "diyp在线",
+      "type": 0,
+      "url": "http://go8.myartsonline.com/zx/2/DIYP.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+{
+  "name": "「体育」订阅",
+  "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+  "ua": "judy/5.2.1"
+},
+{
+  "name": "看球",
+  "type": 0,
+  "url": "http://php.cqshushu.ggff.net/515001.php?公众号【医工学习日志】",
+  "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+  "timeout": 10
+},
+
     {
       "name": "直播一线",
       "type": "0",

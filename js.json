@@ -653,6 +653,28 @@
       "ext": "./js/天天影视.js"
     },
     {
+      "key": "hipy_js_A懒盘",
+      "name": "A懒盘┃JS",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/A懒盘.js"
+    },
+    {
+      "key": "hipy_js_旺旺",
+      "name": "旺旺┃JS",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/旺旺.js"
+    },
+    {
       "key": "hipy_js_旺旺影视",
       "name": "旺旺影视┃JS",
       "type": 3,
