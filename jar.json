@@ -1051,7 +1051,7 @@
       "name": "单┃天天┃App",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./jar/QM.jar",
+      "jar": "./jar/QJ.jar",
       "playerType": 1,
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
@@ -1060,7 +1060,7 @@
       "name": "单┃热播┃App",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./jar/QM.jar",
+      "jar": "./jar/QJ.jar",
       "playerType": 1,
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
@@ -1069,7 +1069,7 @@
       "name": "单┃追剧┃App",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./jar/QM.jar",
+      "jar": "./jar/QJ.jar",
       "playerType": 1,
       "ext": "daHR0cDovL3YubGt1eXMuY24="
     },
@@ -1078,7 +1078,7 @@
       "name": "单┃优质┃App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./jar/QM.jar",
+      "jar": "./jar/QJ.jar",
       "playerType": 1,
       "ext": "jaHR0cHM6Ly9sYnlzYXBpZHR5bWd4LjY4Lmd5OjE2Nzg5L2xieXNhcGlkdHltL2FwcC50eHR8YXBpYXBwbGJ5c2tleTE2OHxhcGlhcHBsYnlza2V5MTY4fDEwNw=="
     },
@@ -1087,7 +1087,7 @@
       "name": "单┃木叶┃App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./jar/QM.jar",
+      "jar": "./jar/QJ.jar",
       "playerType": 1,
       "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc="
     },
@@ -1177,7 +1177,7 @@
       "name": "单┃蝴蝶┃App",
       "type": 3,
       "api": "csp_Hudie",
-      "jar": "./jar/QM.jar",
+      "jar": "./jar/QJ.jar",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
