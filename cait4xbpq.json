@@ -1689,6 +1689,16 @@
       "changeable": 0,
       "ext": "https://8924.kstore.space/huban/mark.json"
     },
+{
+"key":"本地更新",
+"name":"📂神州更新",
+"type":3,
+"api":"csp_Market",
+"searchable":0,
+"changeable":0,
+"indexs":0,
+"ext":"https://6758.kstore.space/6758.txt"
+},
     {
       "key": "失眠┃Market",
       "name": "失眠┃商店",
@@ -2746,16 +2756,6 @@
       }
     },
     {
-      "key": "py_UpFuHn",
-      "name": "T4┃Hi视频(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=UpFuHn",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
       "key": "py_OleVod",
       "name": "T4┃欧乐影院(T4)",
       "type": 4,
@@ -2776,16 +2776,6 @@
       "changeable": 0
     },
     {
-      "key": "py_BaHaoTV",
-      "name": "T4┃八号影院(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=BaHaoTV",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
       "key": "drpyS_星芽短剧",
       "name": "星芽短剧(DS)",
       "type": 4,
@@ -2794,16 +2784,6 @@
       "filterable": 1,
       "quickSearch": 1,
       "ext": ""
-    },
-    {
-      "key": "drpyS_16wMV[听]",
-      "name": "16wMV[听](DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/16wMV[听]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9rb+LR17ZMd7c/W9jybvUmvpKIEABrNdgcbAAAA"
     },
     {
       "key": "drpyS_哔哩大全[官]",
@@ -2906,17 +2886,6 @@
       "ext": ""
     },
     {
-      "key": "drpyS_点歌欢唱",
-      "name": "点歌欢唱[B](DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/点歌欢唱[B]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "logo": "https://tva1.sinaimg.cn/crop.6.7.378.378.1024/a22d2331jw8f6hs4xrb4kj20ay0ayacy.jpg",
-      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9rb+LR17ZMd7c/W9jybvUmvpKIEABrNdgcbAAAA"
-    },
-    {
       "key": "drpyS_抖音直播弹幕[官]",
       "name": "抖音直播弹幕[官](DS)",
       "type": 4,
@@ -2953,16 +2922,6 @@
       "api": "http://drpy.mxlgsl.cn/api/凡客TV",
       "searchable": 2,
       "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_光速[优]",
-      "name": "光速[优](DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/光速[优]",
-      "searchable": 1,
-      "filterable": 1,
       "quickSearch": 0,
       "ext": ""
     },
@@ -3065,16 +3024,6 @@
       "filterable": 1,
       "quickSearch": 0,
       "ext": "H4sIAAAAAAAAA9PT088qzs/Tz8ksSzVKzi3WA/EAuuBHLxUAAAA="
-    },
-    {
-      "key": "drpyS_专享影视",
-      "name": "专享影视(DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/专享影视",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
     },
     {
       "key": "drpyS_hdmoli[盘]",
@@ -38963,6 +38912,15 @@
       "name": "猫TV直播（优）",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 1,
+      "timeout": 10
+    },
+    {
+      "name": "D佬优）",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 1,

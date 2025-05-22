@@ -564,6 +564,13 @@
     "name": "配置整理",
     "list": [
       {
+        "name": "整理cait4xbpq",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/img/7.png",
+        "version": "box线路",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/img/7.png",
+        "copy": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/cait4xbpq.json"
+      },
+      {
         "name": "整理XBPQ",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/img/ICONSGIF.gif",
         "version": "box线路",
@@ -571,11 +578,11 @@
         "copy": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/XBPQ.json"
       },
       {
-        "name": "整理pgpyjs",
+        "name": "整理js",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/img/logo500x200.png",
         "version": "box线路",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/img/logo500x200.png",
-        "copy": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/pgpyjs.json"
+        "copy": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/js.json"
       },
       {
         "name": "整理jar",
@@ -583,6 +590,13 @@
         "version": "box线路",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/img/logo500x200-1.png",
         "copy": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/jar.json"
+      },
+      {
+        "name": "整理py",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/img/5.bmp",
+        "version": "box线路",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/img/5.bmp",
+        "copy": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wen9180/ziyong/refs/heads/main/py.json"
       },
       {
         "name": "雷蒙影视主线",
