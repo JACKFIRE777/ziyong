@@ -2853,20 +2853,6 @@
       "ext": "1,2,3,4,5,6"
     },
     {
-      "key": "php_madou",
-      "name": "T4┃土豆(T4_PHP)",
-      "type": 4,
-      "api": "https://t4.doube.eu.org/madou.php",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "py_OleVod",
       "name": "T4┃欧乐影院(T4)",
       "type": 4,
@@ -3566,6 +3552,20 @@
       "type": 4,
       "api": "https://catbox.n13.club/t9/360.php"
     },
+    {
+      "key": "php_麻豆",
+      "name": "麻豆(T4)",
+      "type": 4,
+      "api": "https://json.doube.eu.org/madou.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    }, 
     {
       "key": "采集┃小慧影视",
       "name": "采集┃小慧｜影视",
