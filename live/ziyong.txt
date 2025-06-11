@@ -9,6 +9,7 @@
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 横州,http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
 贺州综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+观网直播间,https://live4.guancha.cn/live/GuanLive4_1080p.m3u8?txSecret=578b1bb520b68a15c962f704a179893f&txTime=CEE6F4A0
 央视网抖直播,http://113.45.240.129:35455/douyin/870887192950
 央影网抖直播,http://113.45.240.129:35455/douyin/208823316033
 新华社抖直播,http://113.45.240.129:35455/douyin/403447259997
@@ -401,7 +402,32 @@ NBA经典,http://api.mytv666.top/api/migu.php?id=NBA经典&type=1&auth_key=13ccc
 体坛名栏汇,http://api.mytv666.top/api/migu.php?id=体坛名栏汇&type=1&auth_key=13ccc53b4bfd1ed26ba8145c81b4cbffb3b3a23af1eced20535f50c5cda99661&t=1745889386&session=9e2569ca48d507ff1ddf169259bcfc73
 咪咕24小时体育台,http://api.mytv666.top/api/migu.php?id=咪咕24小时体育台&type=1&auth_key=13ccc53b4bfd1ed26ba8145c81b4cbffb3b3a23af1eced20535f50c5cda99661&t=1745889386&session=9e2569ca48d507ff1ddf169259bcfc73
 游戏风云,http://api.mytv666.top/api/migu.php?id=游戏风云&type=1&auth_key=13ccc53b4bfd1ed26ba8145c81b4cbffb3b3a23af1eced20535f50c5cda99661&t=1745889386&session=9e2569ca48d507ff1ddf169259bcfc73
-
+HK经典频道,#genre#
+鳳凰衛視中文台,http://jxiptv.dpdns.org/stream/tvb/null/master.m3u8
+鳳凰衛視資訊台,http://jxiptv.dpdns.org/stream/tvb/null-1/master.m3u8
+鳳凰衛視香港台,http://jxiptv.dpdns.org/stream/tvb/null-2/master.m3u8
+翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-3/master.m3u8
+明珠台,http://jxiptv.dpdns.org/stream/tvb/null-4/master.m3u8
+無線新聞台,http://jxiptv.dpdns.org/stream/tvb/null-5/master.m3u8
+娛樂新聞台,http://jxiptv.dpdns.org/stream/tvb/null-6/master.m3u8
+黃金翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-7/master.m3u8
+美亞電影台,http://jxiptv.dpdns.org/stream/tvb/null-8/master.m3u8
+PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
+TVB Plus,http://jxiptv.dpdns.org/stream/tvb/tvbplus/master.m3u8
+ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
+Love Nature,http://jxiptv.dpdns.org/stream/tvb/lovenature/master.m3u8
+myTV SUPER FREE,http://jxiptv.dpdns.org/stream/tvb/mytvsuperfree/master.m3u8
+SUPER Kids Channel,http://jxiptv.dpdns.org/stream/tvb/superkidschannel/master.m3u8
+粵語片台,http://jxiptv.dpdns.org/stream/tvb/null-9/master.m3u8
+創世電視,http://jxiptv.dpdns.org/stream/tvb/null-10/master.m3u8
+天映經典頻道,http://jxiptv.dpdns.org/stream/tvb/null-11/master.m3u8
+東方衛視國際頻道,http://jxiptv.dpdns.org/stream/tvb/null-12/master.m3u8
+中央電視台綜合頻道 (港澳版),http://jxiptv.dpdns.org/stream/tvb/null-13/master.m3u8
+香港31台,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+香港33台,http://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+香港34台,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+香港35台,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 央,#genre#
 女团,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 CCTV16, http://39.170.52.236:808/hls/16/index.m3u8

@@ -12,6 +12,13 @@
   ],
   "sites": [
     {
+      "key": "drpy_js_豆瓣",
+      "name": "导航|小虎斑的口粮",
+      "type": 3,
+      "api": "csp_Douban",
+      "ext": "./lib/douban.json"
+    },
+    {
       "key": "提醒",
       "api": "csp_Douban2",
       "name": "仅用作学习交流使用，请于24小时之内进行清除",
@@ -66,16 +73,6 @@
         "cookie": "",
         "uccookie": "",
         "site": "http://666.666291.xyz/"
-      }
-    },
-    {
-      "key": "百家",
-      "name": "百家|虎斑",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Mogg",
-      "ext": {
-        "site": "http://cj.jiexi.news/"
       }
     },
     {
@@ -135,39 +132,46 @@
       "ext": "https://zy.xiaomaomi.cc/api.php/provide/vod/"
     },
     {
-      "key": "tenteng",
-      "name": "落日|自定",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/腾腾.js"
-    },
-    {
-      "key": "youyou",
-      "name": "日出|自定",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/优优.js"
-    },
-    {
-      "key": "qiqi",
-      "name": "晚霞|自定",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/奇奇.js"
-    },
-    {
-      "key": "mangmang",
-      "name": "朝阳|自定",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/茫茫.js"
-    },
-    {
       "key": "馆源",
       "name": "馆源|自定",
       "type": 3,
-      "api": "csp_HB360",
-      "ext": "DyoqWQIrBwMuGydIIwtMES4rMQAsNQ1EIwgpXy8VMQIvIldACyFNHgAnKVoGOSRCPjE1AyhdAEUGKS8HIhtAESw7OQAsCzdEIDYtHCwFD0MsNTsEIlA+HgA8UQUADDxdCyZBHjg3Ig84OSB7NCZIECwsMh0BKSxBNCZIESwrKQIvIjQDDzUqBQNePgwAJV5bJxs2BgUnOgItCFZHIzY9WS0FMUcuCzsAIggxXS4FPUQtMldZDSUTHwA4XR44OQkeDSU+EAJdPg8xNj8IIwg1BDg3KgIDNj8IIzY5HiwrKRgGDAJaNDVBPwICH0w="
+      "api": "csp_HB360"
+      //"ext": "DyoqWQIrBwMuGydIIwtMES4rMQAsNQ1EIwgpXy8VMQIvIldACyFNHgAnKVoGOSRCPjE1AyhdAEUGKS8HIhtAESw7OQAsCzdEIDYtHCwFD0MsNTsEIlA+HgA8UQUADDxdCyZBHjg3Ig84OSB7NCZIECwsMh0BKSxBNCZIESwrKQIvIjQDDzUqBQNePgwAJV5bJxs2BgUnOgItCFZHIzY9WS0FMUcuCzsAIggxXS4FPUQtMldZDSUTHwA4XR44OQkeDSU+EAJdPg8xNj8IIwg1BDg3KgIDNj8IIzY5HiwrKRgGDAJaNDVBPwICH0w="
+    },
+    {
+      "key": "坛影",
+      "name": "坛影|弹幕",
+      "type": 3,
+      "api": "csp_ApplvDV2",
+      "ext": "0###DyoqWQIrBwMuUyBFDRtNGgQ4DB4HOQVEN1BMHzg3KgUuDyxeDSFBAQInKQM="
+    },    
+{
+      "key": "XBPQH1B",
+      "name": "可可|弹幕",
+      "type": 3,
+      "api": "csp_HBPQ",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/KKYS.json"
+    },
+    {
+      "key": "234XBPQ",
+      "name": "234|弹幕",
+      "type": 3,
+      "api": "csp_HBPQ",
+      "ext": {"首页":"0","数组":"class=\"stui-vodlist__thumb&&</h4>","图片":"original=\"&&\"","标题":"title=\"&&\"","副标题":"text-right\">&&</span>","链接":"href=\"&&\"","免嗅":"1","播放数组":"<ul class=\"stui-content__playlist&&</ul>","播放列表":"<li&&</li>","分类url":"https://ikan234.com/list/{cateId}-{catePg}.html","分类":"电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"}
+    },
+    {
+      "key": "叶子",
+      "name": "叶子|弹幕",
+      "type": 3,
+      "api": "csp_HBgetapp",
+      "ext": "eyJob3N0IjoiaHR0cHM6Ly9sa3Zsb2cuY24vIiwia2V5IjoiWlRZMU1UUTBNemc1WlRrek5qRmlOUT09IiwiaXYiOiJaVFkxTVRRME16ZzVaVGt6TmpGaU5RPT0ifQ=="
+    },
+    {
+      "key": "miaoying",
+      "name": "秒映|弹幕",
+      "type": 3,
+      "api": "csp_HBgetappapi",
+      "ext": "eyJob3N0IjoiaHR0cDovLzEyMS4yMDQuMjUxLjcwOjEyMDAwLyIsImtleSI6IlJqVXhSalZFTlRKRU1qTkROVEU0TVE9PSIsIml2IjoiUmpVeFJqVkVOVEpFTWpORE5URTRNUT09IiwidG9rZW4iOiIwOTgxYzBmNTUwYjg3MzdkYTkyZDUwNWNiYjZlOTM4MzM0ZTBiNDZjMDc0NGQ1Mzk5OWU4NDQ2ZDg3ZjdjNzQ5In0="
     },
     {
       "key": "风神",
@@ -211,6 +215,27 @@
       "ext": "DyoqWQInJUMuGFdZDwwuXwA8XUUAUi9HJxs1AwAnOkUBKSMHIhtBXQABPkMDMlsBDFE5HygWJR9XEANoWwNKOCgWJR8sIlpIIgg5AygWJUc7NT8FIw89WiwoIUEvJjhdNA81XCgWJR87GwUEIDYfEC8CLQ84NQkDNA8uAjsuVUg="
     },
     {
+      "key": "永夜",
+      "name": "永夜|弹幕",
+      "type": 3,
+      "api": "csp_HBmoou",
+      "ext": "DyoqWQIrBwMuUyhGDSFNHDs3BEAAMltbDAtAVA=="
+    },
+    {
+      "key": "趣看",
+      "name": "趣看|弹幕",
+      "type": 3,
+      "api": "csp_HBmoou",
+      "ext": "DyoqWQInJUMuGFcCClEbHAI3Pg0GNhpZDAtNAzgWUEg="
+    },
+    {
+      "key": "柚子",
+      "name": "柚子|弹幕",
+      "type": 3,
+      "api": "csp_HBmoou",
+      "ext": "DyoqWQIrBwMuGysCIwtMEC8rCwAvNQVIIgg9WSwrBw0vCycDICFAVA=="
+    },
+    {
       "key": "驿站",
       "name": "驿站|弹幕",
       "type": 3,
@@ -249,13 +274,6 @@
       "type": 3,
       "api": "csp_HBgetapp",
       "ext": "eyJob3N0IjoiaHR0cHM6Ly9hcHBjbXMuc3VuNGsudG9wLyIsImtleSI6IllqQXlOV1JqWkRsak1qZzVZMkppTXc9PSIsIml2IjoiWWpBeU5XUmpaRGxqTWpnNVkySmlNdz09In0="
-    },
-    {
-      "key": "miaoying",
-      "name": "秒映|弹幕",
-      "type": 3,
-      "api": "csp_HBgetappapi",
-      "ext": "eyJob3N0IjoiaHR0cDovLzEyMS4yMDQuMjUxLjcwOjEyMDAwLyIsImtleSI6IlJqVXhSalZFTlRKRU1qTkROVEU0TVE9PSIsIml2IjoiUmpVeFJqVkVOVEpFTWpORE5URTRNUT09In0="
     },
     {
       "key": "磁力",
@@ -527,9 +545,35 @@
       "url": "Sequence"
     },
     {
-      "name": "虾米",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "name": "自定：请先设置",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
+    },
+    {
+      "name": "虎斑XM",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
+      "ext": {
+        "header": {
+          "Accept": "*/*",
+          "Origin": "https://jx.xmflv.com"
+        }
+      }
+    },
+    {
+      "name": "虎斑WS",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getWsjx&url="
+    },
+    {
+      "name": "虎斑AB",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
+    },
+    {
+      "name": "虎斑V6",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
     }
   ],
   "flags": [
