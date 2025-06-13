@@ -1849,6 +1849,14 @@
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com"
     },
+        {
+            "key": "火火影视",
+            "name": "火火｜影视",
+            "type": 3,
+            "api": "csp_SaoHuo",
+            "playerType": 2,
+            "ext": "https://shdy5.us"
+        },
     {
       "key": "SeedHub",
       "name": "SeedHub┃磁力",
