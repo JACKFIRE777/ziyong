@@ -482,6 +482,48 @@
       }
     },
     {
+            "key": "诺映",
+            "name": "诺映｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.noad.top",
+                "dataKey": "708FA298F0855840",
+                "dataIv": "708FA298F0855840",
+                "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
+                "version": "103"
+            }
+        },
+    {
+      "key": "晚枫",
+      "name": "晚枫｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://111.180.202.216:999",
+        "dataKey": "fjhndgbjidfhgjsd",
+        "dataIv": "fjhndgbjidfhgjsd",
+        "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
+        "version": "120"
+      }
+    },
+    {
+      "key": "麻花",
+      "name": "麻花｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://49.235.114.19:130",
+        "dataKey": "q7gj4f9br3fls6nh",
+        "dataIv": "q7gj4f9br3fls6nh",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "700"
+      }
+    },
+    {
       "key": "芷白",
       "name": "芷白｜APP",
       "type": 3,
@@ -1126,6 +1168,45 @@
         "version": ""
       }
     },
+        {
+            "key": "柚子",
+            "name": "柚子｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://172.247.192.138:17263",
+                "dataKey": "3f94fca574a811a8",
+                "dataIv": "3f94fca574a811a8",
+                "jxurl": "http://172.247.192.140:12264"
+            }
+        },
+        {
+            "key": "火猫",
+            "name": "火猫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://154.12.90.59:14580",
+                "dataKey": "6b7cf13bf47ba2e6",
+                "dataIv": "6b7cf13bf47ba2e6",
+                "jxurl": "http://app.789dd.cn"
+            }
+        },
+    {
+      "key": "宫阁",
+      "name": "宫阁｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://111.180.198.40:1110",
+        "dataKey": "14deb3a41a955648",
+        "dataIv": "14deb3a41a955648",
+        "jxurl": "https://ww.ndjdnd.icu"
+      }
+    },
     {
       "key": "趣看",
       "name": "趣看｜APP",
@@ -1247,20 +1328,6 @@
         "url": "https://qjappcms.cs4k.top",
         "dataKey": "Z98KXaLtO2wC1Pte",
         "dataIv": "Z98KXaLtO2wC1Pte",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "咖啡4K",
-      "name": "咖啡｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://160.202.243.62:2566",
-        "dataKey": "qwertyuiopqwerty",
-        "dataIv": "qwertyuiopqwerty",
         "deviceId": "",
         "version": "120"
       }
@@ -1849,14 +1916,14 @@
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com"
     },
-        {
-            "key": "火火影视",
-            "name": "火火｜影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "playerType": 2,
-            "ext": "https://shdy5.us"
-        },
+    {
+      "key": "火火影视",
+      "name": "火火｜影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
+    },
     {
       "key": "SeedHub",
       "name": "SeedHub┃磁力",
@@ -2562,6 +2629,22 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {
+            "key": "1",
+            "name": "1｜影视",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod/"
+        },
+        {
+            "key": "顾我",
+            "name": "顾我｜影视",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "ext": "http://121.62.21.14:520/api.php/app/"
+        },
     {
       "key": "APP┃剧下饭",
       "name": "APP┃剧下饭4K",
@@ -2581,6 +2664,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://111.173.115.215:9118/icciu_api.php/v1.vod"
+    },
+    {
+      "key": "影探",
+      "name": "影探4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmszcsj.lfytv.cn/api.php/app/"
     },
     {
       "key": "APP┃臻彩",
@@ -2624,8 +2717,8 @@
       "ext": "https://www.qmjzys.com/api.php/app/"
     },
     {
-      "key": "APP┃QD4K",
-      "name": "APP┃QD影视",
+      "key": "APP┃起点",
+      "name": "APP┃起点",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -2634,8 +2727,8 @@
       "ext": "http://172.83.156.150:1010/api.php/app/"
     },
     {
-      "key": "APP┃HG影视",
-      "name": "APP┃HG影视",
+      "key": "APP┃好感影视",
+      "name": "APP┃好感影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -36666,9 +36759,36 @@
       "type": 3,
       "api": "./py/香蕉APP.py"
     },
+    {  
+       "key": "JS┃彼岸1",
+       "name": "JS┃彼岸4K",
+       "type": 3,
+       "api": "./js/drpy2.min.js",
+       "searchable": 2,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "./js/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"},
     {
-      "key": "静月",
-      "name": "养生|京城",
+      "key": "JS┃gw4k",
+      "name": "JS┃顾我蓝光",
+      "type": 3,
+      "playerType": 2,
+      "api": "./js/AppYsV2.js",
+      "ext": {
+        "host": "http://121.62.21.14:520/api.php/app/",
+        "*": [
+          "http://121.62.21.14:1555/gw.php?url=",
+          "http://114.66.60.101:901/api/?key=t378IIKFY2AEa1lfaU&url="
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 MUOUAPP/10.8.4506.400"
+        }
+      }
+    },
+
+    {
+      "key": "JS┃静月",
+      "name": "JS┃养生|京城",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/养生.js"
