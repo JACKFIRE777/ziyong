@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "http://103.110.80.238:5757/config/1",
-      "name": "道长greenT4"
-    },
-    {
       "url": "http://drpy.mxlgsl.cn/config/1",
       "name": "道长T4"
     },
