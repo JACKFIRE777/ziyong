@@ -564,6 +564,45 @@
       }
     },
     {
+      "key": "uc合集",
+      "name": "🅿uc合集|4K",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./lib/peizhi.json",
+        "share": "./lib/uc合集.json"
+      }
+    },
+    {
+      "key": "阿里合集",
+      "name": "🅿阿里合集|4K",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./lib/peizhi.json",
+        "share": "./lib/阿里合集.json"
+      }
+    },
+    {
+      "key": "115合集",
+      "name": "🅿115合集|4K",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./lib/peizhi.json",
+        "share": "./lib/115合集.json"
+      }
+    },
+    {
       "key": "Youtube",
       "name": "⚡Youtube（墙外）",
       "type": 3,

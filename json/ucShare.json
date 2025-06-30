@@ -18,6 +18,42 @@
         ]
     },
     {
+        "name": "电影",
+        "folders": [
+            {
+                "shareId": "7db3447d6fe84",
+                "folder": "0"
+            }
+        ]
+    },
+    {
+        "name": "动漫",
+        "folders": [
+            {
+                "shareId": "1c5408644d2b4",
+                "folder": "0"
+            }
+        ]
+    },
+    {
+        "name": "电视剧",
+        "folders": [
+            {
+                "shareId": "c218497809fe4",
+                "folder": "0"
+            }
+        ]
+    },
+    {
+        "name": "短剧",
+        "folders": [
+            {
+                "shareId": "b511169d57e54",
+                "folder": "0"
+            }
+        ]
+    },
+    {
         "name": "柏林之声",
         "folders": [
             {

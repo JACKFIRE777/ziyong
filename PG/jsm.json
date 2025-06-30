@@ -68,7 +68,9 @@
 		{"key":"WebDAV","name":"WebDAV[jar]","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":1,"timeout":60,
 			"playerType": 2,
 			"ext":"./lib/webdav.json"},
-		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"timeout":60,"playerType": 2,"ext":"./js/alistjar.json"},
+		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"timeout":60,
+			"playerType": 2,
+			"ext":"./lib/alistjar.json"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
@@ -724,7 +726,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/磁力.txt$$$$$1"
+      "ext": "./lib/tokenm.json$$$./live/磁力.txt$$$$$1"
     },
     {
       "key": "PikPakShare1",
