@@ -5,6 +5,10 @@
       "name": "道长T4"
     },
     {
+      "url": "http://drpy.mxlgsl.cn/config/1?sub=all&pwd=",
+      "name": "T4"
+    },
+    {
       "url": "https://zhxy.eu.org/config/1",
       "name": "类道长T4全"
     },
@@ -14,88 +18,96 @@
     },
     {
       "url": "https://9877.kstore.space/AnotherD/api.json",
-      "name": "在线【潇洒线路】"
+      "name": "【潇洒在线】"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "在线【南风线路】"
+      "name": "【南风在线】"
     },
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
-      "name": "在线【小米线路】"
+      "name": "【小米在线】"
     },
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "name": "在线【巧技线路】"
-    },
-    {
-      "url": "https://hb.xyyh.online/tvbox/",
-      "name": "在线【虎斑线路1】"
-    },
-    {
-      "url": "http://60.211.124.23:10101/hbanbox/?password=",
-      "name": "在线【虎斑线路2】"
+      "name": "【巧技在线】"
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "name": "在线【虎斑线路3】"
+      "name": "【虎斑在线】"
     },
     {
       "url": "http://我不是.摸鱼儿.xyz",
-      "name": "在线【摸鱼线路】"
+      "name": "【摸鱼在线】"
     },
     {
       "url": "http://www.饭太硬.com/tv",
-      "name": "在线【饭太硬线】"
+      "name": "【饭佬在线】"
     },
     {
       "url": "http://肥猫.com",
-      "name": "在线【肥猫线路】"
+      "name": "【肥猫在线】"
     },
 { "url": "https://pan.shangui.cc/f/kKGaHR/蚂蚁接口.txt","name":"蚂蚁接口 264"},
 { "url": "http://jianhan.vip/lcys/lcjk.json","name":"陆城影视"},
     {
-      "name": "在线【心魔线路】",
+      "name": "【心魔在线】",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
     },
     {
       "url": "http://ok321.top/ok",
-      "name": "在线【ok线路】"
+      "name": "【ok在线】"
     },
     {
       "url": "https://欧歌.v.nxog.top/m/",
-      "name": "在线【欧歌线路1】"
+      "name": "【欧歌在线1】"
     },
     {
       "url": "http://tv.nxog.top/m",
-      "name": "在线【欧歌线路2】"
+      "name": "【欧歌在线2】"
+    },
+    {
+      "name": "【枫斗5678在线】",
+      "url": "http://枫斗.top/tv"
+    },
+    {
+      "name": "【枫子5678在线】",
+      "url": "http://www.枫斗.top/tv/fengzi"
+    },
+    {
+      "name": "【枫斗5678在线】",
+      "url": "https://gitee.com/fengdoudev/tv/raw/master/index.json"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "name": "在线【王二小线路】"
+      "name": "【王二小在线】"
+    },
+    {
+      "name": "【拾光在线】",
+      "url": "https://4708.kstore.space/svip/svip.json"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-      "name": "在线【香雅情】"
+      "name": "【香雅情在线】"
     },
     {
       "url": "https://github.moeyy.xyz/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
-      "name": "在线【index18线路】"
+      "name": "【index18在线】"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/18sexN.json",
-      "name": "在线【index18线路】"
+      "name": "【index18在线】"
     },
     {
-      "name": "柒豪｜4k",
+      "name": "【柒豪在线】",
       "url": "http://38.165.20.168/柒豪4K.json"
     },
     {
-      "name": "小马",
+      "name": "【小马在线】",
       "url": "https://szyyds.cn/tv/x.json"
     },
     {
-      "name": "喵影视 ",
+      "name": "【喵影在线】",
       "url": "http://meowtv.cn/tv"
     },
     {
@@ -127,24 +139,8 @@
       "url": "https://chuanshuo.77blog.cn/tv.json"
     },
     {
-      "name": "枫斗5678",
-      "url": "https://gitee.com/fengdoudev/tv/raw/master/index.json"
-    },
-    {
-      "name": "枫斗5678",
-      "url": "http://枫斗.top/tv"
-    },
-    {
-      "name": "枫斗5678",
-      "url": "http://www.枫斗.top/tv/fengzi"
-    },
-    {
       "name": "hg",
       "url": "https://api.hgyx.vip/hgyx.json"
-    },
-    {
-      "name": "拾光",
-      "url": "https://4708.kstore.space/svip/svip.json"
     },
     {
       "name": "公子📚在线",
