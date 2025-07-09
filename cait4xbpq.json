@@ -3,6 +3,29 @@
   "wallpaper": "./img/default_v.jpg",
   "logo": "./img/ICONSGIF.gif",
   "sites": [
+{
+  "key": "SeedHub",
+  "name": "🍀Seed┃4K",
+  "type": 3,
+  "api": "csp_SeedHubGuard",
+  "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-YmSv1q9.png;md5;d6c550913a69efc65f8781b51cbf3de8",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "timeout": 25
+},
+{
+  "key": "kf",
+  "name": "🍫咖啡┃App",
+  "type": 3,
+  "api": "csp_KaFeiGuard",
+  "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/M7YtniF9.png;md5;8a6744d81de5702675ade55f2b80fdcc",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "timeout": 10
+},
+
     {
       "key": "巧┃juzhi",
       "name": "巧┃橘汁|APP",
