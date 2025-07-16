@@ -1,0 +1,541 @@
+{
+  "spider": "./fengdou1.jar",
+  "sites": [
+    {
+      "key": "Notice",
+      "name": "疯子缝合线路",
+      "type": 3,
+      "api": "csp_Douban",
+      "ext": {}
+    },
+    {
+      "key": "glod",
+      "name": "金牌🐢秒播",
+      "type": 3,
+      "api": "csp_Glod",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "FreeOk",
+      "name": "OK🐢秒播",
+      "type": 3,
+      "api": "csp_FreeOk",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "DaGongRen",
+      "name": "打工🐢影视",
+      "type": 3,
+      "api": "csp_DaGongRen",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Ww0ys",
+      "name": "👨农民┃1080P",
+      "type": 3,
+      "api": "csp_WwysGuard",
+      "jar": "./jar/0408.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "https://www.wwgz.cn"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "⏳️️流光┃1080P",
+      "type": 3,
+      "api": "csp_FreeOkGuard",
+      "jar": "/jar/0408.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": ""
+    },
+    {
+      "key": "人人",
+      "name": "⛄️人人┃1080P",
+      "type": 3,
+      "api": "csp_AppGetGuard",
+      "jar": "/jar/0408.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="
+    },
+    {
+      "key": "二三",
+      "name": "🐕二三┃1080P",
+      "type": 3,
+      "api": "csp_AppMuouGuard",
+      "jar": "/jar/0408.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"
+    },
+    {
+      "key": "电影",
+      "name": "🎬电影┃1080P",
+      "type": 3,
+      "api": "csp_AppGetGuard",
+      "jar": "/jar/0408.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgUMrJ+kztENaDom6MWpmmvbZdw38U+pT14qEwywuRW7eny/HInm+UXxpCyI8e5D7Y4kc2n0QBkeQ2Tk5Y0atLMuupC2ZGF68+oMVeX0Px9e9ODSiSspzQH/Rg1Sz5CHp0GKozVTjPIZHhO159i7A1HwZ+kk77Eh0E7AnBTt6qVBX5G+murD+CKjMLYo6MMmsE"
+    },
+    {
+      "key": "享趣",
+      "name": "🔎享趣┃1080P",
+      "type": 3,
+      "api": "csp_AppGetGuard",
+      "jar": "/jar/0408.jar",
+      "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
+    },
+    {
+      "key": "csp_baibai",
+      "name": "🦵白白┃1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_SuBaiBaiGuard",
+      "jar": "/jar/0408.jar",
+      "ext": "https://www.subaibai.com"
+    },
+    {
+      "key": "厂长弹幕",
+      "name": "🏭厂长蓝光🏭",
+      "type": 3,
+      "api": "csp_Czzy",
+      "jar": "./jar/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "Xlys",
+      "name": "修罗🐢影视",
+      "type": 3,
+      "api": "csp_Xlys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "瓜子🎦缝合",
+      "type": 3,
+      "api": "csp_Gz360Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "",
+      "jar": "./lb/ja/fengzi.jar"
+    },
+    {
+      "key": "Tv天堂Dy",
+      "name": "天堂🐢影视",
+      "type": 3,
+      "api": "csp_TvDy",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "One39",
+      "name": "139🐢影视",
+      "type": 3,
+      "api": "csp_One39",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "ikanbot",
+      "name": "机器🐢搜索",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "playerType": 2,
+      "filterable": 0,
+      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
+    },
+    {
+      "key": "csp_Tvyb",
+      "name": "☁️云播☪影視",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "jar": "./jar/LYun.jar",
+      "ext": "http://www.tvyun01.com/"
+    },
+    {
+      "key": "csp_Wetv",
+      "name": "🚗尘落☪影視",
+      "type": 3,
+      "api": "csp_Wetv",
+      "jar": "./jar/LYun.jar"
+    },
+    {
+      "key": "926",
+      "name": "⚽926┃看球",
+      "type": 3,
+      "api": "csp_kanqiu926Guard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "./jar/f0411.txt",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "88",
+      "name": "⚽88┃看球",
+      "type": 3,
+      "api": "csp_Sir88Guard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "./jar/f0411.txt",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "Jianpian",
+      "name": "荐片🐢秒播",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "一个G",
+      "name": "💪毅哥蓝光💪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</span>",
+        "分类url": "https://www.ddmf.net/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "海纳TV",
+      "name": "📺海纳TV📺",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/o.jar",
+      "ext": {
+        "主页url": "https://hainatv.net/",
+        "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"
+      }
+    },
+    {
+      "key": "蝴蝶",
+      "name": "🦋蝴蝶影视🦋",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "https://lz.qaiu.top/d/lz/i5MYu2p7cxoj",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "jar": "./jar/f0411.txt",
+      "playerType": 2,
+      "ext": ""
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "jar": "./jar/f0411.txt",
+      "playerType": 2,
+      "ext": ""
+    },
+    {
+      "key": "低端",
+      "name": "⏮️低端┃外剧",
+      "type": 3,
+      "api": "csp_DdrkGuard",
+      "jar": "./jar/f0411.txt",
+      "playerType": 2,
+      "ext": ""
+    },
+    {
+      "key": "奥特",
+      "name": "🏝奥特┃多线",
+      "type": 3,
+      "api": "csp_AueteGuard",
+      "jar": "./jar/f0411.txt",
+      "playerType": 2,
+      "ext": ""
+    },
+    {
+      "key": "Bili",
+      "name": "哔哩🐢搜索",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "json": "https://gh-proxy.com/github.com/328477124/tvbox/blob/master/json/Bili.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "Xb6v",
+      "name": "6V🐢磁力",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppXY",
+      "name": "🐸上头┃短剧",
+      "type": 3,
+      "api": "csp_AppXYGuard",
+      "jar": "/jar/0408.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": ""
+    },
+    {
+      "key": "AppXY",
+      "name": "枫斗🐢短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "忙无果-道长",
+      "name": "果忙🐢影视",
+      "type": 3,
+      "api": "https://gitee.com/fengdoudev/tv/raw/master/js/mb/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/fengdoudev/tv/raw/master/js/百忙无果[官].js"
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/f0411.txt",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
+      }
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/f0411.txt",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
+      }
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/f0411.txt",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
+      }
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/f0411.txt",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
+      }
+    }
+  ],
+  "parses": [
+    {
+      "name": "吓咪咪",
+      "type": 0,
+      "url": "https:/jx.xmflv.cc/?url="
+    },
+    {
+      "name": "冰斗解析",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "解析线挨",
+      "type": 0,
+      "url": "https://ll9-beta-tos.1ljx.com/_player/?url="
+    },
+    {
+      "name": "1907线路",
+      "type": 0,
+      "url": "https://videocdn.ihelpy.net/jiexi/m1907.html?m1907jx="
+    },
+    {
+      "name": "解析二线",
+      "type": 0,
+      "url": "https:/www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "解析三线",
+      "type": 0,
+      "url": "https:/jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "解析四线",
+      "type": 0,
+      "url": "https:/www.8090g.cn/?url="
+    },
+    {
+      "name": "解析五线",
+      "type": 0,
+      "url": "https:/jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "解析六线",
+      "type": 0,
+      "url": "https:/jx.mmkv.cn/tv.php?url="
+    },
+    {
+      "name": "解析七线",
+      "type": 0,
+      "url": "https:/www.pangujiexi.com/jiexi/?url="
+    },
+    {
+      "name": "解析八线",
+      "type": 0,
+      "url": "https://jx.xmflv.cc/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "lb",
+    "lb",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilbili",
+    "xmm",
+    "xigua",
+    "imgo",
+    "jsm3u8",
+    "m1905"
+  ],
+  "lives": [
+    {
+      "name": "直播一线",
+      "type": "0",
+      "pass": true,
+      "url": "http://xn--oev29b.top/files/tv.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播二线",
+      "type": "0",
+      "pass": true,
+      "url": "https://gitee.com/fengdoudev/tv/raw/master/live/tv.text",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播三线",
+      "type": "0",
+      "pass": true,
+      "url": "https://tv.ok6.ip-ddns.com/IPTV.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播四线",
+      "type": "1",
+      "pass": true,
+      "url": "https://tv.iill.top/m3u/Live",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
