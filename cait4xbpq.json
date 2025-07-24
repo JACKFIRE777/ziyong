@@ -2,6 +2,91 @@
   "spider": "./spider.jar",
   "sites": [
     {
+      "key": "♦云独家4k测试♦",
+      "name": "♦独家试用4k♦",
+      "type": 1,
+      "api": "http://14.103.129.80:906/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "恐怖片",
+        "动作片"
+      ]
+      },
+    {
+"key": "木偶玩偶1",
+"name": "木偶Ⅱ云盘",
+"type": 3,
+"api": "csp_Duopan",
+"jar": "./jar/YHxs.jar",
+"filterable": 1,
+"ext": {
+"site_urls": [
+"http://123.666291.xyz"
+],
+"url_key": "mo",
+"token": "./lib/token.txt",
+"ucCookie": "./lib/uc.txt",
+"quarkCookie": "./lib/quark.txt",
+"threadinfo": {
+"chunksize": 400,
+"threads": 12
+}
+}
+},
+{
+"key": "立播弹幕",
+"name": "立播旧jar",
+"type": 3,
+"api": "csp_Libvio",
+"jar": "./jar/YHxs.jar",
+"searchable": 1,
+"filterable": 1,
+"changeable": 1,
+"ext": {
+"token": "./lib/token.txt",
+"cookie": "/lib/quark.txt",
+"uc_cookie": "./lib/uc.txt",
+"danmu": true
+}
+},
+{
+"key": "木偶玩偶",
+"name": "木偶旧jar",
+"type": 3,
+"api": "csp_Wobg",
+"jar": "./jar/YHxs.jar",
+"quickSearch": 1,
+"changeable": 1,
+"filterable": 1,
+"ext": {
+"token": "./token.txt",
+"cookie": "./lib/quark.txt",
+"uc_cookie": "./lib/uc.txt",
+"site": "https://123.666291.xyz",
+"danmu": true
+}
+},
+{
+"key": "玩偶弹幕",
+"name": "玩偶旧jar",
+"type": 3,
+"api": "csp_Wogg",
+"jar": "./jar/YHxs.jar",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"token": ".lib/token.txt",
+"cookie": "./lib/quark.txt",
+"uc_cookie": "./lib/uc.txt",
+"wogg": true,
+"danmu": true
+}
+},
+    {
       "key": "SeedHub",
       "name": "🍀Seed┃4K",
       "type": 3,
