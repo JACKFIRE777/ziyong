@@ -118,21 +118,33 @@
       "searchable": 1,
       "changeable": 1
     },
+
+{
+  "sites": [
     {
-  "key": "YouTube",
-  "name": "🌍┃YouTube┃官方",
-  "type": 3,
-  "api": "csp_Youtube",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "style": { "type": "rect", "ratio": 1.33 },
-  "ext": {
-    "categories": "音乐#电影#动漫#综艺#纪录片#游戏#体育#科技#教育#新闻#舞蹈#4K#演唱会",
-    "region": "US", 
-    "language": "en"
-  }
-},
+      "key": "Youtube",
+      "name": "🎬 YouTube┃视频",
+      "type": 3,
+      "api": "csp_Youtube",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "spider": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "ext": {
+        "token": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/token.json",
+        "json": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/json/youtube.json",
+        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+        "proxy": "socks5://127.0.0.1:10172",
+        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+        "codecs": "",
+        "danmu": true
+      },
+      "style": { "type": "rect", "ratio": 1.77 }
+    }
+  ]
+}
+
+    
 {
   "key": "YouTube解析",
   "name": "🔗┃YouTube解析",
