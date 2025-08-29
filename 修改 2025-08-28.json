@@ -119,9 +119,7 @@
       "changeable": 1
     },
 
-{
-  "sites": [
-    {
+        {
       "key": "Youtube",
       "name": "🎬 YouTube┃视频",
       "type": 3,
@@ -140,9 +138,7 @@
         "danmu": true
       },
       "style": { "type": "rect", "ratio": 1.77 }
-    }
-  ]
-},
+    },
 
     
 {
