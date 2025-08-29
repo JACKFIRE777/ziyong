@@ -1,9 +1,26 @@
 {
   "spider": "./jar/xyqxbpq.jar",
   "sites": [
-
-{ "key": "单┃live-2", "name": "单┃直转点┃电视", "api": "csp_zb", "categories": null, "click": null, "filterable": null, "hide": -1, "playerType": 1, "playerUrl": null, "quickSearch": 0, "searchable": 0, "type": 3, "status": 1, "jar": "./jar/zb.jar", "ext": "ziyong┃本地$./live/ziyong.txt#电台┃本地$./live/电台.txt#MV┃本地$./live/MTV.txt#电台┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#live$http://woniuxs.free.nf/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界$https://www.xn--rgv465a.top/live/live.txt#「体育」订阅$https://smart.pendy.dpdns.org/m3u/judy.m3u#玉兔$http://lzo.xh.sd/lives/玉兔.txt#18+直播$http://lzo.xh.sd/lives/18TV.txt#18+影视$http://lzo.xh.sd/lives/18+.txt#一本道$http://lzo.xh.sd/lives/一本道.txt#一本正经道$http://lzo.xh.sd/lives/一本正经道.txt#大洋马国际$http://lzo.xh.sd/lives/大洋马国际.txt麻豆传媒$https://pan.jl8.top/down.php/882ef80c32c262ebf4c0cfb3e725f459.txt#秒播LIST$https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt#秒播91LIST$https://mpimg.cn/down.php/25da10b0cb7b90d422ae22852bd7d414.txt#岛国 4K$https://www.jsonav.xyz/v.txt#美女直播$https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt" },
-{ "key": "单┃MGTV", "name": "单┃MGTV", "type": 3, "api": "csp_MGTV", "jar": "./jar/top98_1.jar" },
+    {
+      "key": "单┃live-2",
+      "name": "单┃直转点┃电视",
+      "api": "csp_zb",
+      "type": 3,
+      "jar": "./jar/zb.jar",
+      "playerType": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "hide": -1,
+      "status": 1,
+      "ext": "ziyong┃本地$./live/ziyong.txt#电台┃本地$./live/电台.txt#MV┃本地$./live/MTV.txt#电台┃在线$https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u#16万•MV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt#live$http://woniuxs.free.nf/live.txt#猫TV直播②$http://rihou.cc:567/gggg.nzk#itvlist$https://github.moeyy.xyz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#无界$https://www.xn--rgv465a.top/live/live.txt#「体育」订阅$https://smart.pendy.dpdns.org/m3u/judy.m3u#玉兔$http://lzo.xh.sd/lives/玉兔.txt#18+直播$http://lzo.xh.sd/lives/18TV.txt#18+影视$http://lzo.xh.sd/lives/18+.txt#一本道$http://lzo.xh.sd/lives/一本道.txt#一本正经道$http://lzo.xh.sd/lives/一本正经道.txt#大洋马国际$http://lzo.xh.sd/lives/大洋马国际.txt#麻豆传媒$https://pan.jl8.top/down.php/882ef80c32c262ebf4c0cfb3e725f459.txt#秒播LIST$https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt#秒播91LIST$https://mpimg.cn/down.php/25da10b0cb7b90d422ae22852bd7d414.txt#岛国 4K$https://www.jsonav.xyz/v.txt#美女直播$https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt"
+    },
+    {
+      "key": "单┃MGTV",
+      "name": "单┃MGTV",
+      "type": 3,
+      "api": "csp_MGTV",
+      "jar": "./jar/top98_1.jar"
+    },
     {
       "key": "真┃bili",
       "name": "真┃B站",
@@ -13,22 +30,108 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "type": "象棋#AI绘世#DeepSeek#豆包#‌ChatGPT#Kimi#腾讯元宝#秘塔AI#睡前故事#儿童#小灯塔百科#小灯塔地理#小灯塔国学#小灯塔科学#小灯塔人文#儿童口才#儿童拼音#儿童英语#儿童思维#儿童识字#小灯塔百科#彩调#京剧#少儿教育#美女#小姐姐#小学课堂#初中课堂#高中课堂#搭讪#搭配#外语#MTV#美食#幼儿乐园#幼儿启蒙#幼小衔接#中华命理#中华文化#中华文化#中华武术#中华医学#歌舞#短剧#猫影视#tvbox#吞噬星空#全民转职#全民觉醒#全球进化#SSS级天赋#汪汪队#动画片#声律启蒙#鬼畜#沙雕动漫#动漫#日本动漫#动漫合集#动漫合辑#电影#电视剧#软件教程#Windows#解说合集#鬼畜#解说#演讲#说案#戏曲#相声#小品#国产动漫#演唱会#科幻片#知名UP主#广场舞#纪录片#综艺#音乐#歌曲#影视#户外#MV#4K#8K",
+        "type": "象棋#AI绘世#DeepSeek#豆包#ChatGPT#Kimi#腾讯元宝#秘塔AI#睡前故事#儿童#小灯塔百科#小灯塔地理#小灯塔国学#小灯塔科学#小灯塔人文#儿童口才#儿童拼音#儿童英语#儿童思维#儿童识字#小灯塔百科#彩调#京剧#少儿教育#美女#小姐姐#小学课堂#初中课堂#高中课堂#搭讪#搭配#外语#MTV#美食#幼儿乐园#幼儿启蒙#幼小衔接#中华命理#中华文化#中华武术#中华医学#歌舞#短剧#猫影视#tvbox#吞噬星空#全民转职#全民觉醒#全球进化#SSS级天赋#汪汪队#动画片#声律启蒙#鬼畜#沙雕动漫#动漫#日本动漫#动漫合集#动漫合辑#电影#电视剧#软件教程#Windows#解说合集#演讲#说案#戏曲#相声#小品#国产动漫#演唱会#科幻片#知名UP主#广场舞#纪录片#综艺#音乐#歌曲#影视#户外#MV#4K#8K",
         "cookie": "buvid3=92B3082F-01B3-8514-1693-DC6CDABFDF6E60645infoc; b_nut=1712934160; b_lsid=F3118FEB_18ED2D50A72; bsource=search_bing; _uuid=63E61023C-8F1C-87FF-7FA9-DD421BDC664C61079infoc; buvid4=DDADD70B-8D13-FBDC-5088-AD2A1BFC816461235-124041215-uKJB6w+MFFJdcQXesRbdQQ%3D%3D; enable_web_push=DISABLE; FEED_LIVE_VERSION=V_WATCHLATER_PIP_WINDOW3; header_theme_version=undefined; bmg_af_switch=1; bmg_src_def_domain=i1.hdslb.com; home_feed_column=4; buvid_fp=94a4e8bd362a778053e35b54ef57f288; SESSDATA=bb88cd4e%2C1728486293%2C46d70%2A41CjCW64w0Sz3"
-      },
-{"key": "T4-bmtv","name": "T4┃B站-MTV","type": 4,"api": "https://catbox.n13.club/t9/bili.php?id=bMTV"},
-{ "key": "cntv_full┃Bookan", "name": "博看", "type": 3, "api": "csp_Bookan", "jar": "./jar/cntv_full.jar", "searchable": 1, "quickSearch": 1, "changeable": 1 },
-{ "key": "cntv_full┃Xb6v", "name": "🧲6V磁力", "type": 3, "api": "csp_Xb6v", "jar": "./jar/cntv_full.jar", "playerType": "2" },
-{ "key": "cntv_full┃看球", "name": "⚾┃看球┃直播", "type": 3, "api": "csp_Kanqiu", "jar": "./jar/cntv_full.jar", "searchable": 1, "quickSearch": 1, "changeable": 0, "gridview": 3, "style": { "type": "list" } },
-{ "key": "cntv_full┃央视大全", "name": "央视大全", "type": 3, "api": "csp_CCTV", "jar": "./jar/cntv_full.jar", "searchable": 0, "changeable": 0 },
-{ "key": "单┃CCTV", "name": "单┃CCTV", "type": 3, "api": "csp_CCTV", "jar": "./jar/local.jar", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "单┃Music", "name": "单┃Music", "type": 3, "api": "csp_Music", "jar": "./jar/xq.jar" },
-{ "key": "单┃移动云盘", "name": "单┃移动┃免扫", "type": 3, "api": "csp_YDjisu", "searchable": 1, "changeable": 1, "jar": "./jar/移动极速.jar" },
-{ "key": "单┃机器人弹幕", "name": "单┃爱看机器人", "type": 3, "jar": "./jar/爱看.jar", "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "油管播放列表1", "name": "T4┃油管播放列表1", "type": 4, "api": "http://zhangqun1818.serv00.net/ytlb.php", "style": { "type": "rect", "ratio": 1.33 }, "searchable": 1, "changeable": 1 },
-{ "key": "油管播放列表2", "name": "T4┃油管播放列表2", "type": 4, "api": "http://zhangqun1818.serv00.net/ytlb1.php", "searchable": 1, "style": { "type": "rect", "ratio": 1.33 }, "changeable": 1 }
-
-
-    
-    ]
+      }
+    },
+    {
+      "key": "T4-bmtv",
+      "name": "T4┃B站-MTV",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=bMTV"
+    },
+    {
+      "key": "cntv_full┃Bookan",
+      "name": "博看",
+      "type": 3,
+      "api": "csp_Bookan",
+      "jar": "./jar/cntv_full.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "cntv_full┃Xb6v",
+      "name": "🧲6V磁力",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "jar": "./jar/cntv_full.jar",
+      "playerType": "2"
+    },
+    {
+      "key": "cntv_full┃看球",
+      "name": "⚾┃看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "jar": "./jar/cntv_full.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "cntv_full┃央视大全",
+      "name": "央视大全",
+      "type": 3,
+      "api": "csp_CCTV",
+      "jar": "./jar/cntv_full.jar",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "单┃CCTV",
+      "name": "单┃CCTV",
+      "type": 3,
+      "api": "csp_CCTV",
+      "jar": "./jar/local.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "单┃Music",
+      "name": "单┃Music",
+      "type": 3,
+      "api": "csp_Music",
+      "jar": "./jar/xq.jar"
+    },
+    {
+      "key": "单┃移动云盘",
+      "name": "单┃移动┃免扫",
+      "type": 3,
+      "api": "csp_YDjisu",
+      "jar": "./jar/移动极速.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "单┃机器人弹幕",
+      "name": "单┃爱看机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "./jar/爱看.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "油管播放列表1",
+      "name": "T4┃油管播放列表1",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/ytlb.php",
+      "style": { "type": "rect", "ratio": 1.33 },
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "油管播放列表2",
+      "name": "T4┃油管播放列表2",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/ytlb1.php",
+      "style": { "type": "rect", "ratio": 1.33 },
+      "searchable": 1,
+      "changeable": 1
+    }
+  ]
 }
