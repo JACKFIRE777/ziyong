@@ -12,9 +12,16 @@
     { "key": "单┃Music", "name": "Music", "type": 3, "api": "csp_Music", "jar": "./jar/xq.jar" },
     { "key": "单┃移动云盘", "name": "移动┃免扫", "type": 3, "api": "csp_YDjisu", "jar": "./jar/移动极速.jar", "searchable": 1, "changeable": 1 },
     { "key": "单┃机器人弹幕", "name": "单┃爱看机器人", "type": 3, "api": "csp_Ikanbot", "jar": "./jar/爱看.jar", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "油管播放列表1", "name": "T4┃油管播放列表1", "type": 4, "api": "http://zhangqun1818.serv00.net/ytlb.php", "style": { "type": "rect", "ratio": 1.33 }, "searchable": 1, "changeable": 1 },
-    { "key": "Youtube", "name": "🎬 YouTube┃视频", "type": 3, "api": "csp_Youtube", "searchable": 1, "quickSearch": 0, "changeable": 0, "spider": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9", "ext": { "token": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/token.json", "json": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/json/youtube.json", "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary", "proxy": "socks5://127.0.0.1:10172", "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐", "codecs": "", "danmu": true }, "style": { "type": "rect", "ratio": 1.77 } },
-    { "key": "YouTube解析", "name": "🔗┃YouTube解析", "type": 1, "url": "https://jx.jsonplayer.com/player/?url=" },
-    { "key": "油管播放列表2", "name": "T4┃油管播放列表2", "type": 4, "api": "http://zhangqun1818.serv00.net/ytlb1.php", "style": { "type": "rect", "ratio": 1.33 }, "searchable": 1, "changeable": 1 }
+{
+  "key": "油管播放列表1",
+  "name": "T4┃油管播放列表1",
+  "type": 4,
+  "api": "http://zhangqun1818.serv00.net/ytlb.php",
+  "style": { "type": "rect", "ratio": 1.33 },
+  "searchable": 1,
+  "changeable": 1,
+  "proxy": "socks5://127.0.0.1:10808"
+},
+
   ]
 }
