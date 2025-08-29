@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "单┃live-2",
-      "name": "单┃直转点┃电视",
+      "name": "直转点┃电视",
       "api": "csp_zb",
       "type": 3,
       "jar": "./jar/zb.jar",
@@ -16,7 +16,7 @@
     },
     {
       "key": "真┃bili",
-      "name": "真┃B站",
+      "name": "B站",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -30,13 +30,13 @@
     },
     {
       "key": "T4-bmtv",
-      "name": "T4┃B站-MTV",
+      "name": "B站-MTV",
       "type": 4,
       "api": "https://catbox.n13.club/t9/bili.php?id=bMTV"
     },
     {
       "key": "cntv_full┃Bookan",
-      "name": "博看",
+      "name": "电子书-博看",
       "type": 3,
       "api": "csp_Bookan",
       "jar": "./jar/cntv_full.jar",
